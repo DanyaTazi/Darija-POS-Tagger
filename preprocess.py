@@ -29,6 +29,6 @@ def parse_corpus(xml_file):
     return corpus_data
 
 # Example usage:
-corpus_file = 'morv.xml'
+corpus_file = 'test.xml'
 parsed_corpus = parse_corpus(corpus_file)
 print("Succesfully Pre Processed")
