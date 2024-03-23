@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- MORV  Moroccan mORphological Vocabulary -->
+<!-- Created By : Tachicart Ridouane and Bouzoubaa Karim -->
+<!-- To cite us please refer to : 
+Ridouane Tachicart, Karim Bouzoubaa,
+Moroccan Arabic vocabulary generation using a rule-based approach,
+Journal of King Saud University - Computer and Information Sciences,
+Volume 34, Issue 10, Part A,
+2022,
+Pages 8538-8548,
+ISSN 1319-1578,
+https://doi.org/10.1016/j.jksuci.2021.02.013.
+(https://www.sciencedirect.com/science/article/pii/S1319157821000525)
+-->
+<Lexicon >
+<LE word="ماكاتدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="ماكات"  form="active"  tense="present"  number="singular"  gender="masculin"  pers="2"/>
+<LE word="وماكاتدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="وماكات"  negation="yes"  tense="present"  number="singular"  gender="masculin"  pers="2"/>
+<LE word="ماكاتدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="ماكات"  negation="yes"  tense="present"  number="singular"  gender="feminine"  pers="3"/>
+<LE word="وماكاتدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="وماكات"  negation="yes"  tense="present"  number="singular"  gender="feminine"  pers="3"/>
+<LE word="ماتاتدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="ماتات"  negation="yes"  tense="present"  number="singular"  gender="masculin"  pers="2"/>
+<LE word="وماتاتدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="وماتات"  negation="yes"  tense="present"  number="singular"  gender="masculin"  pers="2"/>
+<LE word="ماتاتدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="ماتات"  negation="yes"  tense="present"  number="singular"  gender="feminine"  pers="3"/>
+<LE word="وماتاتدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="وماتات"  negation="yes"  tense="present"  number="singular"  gender="feminine"  pers="3"/>
+<LE word="ماكايدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="ماكاي"  negation="yes"  tense="present"  number="singular"  gender="masculin"  pers="3"/>
+<LE word="وماكايدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="وماكاي"  negation="yes"  tense="present"  number="singular"  gender="masculin"  pers="3"/>
+<LE word="ماتاندأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="ماتان"  negation="yes"  tense="present"  number="singular"  gender="all"  pers="1"/>
+<LE word="وماتاندأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="وماتان"  negation="yes"  tense="present"  number="singular"  gender="all"  pers="1"/>
+<LE word="ماكاندأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="ماكان"  negation="yes"  tense="present"  number="singular"  gender="all"  pers="1"/>
+<LE word="وماكاندأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="وماكان"  negation="yes"  tense="present"  number="singular"  gender="all"  pers="1"/>
+<LE word="ماتايدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="ماتاي"  negation="yes"  tense="present"  number="singular"  gender="masculin"  pers="3"/>
+<LE word="وماتايدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="وماتاي"  negation="yes"  tense="present"  number="singular"  gender="masculin"  pers="3"/>
+<LE word="ماندأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="مان"  negation="yes"  tense="present"  number="singular"  gender="all"  pers="1"/>
+<LE word="وماندأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="ومان"  negation="yes"  tense="present"  number="singular"  gender="all"  pers="1"/>
+<LE word="ماغيدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="ماغي"  negation="yes"  tense="futur"  number="singular"  gender="masculin"  pers="3"/>
+<LE word="وماغيدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="وماغي"  negation="yes"  tense="futur"  number="singular"  gender="masculin"  pers="3"/>
+<LE word="ماغتدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="ماغت"  negation="yes"  tense="futur"  number="singular"  gender="masculin"  pers="2"/>
+<LE word="وماغتدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="وماغت"  negation="yes"  tense="futur"  number="singular"  gender="masculin"  pers="2"/>
+<LE word="ماغتدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="ماغت"  negation="yes"  tense="futur"  number="singular"  gender="feminine"  pers="3"/>
+<LE word="وماغتدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="وماغت"  negation="yes"  tense="futur"  number="singular"  gender="masculin"  pers="2"/>
+<LE word="وماغتدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="وماغت"  negation="yes"  tense="futur"  number="singular"  gender="feminine"  pers="3"/>
+<LE word="ماغندأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="ماغن"  negation="yes"  tense="futur"  number="singular"  gender="all"  pers="1"/>
+<LE word="وماغندأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="وماغن"  negation="yes"  tense="futur"  number="singular"  gender="all"  pers="1"/>
+<LE word="ماتدأبش"  msa="دأب"  lemma="دأب"  pos="verb"  transitivity="yes"  root="دءب"  origin="Arabic"  suffix="ش"  prefix="مات"  negation="yes"  tense="present"  number="singular"  gender="masculin"  pers="2"/>
+
+</Lexicon>
