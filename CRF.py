@@ -1,14 +1,14 @@
 from sklearn_crfsuite import CRF
 from sklearn.model_selection import train_test_split
 from sklearn_crfsuite import metrics
-from preprocess import parse_corpus
+from preconllu import parse_corpus
 
 # Load preprocessed data
-corpus_file = 'morv.XML'
+corpus_file = 'TrainArabizi.conllu'
 X, y = parse_corpus(corpus_file)
 
 # Split the data into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=None)
 
 # Initialize and train CRF
 model = CRF()

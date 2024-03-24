@@ -1,0 +1,2841 @@
+# sent_id = 1810
+# text = eh benh man jadda wadjad waman zara3a hassad elli ta3bo nchalah enajah wlokhrine mel ahsane esanw
+# trad_fr = Eh ben celui qui bosse trouve et celui qui sème récolte le labeur de ceux qui ont travaillé j'espère la réussite et pour les autres le mieux attendre
+# error = manquante (ajout djamé) 
+# file = ../../../../7_UD_Remaining_Annotations/DATA_GOLD/1500_GOLDsentences_annotatedByFarah/Last_version_900_GOLD.conllu
+1       eh      eh      INTJ    I       _       2       discourse       _       lang=ar_dz|ComposedUDPOS=INTJ
+2       benh    ben     INTJ    I       _       4       discourse       _       lang=ar_dz|ComposedUDPOS=INTJ
+3       man     qui     PRON    PROREL  PronType=Rel    4       nsubj   _       lang=ar_dz|ComposedUDPOS=PRON
+4       jadda   bosse   VERB    V3ms    Gendeàr=Masc|Number=Sing|Person=3        0       root    _       lang=ar_dz|ComposedUDPOS=VERB
+5       wadjad  trouve  VERB    V3ms    Gender=Masc|Number=Sing|Person=3        4       xcomp   _       lang=ar_dz|ComposedUDPOS=VERB
+9       hassad  récolte VERB    V3ms    Gender=Masc|Number=Sing|Person=3        8       xcomp   _       lang=ar_dz|ComposedUDPOS=VERB
+10      elli    ceux    PRON    PROREL  PronType=Rel    11      nsubj   _       lang=ar_dz|ComposedUDPOS=PRON
+11      ta3bo   ont travaillé   VERB    V3mp    Gender=Masc|Number=Plur|Person=3        4       parataxis       _       lang=ar_dz|ComposedUDPOS=VERB
+12      nchalah inchaAllah      INTJ    I       _       14      discourse       _       lang=ar_dz|ComposedUDPOS=INTJ
+13-14   enajah  _       _       _       _       _       _       _       lang=ar_dz
+13      e       la      DET     DET     _       14      det     _       SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+14      najah   réuissite       NOUN    NC      _       11      obj     _       lang=ar_dz|ComposedUDPOS=NOUN
+15-17   wlokhrine       _       _       _       _       _       _       _       lang=ar_dz
+15      w       et      CCONJ   CC      _       17      cc      _       SpaceAfter=No|lang=ar_dz|ComposedUDPOS=CCONJ
+16      l       les     DET     DET     _       17      det     _       SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+17      okhrine autres  PRON    PROREL  PronType=Rel    20      nsubj   _       lang=ar_dz|ComposedUDPOS=PRON
+18      mel     de le   ADP     P+DET   AdpType=Prep    19      case    _       lang=ar_dz|ComposedUDPOS=ADP+DET
+19      ahsane  mieux   ADJ     ADJ     _       17      amod    _       lang=ar_dz|ComposedUDPOS=ADJ
+20      esanw   attendre        VERB    V3mp    Gender=Masc|Number=Plur|Person=3        4       parataxis       _       lang=ar_dz|ComposedUDPOS=VERB
+
+# sent_id = 4447
+# text = ntouma ma3labalkomch ja bladna director general ta3 cannal+ ewa appres ki masha 3la alger chaf danya ka3 barabollat alors f conference m3a press 9alhoum algerie champion du monde f barabol? chafto kifach tbahdila wallah hada li dar 9anoun ya3tih saha bazaf ? ness tabki parcewue khlas ya pas xxxx amcho tobo ila allah allah yahdina wa iyakom amin ya rabi
+# trad_fr = vous vous ne savez pas est venu notre pays directeur general de Canal + et apr√®s quand partir il pour alg√©rienne l'ont vu l'environnement tout parabols alors dans conf√©rence avec presse il leur a dit Alg√©rie champions du monde dans parabole ? vous avez vu comment Oh la honte je te jure ce qui la maison loi lui donne sant√© beaucoup ? les gens tu pleure parceque say√© oh pas xxxx partez repentir que Dieu Dieu nous emporte et vous amin oh que Dieu
+1	ntouma	vous	PRON	CLS-SUJ	_	2	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+2	ma3labalkomch	pas dans votre conscience	NOUN	PART-NEG+P+NC+POSS	Polarity=Neg|AdpType=Prep|Possessive=Yes	3	nmod	_	lang=ar_dz|ComposedUDPOS=PART+ADP+NOUN+PRON
+3	ja	venir il	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+4	bladna	pays notre	NOUN	NC+POSS	Possessive=Yes	3	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+5	director	directeur	NOUN	NC	_	4	nmod	_	lang=fr|ComposedUDPOS=NOUN
+6	general	g√©n√©ral	ADJ	ADJ	_	5	amod	_	lang=fr|ComposedUDPOS=ADJ
+7	ta3	de	ADP	P	AdpType=Prep	8	case	_	lang=ar_dz|ComposedUDPOS=ADP
+8	cannal+	canal+	PROPN	NPP	_	5	nmod	_	lang=fr|ComposedUDPOS=PROPN
+9	ewa	et	CCONJ	CC	_	12	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+10	appres	apr√®s	ADV	ADV	_	12	advmod	_	lang=fr|ComposedUDPOS=ADV
+11	ki	quand	ADP	P	AdpType=Prep	12	case	_	lang=ar_dz|ComposedUDPOS=ADP
+12	masha	partir il	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	3	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+13	3la	√†	ADP	P	AdpType=Prep	14	case	_	lang=ar_dz|ComposedUDPOS=ADP
+14	alger	Alger	PROPN	NPP	_	12	obl	_	lang=fr|ComposedUDPOS=PROPN
+15	chaf	voir il	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	12	ccomp	_	lang=ar_dz|ComposedUDPOS=VERB
+16	danya	monde	NOUN	NC	_	15	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+17	ka3	tout	ADV	ADV	_	18	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+18	barabollat	parabols	NOUN	NC	_	16	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+19	alors	alors	SCONJ	CS	_	24	mark	_	lang=fr|ComposedUDPOS=SCONJ
+20	f	dans	ADP	P	AdpType=Prep	21	case	_	lang=ar_dz|ComposedUDPOS=ADP
+21	conference	conf√©rence	NOUN	NC	_	24	obl	_	lang=fr|ComposedUDPOS=NOUN
+22	m3a	avec	ADP	P	AdpType=Prep	23	case	_	lang=ar_dz|ComposedUDPOS=ADP
+23	press	presse	NOUN	NC	_	24	obl	_	lang=fr|ComposedUDPOS=NOUN
+24	9alhoum	dire √† eux	VERB	V3ms+CLO-OBJ	Gender=Masc|Number=Sing|Person=3	15	advcl	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+25	algerie	Alg√©rie	PROPN	NPP	_	24	obj	_	lang=fr|ComposedUDPOS=PROPN
+26	champion	champions	NOUN	NC	_	25	nmod	_	lang=fr|ComposedUDPOS=NOUN
+27	du	du	ADP	P+DET	AdpType=Prep	28	case	_	lang=fr|ComposedUDPOS=ADP+DET
+28	monde	monde	NOUN	NC	_	26	nmod	_	lang=fr|ComposedUDPOS=NOUN
+29	f	dans	ADP	P	AdpType=Prep	30	case	_	lang=ar_dz|ComposedUDPOS=ADP
+30	barabol?	parabole ?	NOUN	NC+PONCT	_	24	obl	_	lang=fr|ComposedUDPOS=NOUN+PUNCT
+31	chafto	vous voyez	VERB	V2mp	Gender=Masc|Number=Plur|Person=2	3	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+32	kifach	comment	ADV	ADVWH	_	33	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+33	tbahdila	honte	NOUN	NC	_	31	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+34	wallah	Wallah	INTJ	I	_	35	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+35	hada	ce	PRON	DEM	PronType=Dem	3	parataxis	_	lang=ar_dz|ComposedUDPOS=PRON
+36	li	qui	PRON	PROREL	PronType=Rel	37	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+37	dar	faire	VERB	V	_	35	acl:relcl	_	lang=ar_dz|ComposedUDPOS=VERB
+38	9anoun	loi	NOUN	NC	_	37	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+39	ya3tih	il donner lui	VERB	V3ms+CLO-OBJ	Gender=Masc|Number=Sing|Person=3	37	ccomp	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+40	saha	sant√©	NOUN	NC	_	39	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+41	bazaf	beaucoup	ADV	ADV	_	40	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+42	?	?	PUNCT	PONCT	_	35	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+43	ness	gens	NOUN	NC	_	44	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN
+44	tabki	pleurer ils	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	3	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+45	parcewue	parceque	SCONJ	CS	_	47	mark	_	lang=fr|ComposedUDPOS=SCONJ
+46	khlas	√ßa_y_est	INTJ	I	_	47	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+47	ya	il n'y a	VERB	CLO-OBJ+ADV-MOD+CLS-SUJ+V	Polarity=Neg	44	advcl	_	lang=ar_dz|ComposedUDPOS=PRON+ADV+PRON+VERB
+48	pas	pas	ADV	ADV-MOD	Polarity=Neg	47	advmod	_	lang=fr|ComposedUDPOS=ADV
+49	xxxx	xxxx	PUNCT	PONCT	_	44	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+50	amcho	allez	VERB	VIMP	Mood=Imp	3	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+51	tobo	repentir	VERB	VIMP	Mood=Imp	50	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+52	ila	√†	ADP	P	AdpType=Prep	53	case	_	lang=ar_dz|ComposedUDPOS=ADP
+53	allah	Allah	PROPN	NPP	_	51	obl	_	lang=ar_dz|ComposedUDPOS=PROPN
+54	allah	Allah	PROPN	NPP	_	55	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+55	yahdina	guider nous	VERB	V+CLO	_	3	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+56	wa	et	CCONJ	CC	_	57	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+57	iyakom	vous	PRON	PRO	_	55	conj:coord	_	lang=ar_dz|ComposedUDPOS=PRON
+58	amin	amin	INTJ	I	_	55	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+59	ya	oh	INTJ	VOC	_	60	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+60	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	55	vocative	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+
+# sent_id = 913
+# text = il a raison puisque la venir l a venir dyalo avant tout yjiboh yel3ab un matche et yhawzoh
+# trad_fr = il a raison puisque l' avenir l' avenir √† lui avant tout il ramene du jeu un match et l'ejecte
+1	il	il	PRON	CLS-SUJ	_	2	nsubj	_	lang=fr|ComposedUDPOS=PRON
+2	a	a	VERB	V	_	0	root	_	lang=fr|ComposedUDPOS=VERB
+3	raison	raison	NOUN	NC	_	2	obj	_	lang=fr|ComposedUDPOS=NOUN
+4	puisque	puisque	SCONJ	CS	_	6	case	_	lang=fr|ComposedUDPOS=SCONJ
+5	la	l'	DET	DET	_	6	det	_	lang=fr|ComposedUDPOS=DET
+6	venir	avenir	NOUN	NC	_	2	parataxis	_	lang=fr|ComposedUDPOS=NOUN
+7	l	l'	DET	DET	_	8	det	_	lang=fr|ComposedUDPOS=DET
+8	a venir	avenir	NOUN	NC	_	6	nmod	_	lang=fr|ComposedUDPOS=NOUN
+9	dyalo	√†	PRON	PRO+P	AdpType=Prep	8	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP
+10	avant	avant	ADP	P	AdpType=Prep	12	case	_	lang=fr|ComposedUDPOS=ADP
+11	tout	tout	ADV	ADV	_	10	fixed	_	lang=fr|ComposedUDPOS=ADV
+12	yjiboh	il ramene	VERB	V3mp+CLO	Gender=Masc|Number=Plur|Person=3	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+13	yel3ab	jouer	VERB	V	_	12	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+14	un	un	DET	DET	_	15	det	_	lang=fr|ComposedUDPOS=DET
+15	matche	match	NOUN	NC	_	13	obj	_	lang=fr|ComposedUDPOS=NOUN
+16	et	et	CCONJ	CC	_	17	cc	_	lang=fr|ComposedUDPOS=CCONJ
+17	yhawzoh	l'ejecte	VERB	V3mp+CLO	Gender=Masc|Number=Plur|Person=3	12	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+
+# sent_id = M3S19
+# text = 7atoh f sachie o b3et tayech l al be7ar
+# trad_fr = Ils l'ont mis dans un sachet et l'envoie et jete √† la mer
+1	7atoh	il met	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	f	dans	ADP	P	AdpType=Prep	3	case	_	lang=ar_dz|ComposedUDPOS=ADP
+3	sachie	sachet	NOUN	NC	_	1	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+4	o	et	CCONJ	CC	_	5	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+5	b3et	il envoie	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+6	tayech	perdu	ADJ	ADJ	_	5	obj	_	lang=ar_dz|ComposedUDPOS=ADJ
+7	l	√†	ADP	P	AdpType=Prep	9	case	_	lang=ar_dz|ComposedUDPOS=ADP
+8	al	la	DET	DET	_	9	det	_	lang=ar_dz|ComposedUDPOS=DET
+9	be7ar	mere	NOUN	NC	_	5	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = 4574
+# text = in challah saifi ayder hadja ma3a el farik el watani
+# trad_fr = si inchaAllah Saifi faire il un truc avec le √©quipe le nation
+1	in	si	INTJ	YM	_	4	discourse	_	lang=ar_dz|ComposedUDPOS=X
+2	challah	veut dieu	INTJ	I	_	1	goeswith	_	lang=ar_dz|ComposedUDPOS=INTJ
+3	saifi	Saifi	PROPN	NPP	_	4	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+4	ayder	faire il	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+5	hadja	chose	NOUN	NC	_	4	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+6	ma3a	avec	ADP	P	AdpType=Prep	8	case	_	lang=ar_dz|ComposedUDPOS=ADP
+7	el	le	DET	DET	_	8	det	_	lang=ar_dz|ComposedUDPOS=DET
+8	farik	√©quipe	NOUN	NC	_	4	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+9	el	le	DET	DET	_	10	det	_	lang=ar_dz|ComposedUDPOS=DET
+10	watani	nationale	ADJ	ADJ	_	8	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+
+# sent_id = 2060
+# text = allah yahafdak w ykhalika lina ya Mr le pr√©sident w tahia bouteflika w rana m3ak
+# trad_fr = Dieu te prot√®ge et te laisse √† nous oh monsieur le pr√©sident et vive Bouteflika et nous sommes avec toi
+1	allah	Dieu	PROPN	NPP	_	2	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+2	yahafdak	te prot√®ge	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+3	w	et	CCONJ	CC	_	4	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+4	ykhalika	te laisse	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	2	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+5	lina	√† nous	PRON	P+PRO	AdpType=Prep	2	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+6	ya	oh	INTJ	VOC	_	7	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+7	Mr	monsieur	NOUN	NC	_	9	nmod	_	lang=fr|ComposedUDPOS=CCONJ
+8	le	le	DET	DET	_	9	det	_	lang=fr|ComposedUDPOS=DET
+9	pr√©sident	pr√©sident	NOUN	NC	_	2	obj	_	lang=fr|ComposedUDPOS=NOUN
+10	w	et	CCONJ	CC	_	11	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+11	tahia	vive	INTJ	I	_	12	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+12	bouteflika	Bouteflika	PROPN	NPP	_	2	parataxis	_	lang=ar_dz|ComposedUDPOS=PROPN
+13	w	et	CCONJ	CC	_	14	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+14	rana	nous sommes	VERB	V	_	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+15	m3ak	avec toi	PRON	P+PRO	AdpType=Prep	14	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+
+# sent_id = 1629
+# text = c aussi notre responsabilit√© kom musulmans samehna 3ami mohamed pour le mal ki t arriwe
+# trad_fr = c'est aussi de notre responsabilit√© comme musulmans pardonne nous mon oncle Mohamed pour le mal qui t' arrive
+1	c	c'est	VERB	CLS-SUJ+V	_	0	root	_	lang=fr|ComposedUDPOS=PRON+VERB
+2	aussi	aussi	ADV	ADV	_	1	advmod	_	lang=fr|ComposedUDPOS=ADV
+3	notre	notre	DET	DET	_	4	det	_	lang=fr|ComposedUDPOS=DET
+4	responsabilit√©	responsabilit√©	NOUN	NC	_	1	obj	_	lang=fr|ComposedUDPOS=NOUN
+5	kom	comme	ADP	P	AdpType=Prep	6	case	_	lang=fr|ComposedUDPOS=ADP
+6	musulmans	musulmans	NOUN	NC	_	1	obl	_	lang=fr|ComposedUDPOS=NOUN
+7	samehna	nous pardonne	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+8	3ami	mon oncle	NOUN	NC+POSS	Possessive=Yes	7	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+9	mohamed	Mohamed	PROPN	NPP	_	8	appos	_	lang=ar_dz|ComposedUDPOS=PROPN
+10	pour	pour	ADP	P	AdpType=Prep	12	case	_	lang=fr|ComposedUDPOS=ADP
+11	le	le	DET	DET	_	12	det	_	lang=fr|ComposedUDPOS=DET
+12	mal	mal	NOUN	NC	_	7	obl	_	lang=fr|ComposedUDPOS=NOUN
+13	ki	qui	PRON	PRO	_	15	nsubj	_	lang=fr|ComposedUDPOS=PRON
+14	t	t'	PRON	CLO	_	15	iobj	_	lang=fr|ComposedUDPOS=PRON
+15	arriwe	arrive	VERB	V	_	1	parataxis	_	lang=fr|ComposedUDPOS=VERB
+
+# sent_id = 4458
+# text = bn courage matmoure w nchalah njibouha w rabi m3akom
+# trad_fr = bon courage Matmour et si Dieu le veux je la ram√®ne et que Dieu avec vous
+1	bn	bon	ADJ	ADJ	_	0	root	_	lang=fr|ComposedUDPOS=ADJ
+2	courage	courage	NOUN	NC	_	1	nmod	_	lang=fr|ComposedUDPOS=NOUN
+3	matmoure	Matmour	PROPN	NPP	_	2	nmod	_	lang=fr|ComposedUDPOS=PROPN
+4	w	et	CCONJ	CC	_	6	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+5	nchalah	inchaAllah	INTJ	I	_	6	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+6	njibouha	nous ramenons elle	VERB	V1mp+PRO	Gender=Masc|Number=Plur|Person=1	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+7	w	et	CCONJ	CC	_	8	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+8	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	1	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+9	m3akom	avec vous	PRON	P+PRO	AdpType=Prep	8	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+
+# sent_id = 4599
+# text = walah yrid messi rah yal3ab m3a ziani
+# trad_fr = je te jure vouloir il Messi est parti qu'il joue avec Ziani
+1	walah	Wallah	INTJ	I	_	2	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+2	yrid	vouloir il	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	messi	Messi	PROPN	NPP	_	2	obj	_	lang=ar_dz|ComposedUDPOS=PROPN
+4	rah	il partir	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+5	yal3ab	il jouer	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	4	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+6	m3a	avec	ADP	P	AdpType=Prep	7	case	_	lang=ar_dz|ComposedUDPOS=ADP
+7	ziani	Ziani	PROPN	NPP	_	5	obl	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = 3195
+# text = me3ak ya hamiti ou li sar isir vive la jsimazighen
+# trad_fr = nous avec toi Hamiti et qui √©tait avant est toujours aujourd'hui vive la JS Kabylie
+1	me3ak	avec toi	PRON	P+PRO	AdpType=Prep	6	parataxis	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+2	ya	oh	INTJ	VOC	_	3	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+3	hamiti	Hamiti	PROPN	NPP	_	1	appos	_	lang=ar_dz|ComposedUDPOS=PROPN
+4	ou	et	CCONJ	CC	_	6	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+5	li	qui	PRON	PROREL	PronType=Rel	6	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+6	sar	devenu	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+7	isir	devient	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	6	ccomp	_	lang=ar_dz|ComposedUDPOS=VERB
+8	vive	vive	INTJ	I	_	10	discourse	_	lang=fr|ComposedUDPOS=INTJ
+9	la	la	DET	DET	_	10	det	_	lang=fr|ComposedUDPOS=DET
+10	jsimazighen	JS Kabylie	PROPN	NPP	_	6	parataxis	_	lang=tm|ComposedUDPOS=PROPN
+
+# sent_id = 4593
+# text = wa len tarda 3aleyka el yahoud wa la el nassara hata tatabi3a milatahoum
+# trad_fr = et ne satisfait de toi le juifs et la le des m√©cr√©ants jusqu' tu suives leur clan
+1	wa	et	CCONJ	CC	_	2	cc	_	lang=ar_msa|ComposedUDPOS=CCONJ
+2	len	pas	PART	PART-NEG	Polarity=Neg	3	advmod	_	lang=ar_msa|ComposedUDPOS=PART
+3	tarda	ils se_satisfair	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	0	root	_	lang=ar_msa|ComposedUDPOS=VERB
+4	3aleyka	de toi	PRON	P+PRO	AdpType=Prep	3	obl	_	lang=ar_msa|ComposedUDPOS=ADP+PRON
+5	el	les	DET	DET	_	6	det	_	lang=ar_msa|ComposedUDPOS=DET
+6	yahoud	juifs	NOUN	NC	_	3	obj	_	lang=ar_msa|ComposedUDPOS=NOUN
+7	wa	et	CCONJ	CC	_	10	cc	_	lang=ar_msa|ComposedUDPOS=CCONJ
+8	la	pas	PART	PART-NEG	Polarity=Neg	10	advmod	_	lang=ar_msa|ComposedUDPOS=PART
+9	el	les	DET	DET	_	10	det	_	lang=ar_msa|ComposedUDPOS=DET
+10	nassara	chr√©tiens	NOUN	NC	_	6	conj:coord	_	lang=ar_msa|ComposedUDPOS=NOUN
+11	hata	jusque	ADV	ADV	_	12	advmod	_	lang=ar_msa|ComposedUDPOS=ADV
+12	tatabi3a	tu suivre	VERB	V2ms	Gender=Masc|Number=Sing|Person=2	3	advcl	_	lang=ar_msa|ComposedUDPOS=VERB
+13	milatahoum	camps leurs	NOUN	NC+POSS	Possessive=Yes	12	obj	_	lang=ar_msa|ComposedUDPOS=NOUN+PRON
+
+# sent_id = 1476
+# text = allez les fenecs rabi m3akoum
+# trad_fr = allez les fennecs que Dieu soit avec vous
+1	allez	allez	VERB	V	_	0	root	_	lang=fr|ComposedUDPOS=VERB
+2	les	les	DET	DET	_	3	det	_	lang=fr|ComposedUDPOS=DET
+3	fenecs	fennecs	NOUN	NC	_	1	obj	_	lang=fr|ComposedUDPOS=NOUN
+4	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	1	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+5	m3akoum	avec vous	PRON	P+PRO	AdpType=Prep	4	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+
+# sent_id = 2535
+# text = koul 3andkoum hak ya shab les commentaire
+# trad_fr = tous vous avez le droit oh mes amis des commentaires
+1	koul	tout	ADV	ADV	_	2	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+2	3andkoum	chez vous	PRON	P+PRO	AdpType=Prep	3	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+3	hak	droit	NOUN	NC	_	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN
+4	ya	oh	INTJ	VOC	_	5	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+5	shab	ami	NOUN	NC	_	3	vocative	_	lang=ar_dz|ComposedUDPOS=NOUN
+6	les	les	DET	DET	_	7	det	_	lang=fr|ComposedUDPOS=DET
+7	commentaire	commentaires	NOUN	NC	_	5	nmod	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = 4494
+# text = allah yaj3alha takhfif edounoubwellah ychafik
+# trad_fr = Dieu nous fasse que ceci soit all√©gement des p√©ch√©s et Dieu te soigne
+1	allah	Allah	PROPN	NPP	_	2	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+2	yaj3alha	il faire la	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+3	takhfif	all√©gement	NOUN	NC	_	2	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+4-5	edounoubwellah	_	_	_	_	_	_	_	_
+4	edounoub	les p√©ch√©s	NOUN	DET+NC	_	3	nmod	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET+NOUN
+5	wellah	et Allaj	PROPN	CC+NPP	_	6	nsubj	_	lang=ar_dz|ComposedUDPOS=CCONJ+PROPN
+6	ychafik	il gu√©rir toi	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+
+# sent_id = M2S43
+# text = s7aybi chkoun ana? lotfi double kanon
+# trad_fr = Mes amis qui suis-je? Lotfi Double Kanon
+1	s7aybi	Mes amis	NOUN	NC+POSS	Possessive=Yes	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+2	chkoun	qui	ADV	ADVWH	_	3	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+3-4	ana?	_	_	_	_	_	_	_	lang=ar_dz
+3	ana	moi	PRON	CLS-SUJ	_	1	nsubj	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=PRON
+4	?	?	PUNCT	PONCT	_	1	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+5	lotfi	Lotfi	PROPN	NPP	_	6	nmod	_	lang=ar_dz|ComposedUDPOS=PROPN
+6	double	Double	PROPN	NPP	_	1	parataxis	_	lang=ar_dz|ComposedUDPOS=PROPN
+7	kanon	Kanon	PROPN	NPP	_	6	nmod	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = 4122
+# text = anchalah on va gagner 1/0bezaf 1 / 0 bezaf 3lina chnana fi 3adyan123 viva l'algerie
+# trad_fr = inchaAllah on va gagner 1 / 0 c'est trop 1 / 0 trop pour nous d'o√π ce sont nos ennemis 123 viva l'Alg√©rie
+1	anchalah	inchaAllah	INTJ	I	_	3	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+2	on	on	PRON	CLS-SUJ	_	3	nsubj	_	lang=fr|ComposedUDPOS=PRON
+3	va	va	VERB	V	_	0	root	_	lang=fr|ComposedUDPOS=VERB
+4	gagner	gagner	VERB	VINF	VerbForm=Inf	3	xcomp	_	lang=fr|ComposedUDPOS=VERB
+5-8	1/0bezaf	_	_	_	_	_	_	_	_
+5	1	1	NOUN	NC	_	4	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+6	/	/	PUNCT	PONCT	_	3	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+7	0	0	NOUN	NC	_	5	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+8	bezaf	trop	ADV	ADV	_	10	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+9	3lina	pour nous	PRON	P+PRO	AdpType=Prep	10	nmod	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+10	chnana	nous	PRON	PRO	_	3	parataxis	_	lang=ar_dz|ComposedUDPOS=PRON
+11	fi	√†	ADP	P	AdpType=Prep	12	case	_	lang=ar_dz|ComposedUDPOS=ADP
+12-13	3adyan123	_	_	_	_	_	_	_	lang=ar_dz
+12	3adyan	ennemis	NOUN	NC	_	10	nmod	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=NOUN
+13	123	123	INTJ	I	_	14	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+14	viva	viva	INTJ	I	_	16	discourse	_	lang=en|ComposedUDPOS=INTJ
+15-16	l'algerie	_	_	_	_	_	_	_	lang=fr
+15	l'	l'	DET	DET	_	16	det	_	SpaceAfter=No|lang=fr|ComposedUDPOS=DET
+16	algerie	Alg√©rie	PROPN	NPP	_	3	parataxis	_	lang=fr|ComposedUDPOS=PROPN
+
+# sent_id = 3637
+# text = ya3arfou ghir halane el foumbye bye algeria merci saadane
+# trad_fr = ils savent que rel√¢che la bouche bye aurevoir l'Alg√©rie merci Saadane
+1	ya3arfou	ils savent	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	ghir	que	PART	PART-EXP	_	3	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+3	halane	ouverture	NOUN	NC	_	1	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+4	el	le	DET	DET	_	5	det	_	lang=ar_dz|ComposedUDPOS=DET
+5-6	foumbye	_	_	_	_	_	_	_	lang=ar_dz
+5	foum	bouche	NOUN	NC	_	3	nmod	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=NOUN
+6	bye	bye	INTJ	I	_	8	discourse	_	lang=en|ComposedUDPOS=INTJ
+7	bye	bye	INTJ	I	_	8	discourse	_	lang=en|ComposedUDPOS=INTJ
+8	algeria	Algeria	PROPN	NPP	_	1	parataxis	_	lang=en|ComposedUDPOS=PROPN
+9	merci	merci	INTJ	I	_	10	dep	_	lang=fr|ComposedUDPOS=INTJ
+10	saadane	Saadane	PROPN	NPP	_	1	parataxis	_	lang=fr|ComposedUDPOS=PROPN
+
+# sent_id = 1981
+# text = Rabi m3akom et bon courage wled bledi
+# trad_fr = que Dieu soit avec vous et bon courage les enfants du pays
+1	Rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+2	m3akom	avec vous	PRON	P+PRO	AdpType=Prep	1	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+3	et	et	CCONJ	CC	_	4	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+4	bon	bon	ADJ	ADJ	_	5	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+5	courage	courage	NOUN	NC	_	1	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+6	wled	fils	NOUN	NC	_	5	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+7	bledi	mon pays	NOUN	NC+POSS	Possessive=Yes	6	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+
+# sent_id = M1S14
+# text = Kayen gh√¢chi fel'matar, f el' matar , kayen ghachi f les bars, fechwara3 k les barbares
+# trad_fr = Il y a du monde √† l'a√©roport, √† l' a√©roport , il y a du monde dans les bars, dans les rues comme les barbares
+1	Kayen	a	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	gh√¢chi	monde	NOUN	NC	_	1	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+3-6	fel'matar,	_	_	_	_	_	_	_	_
+3	f	√†	ADP	P	AdpType=Prep	5	case	_	lang=ar_dz|ComposedUDPOS=ADP
+4	el'	l'	DET	DET	_	5	det	_	lang=ar_dz|ComposedUDPOS=DET
+5	matar	a√©roport	NOUN	NC	_	1	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+6	,	,	PUNCT	PONCT	_	1	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+7	kayen	a	VERB	V	_	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+8	ghachi	monde	NOUN	NC	_	7	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+9	f	dans	ADP	P	AdpType=Prep	11	case	_	lang=ar_dz|ComposedUDPOS=ADP
+10	les	les	DET	DET	_	11	det	_	lang=fr|ComposedUDPOS=DET
+11-12	bars,	_	_	_	_	_	_	_	lang=fr
+11	bars	bars	NOUN	NC	_	7	obl	_	SpaceAfter=No|lang=fr|ComposedUDPOS=NOUN
+12	,	,	PUNCT	PONCT	_	7	punct	_	lang=fr|ComposedUDPOS=PUNCT
+13-14	fechwara3	_	_	_	_	_	_	_	lang=ar_dz
+13	fe	dans	ADP	P	AdpType=Prep	14	case	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADP
+14	chwara3	rue	NOUN	NC	_	1	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+15	k	comme	ADP	P	AdpType=Prep	17	case	_	lang=ar_dz|ComposedUDPOS=ADP
+16	les	les	DET	DET	_	17	det	_	lang=fr|ComposedUDPOS=DET
+17	barbares	barbabes	ADJ	ADJ	_	14	amod	_	lang=fr|ComposedUDPOS=ADJ
+
+# sent_id = 3787
+# text = 123 vive l'algerie et le maroc inchalah lil3ab mazyan nssaf9o lo
+# trad_fr = 123 vive l'Alg√©rie et le Maroc si Dieu le veux celui qui jouera bien nous l'applaudirons lol
+1	123	123	INTJ	I	_	4	discourse	_	lang=en|ComposedUDPOS=INTJ
+2	vive	vive	INTJ	I	_	4	discourse	_	lang=fr|ComposedUDPOS=INTJ
+3-4	l'algerie	_	_	_	_	_	_	_	lang=fr
+3	l'	l'	DET	DET	_	4	det	_	SpaceAfter=No|lang=fr|ComposedUDPOS=DET
+4	algerie	Alg√©rie	PROPN	NPP	_	10	parataxis	_	lang=fr|ComposedUDPOS=PROPN
+5	et	et	CCONJ	CC	_	7	cc	_	lang=fr|ComposedUDPOS=CCONJ
+6	le	le	DET	DET	_	7	det	_	lang=fr|ComposedUDPOS=DET
+7	maroc	Maroc	PROPN	NPP	_	4	conj:coord	_	lang=fr|ComposedUDPOS=PROPN
+8	inchalah	inchaAllah	INTJ	I	_	10	discourse	_	lang=fr|ComposedUDPOS=INTJ
+9-10	lil3ab	_	_	_	_	_	_	_	lang=ar_dz
+9	li	celui	ADP	P	AdpType=Prep	10	nsubj	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADP
+10	l3ab	joue	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+11	mazyan	bien	ADJ	ADJ	_	10	obj	_	lang=ar_dz|ComposedUDPOS=ADJ
+12	nssaf9o	nous applaudissons	VERB	V1mp	Gender=Masc|Number=Plur|Person=1	10	ccomp	_	lang=ar_dz|ComposedUDPOS=VERB
+13	lo	lol	INTJ	I	_	12	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+
+# sent_id = 4402
+# text = Bjr et bravo pr cet femme l√† et que dieu accepte sa omra inchallah elle est vriment courageuse rabi √© koune m3aha
+# trad_fr = Bonjour et bravo pour cette femme l√† et que Dieu accepte sa Omra si Dieu le veux elle est vraiment courageuse que Dieu est avec elle
+# comment = l√† est un ADV pas un PRON
+1	Bjr	bonjour	INTJ	I	_	6	discourse	_	lang=fr|ComposedUDPOS=INTJ
+2	et	et	CCONJ	CC	_	3	cc	_	lang=fr|ComposedUDPOS=CCONJ
+3	bravo	bravo	INTJ	I	_	6	discourse	_	lang=fr|ComposedUDPOS=INTJ
+4	pr	pour	ADP	P	AdpType=Prep	6	case	_	lang=fr|ComposedUDPOS=ADP
+5	cet	cette	DET	DET	_	6	det	_	lang=fr|ComposedUDPOS=DET
+6	femme	femme	NOUN	NC	_	0	root	_	lang=fr|ComposedUDPOS=NOUN
+7	l√†	l√†	ADV	ADV	_	6	advmod	_	lang=fr|ComposedUDPOS=PRON
+8	et	et	CCONJ	CC	_	11	cc	_	lang=fr|ComposedUDPOS=CCONJ
+9	que	que	SCONJ	CS	_	11	mark	_	lang=fr|ComposedUDPOS=SCONJ
+10	dieu	Dieu	NOUN	NC	_	11	nsubj	_	lang=fr|ComposedUDPOS=NOUN
+11	accepte	accepte	VERB	V	_	6	parataxis	_	lang=fr|ComposedUDPOS=VERB
+12	sa	sa	DET	DET	_	13	det	_	lang=fr|ComposedUDPOS=DET
+13	omra	Omra	NOUN	NC	_	11	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+14	inchallah	inchaAllah	INTJ	I	_	11	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+15	elle	elle	PRON	PRO	_	16	nsubj	_	lang=fr|ComposedUDPOS=PRON
+16	est	est	VERB	V	_	6	parataxis	_	lang=fr|ComposedUDPOS=VERB
+17	vriment	vraiment	ADV	ADV	_	18	advmod	_	lang=fr|ComposedUDPOS=ADV
+18	courageuse	courageuse	ADJ	ADJ	_	16	obj	_	lang=fr|ComposedUDPOS=ADJ
+19	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	21	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+20	√©	il	X	YM	_	21	nsubj	_	lang=ar_dz|ComposedUDPOS=X
+21	koune	√™tre	VERB	V	_	6	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+22	m3aha	avec elle	PRON	P+PRO	AdpType=Prep	21	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+
+# sent_id = 9360
+# text = m3ak ya lkhadra rabhine wala khasrine mouhime charaftouna 123 vive lalgerie
+# trad_fr = avec toi √¥ les vers gagnant ou perdant essentiel vous nous avez honor√© 123 vive l'Algerie
+1	m3ak	avec toi	PRON	P+PRO	AdpType=Prep	9	parataxis	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+2	ya	√¥	INTJ	VOC	_	4	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+3-4	lkhadra	_	_	_	_	_	_	_	lang=ar_dz
+3	l	les	DET	DET	_	4	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+4	khadra	verts	NOUN	NC	_	1	appos	_	lang=ar_dz|ComposedUDPOS=NOUN
+5	rabhine	gagnant	ADJ	ADJ	_	9	parataxis	_	lang=ar_dz|ComposedUDPOS=ADJ
+6	wala	ou	CCONJ	CC	_	7	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+7	khasrine	perdant	ADJ	ADJ	_	5	conj:coord	_	lang=ar_dz|ComposedUDPOS=ADJ
+8	mouhime	essentiel	ADJ	ADJ	_	9	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+9	charaftouna	vous nous avez honor√©	VERB	V3mp+CLO	Gender=Masc|Number=Plur|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+10	123	123	INTJ	I	_	12	nsubj	_	lang=ar_dz|ComposedUDPOS=INTJ
+11	vive	vive	INTJ	I	_	12	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+12	lalgerie	l'Algerie	PROPN	NPP	_	9	parataxis	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = M4S29
+# text = Kount qder na3fes 3la galbi w nrouh nasr√©q
+# trad_fr = Je pouvais me priver de sentiment, et partir voler
+1	Kount	√©tais	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	qder	pouvais	ADJ	ADJ	_	1	obj	_	lang=ar_dz|ComposedUDPOS=ADJ
+3	na3fes	marcher	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	1	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+4	3la	sur	ADP	P	AdpType=Prep	5	case	_	lang=ar_dz|ComposedUDPOS=ADP
+5	galbi	mon coeur	NOUN	NC+POSS	Possessive=Yes	3	obl	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+6	w	et	CCONJ	CC	_	7	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+7	nrouh	je pars	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	3	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB
+8	nasr√©q	voler	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	7	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+
+# sent_id = 38
+# text = il falait remercie tout d'adord ALLAH avant de ringuauler elhadoullillah 3ala ni3matb elamen
+# trad_fr = il fallait remercier tout d'abord Dieu avant de rigoler merci √† Dieu pour la gr√¢ce et la croyance
+1	il	il	PRON	CLS-SUJ	_	2	nsubj	_	lang=fr|ComposedUDPOS=PRON
+2	falait	fallait	VERB	V	_	0	root	_	lang=fr|ComposedUDPOS=VERB
+3	remercie	remercier	VERB	VINF	VerbForm=Inf	2	xcomp	_	lang=fr|ComposedUDPOS=VERB
+4	tout	tout	ADV	YM	_	6	advmod	_	lang=fr|ComposedUDPOS=X
+5	d'adord	d'abord	ADV	ADV	_	4	fixed	_	lang=fr|ComposedUDPOS=ADV
+6	ALLAH	Dieu	PROPN	NPP	_	3	obj	_	lang=fr|ComposedUDPOS=PROPN
+7	avant	avant	ADP	P	AdpType=Prep	9	case	_	lang=fr|ComposedUDPOS=ADP
+8	de	de	ADP	P	AdpType=Prep	9	case	_	lang=fr|ComposedUDPOS=ADP
+9	ringuauler	rigoler	VERB	VINF	VerbForm=Inf	3	advcl	_	lang=fr|ComposedUDPOS=VERB
+10	elhadoullillah	Hamdulillah	INTJ	I	_	12	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+11	3ala	sur	ADP	P	AdpType=Prep	12	case	_	lang=ar_dz|ComposedUDPOS=ADP
+12	ni3matb	la gr√¢ce	NOUN	NC	_	2	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+13-14	elamen	_	_	_	_	_	_	_	lang=ar_dz
+13	el	la	DET	DET	_	14	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=NOUN
+14	amen	croyance	NOUN	NC	_	12	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = M3S35
+# text = o men ba3d yero7 yefsakhe al fat7a
+# trad_fr = Et ensuite il va rompre son engagement religieux
+1	o	Et	CCONJ	CC	_	2	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+2	men	√†	ADP	P	AdpType=Prep	3	case	_	lang=ar_dz|ComposedUDPOS=ADP
+3	ba3d	apr√®s	ADV	ADV	_	4	parataxis	_	lang=ar_dz|ComposedUDPOS=ADV
+4	yero7	il va	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+5	yefsakhe	il rompt	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	4	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+6	al	la	DET	DET	_	7	det	_	lang=ar_dz|ComposedUDPOS=DET
+7	fat7a	Fatiha	NOUN	NC	_	5	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = 4516
+# text = farik te3 dberech 3ando des supportuer dberech
+# trad_fr = √©quipe d' dberech il a des supporteur dberech
+1	farik	√©quipe	NOUN	NC	_	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN
+2	te3	de	ADP	P	AdpType=Prep	3	case	_	lang=ar_dz|ComposedUDPOS=ADP
+3	dberech	idiots	ADJ	ADJ	_	1	obl	_	lang=ar_dz|ComposedUDPOS=ADJ
+4	3ando	chez lui	PRON	P+PRO	AdpType=Prep	1	parataxis	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+5	des	des	DET	DET	_	6	det	_	lang=fr|ComposedUDPOS=DET
+6	supportuer	supporteurs	NOUN	NC	_	4	nmod	_	lang=fr|ComposedUDPOS=NOUN
+7	dberech	idiots	ADJ	ADJ	_	6	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+
+# sent_id = 1940
+# text = allah ghaleb c tous ki nous reste !!! wa3leche ihoufouna makan lakhedma lat3ame!!!!allah la t3ame !!!! allah yehdii houkoumttna
+# trad_fr = c'est dommage c'est tout ce qu'il nous reste ! pourquoi ils nous ont marginalis√© il n'y a pas de travail de nourriture !!!! que Dieu de nourriture !!!! que Dieu guide notre gouvernement
+1	allah	Dieu	PROPN	NPP	_	3	parataxis	_	lang=ar_dz|ComposedUDPOS=PROPN
+2	ghaleb	vainqueur	ADJ	ADJ	_	1	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+3	c	c'est	VERB	CLS-SUJ+V	_	0	root	_	lang=fr|ComposedUDPOS=PRON+VERB
+4	tous	tout	ADV	ADV	_	3	advmod	_	lang=fr|ComposedUDPOS=ADV
+5	ki	qui	PRON	PROREL	PronType=Rel	7	nsubj	_	lang=fr|ComposedUDPOS=PRON
+6	nous	nous	PRON	CLS-SUJ	_	7	nsubj	_	lang=fr|ComposedUDPOS=PRON
+7	reste	reste	VERB	V	_	3	ccomp	_	lang=fr|ComposedUDPOS=VERB
+8	!!!	!	PUNCT	PONCT	_	3	punct	_	lang=fr|ComposedUDPOS=PUNCT
+9	wa3leche	pourquoi	ADV	ADVWH	_	10	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+10	ihoufouna	ils marginalisent nous	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	3	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+11	makan	y a  pas	VERB	PART-NEG+V	Polarity=Neg	10	xcomp	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+12-13	lakhedma	_	_	_	_	_	_	_	lang=ar_dz
+12	la	le	DET	DET	_	13	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+13	khedma	travail	NOUN	NC	_	11	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+14-17	lat3ame!!!!allah	_	_	_	_	_	_	_	_
+14	la	la	DET	DET	_	15	det	_	lang=ar_dz|ComposedUDPOS=DET
+15	t3ame	nourriture	NOUN	NC	_	11	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+16	!!!!	!!!!	PUNCT	PONCT	_	10	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+17	allah	Dieu	PROPN	NPP	_	18	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+18	yehdii	guide	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	3	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+19	houkoumttna	gouvrnement notre	NOUN	NC+POSS	Possessive=Yes	18	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+
+# sent_id = 4561
+# text = rah 3andana amal kbir ftaahol wntmana nkono lmotaahil 1 w maroc le milleur 2eme bach ntal3o 7na wyahom nchalah bonn chonce
+# trad_fr = est parti nous avons espoir gros porte et nous voulons que nous soyons qualifi√©s 1 et Maroc le meilleur 2 √®me pour nous montons nous et eux si Dieu le veux bonne chance
+1	rah	il √™tre	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	3andana	chez nous	PRON	P+PRO	AdpType=Prep	1	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+3	amal	espoir	NOUN	NC	_	1	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+4	kbir	grand	ADJ	ADJ	_	3	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+5	ftaahol	dans qualifications	NOUN	P+NC	AdpType=Prep	6	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+NOUN
+6	wntmana	et nous esperer	VERB	CC+V1mp	Gender=Masc|Number=Plur|Person=1	1	parataxis	_	lang=ar_dz|ComposedUDPOS=CCONJ+VERB
+7	nkono	nous √™tre	VERB	V1mp	Gender=Masc|Number=Plur|Person=1	6	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+8	lmotaahil	le qualifi√©	ADJ	DET+ADJ	_	9	amod	_	lang=ar_dz|ComposedUDPOS=DET+ADJ
+9	1	une	NOUN	NC	_	7	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+10	w	et	CCONJ	CC	_	11	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+11	maroc	Maroc	PROPN	NPP	_	7	conj:coord	_	lang=fr|ComposedUDPOS=PROPN
+12	le	le	DET	DET	_	13	det	_	lang=fr|ComposedUDPOS=DET
+13	milleur	meilleur	ADJ	ADJ	_	11	amod	_	lang=fr|ComposedUDPOS=ADJ
+14	2eme	deuxi√®me	ADJ	ADJ	_	13	amod	_	lang=fr|ComposedUDPOS=ADJ
+15	bach	pour	ADP	P	AdpType=Prep	16	case	_	lang=ar_dz|ComposedUDPOS=ADP
+16	ntal3o	nous monter	VERB	V1mp	Gender=Masc|Number=Plur|Person=1	7	advcl	_	lang=ar_dz|ComposedUDPOS=VERB
+17	7na	nous	PRON	CLS-SUJ	_	16	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+18	wyahom	et eux	PRON	CC+PRO	_	17	nmod	_	lang=ar_dz|ComposedUDPOS=CCONJ+PRON
+19	nchalah	inchaAllah	INTJ	I	_	21	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+20	bonn	bonne	ADJ	ADJ	_	21	amod	_	lang=fr|ComposedUDPOS=ADJ
+21	chonce	chance	NOUN	NC	_	16	obj	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = 583
+# text = nchalah 3a9ba la victoire contre zambia
+# trad_fr = J'esp√®re pour la suite la victoire contre la Zambie
+1	nchalah	InchaAllah	INTJ	I	_	2	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+2	3a9ba	la suite	NOUN	NC	_	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN
+3	la	la	DET	DET	_	4	det	_	lang=fr|ComposedUDPOS=DET
+4	victoire	victoire	NOUN	NC	_	2	nmod	_	lang=fr|ComposedUDPOS=NOUN
+5	contre	contre	ADP	P	AdpType=Prep	6	case	_	lang=fr|ComposedUDPOS=ADP
+6	zambia	Zambie	PROPN	NPP	_	4	nmod	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = 1481
+# text = wech men tawra jayin tgoulo 3liha makan la tawra la kosbor la ma3adnouss
+# trad_fr = qu'est-ce-que les gens de la Torah sont venu te dire sur √ßa il n'y a ni r√©volution ni coriandre ni p√©rsil
+1	wech	quoi	ADV	ADVWH	_	3	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+2	men	√†	ADP	P	AdpType=Prep	3	case	_	lang=ar_dz|ComposedUDPOS=ADP
+3	tawra	r√©volution	NOUN	NC	_	5	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+4	jayin	ils venu	ADJ	ADJ	_	3	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+5	tgoulo	vous dites	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+6	3liha	sur cela	PRON	P+PRO	AdpType=Prep	5	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+7	makan	a pas	NOUN	NC	_	5	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+8	la	pas	PART	PART-NEG	Polarity=Neg	9	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+9	tawra	r√©volution	NOUN	NC	_	7	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+10	la	pas	PART	PART-NEG	Polarity=Neg	11	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+11	kosbor	coriandre	NOUN	NC	_	9	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+12	la	pas	PART	PART-NEG	Polarity=Neg	13	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+13	ma3adnouss	p√©rsil	NOUN	NC	_	11	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = M3S39
+# text = teghidni tefla l jamais sme3na baha
+# trad_fr = J'ai piti√© de la fille qu'on a jamais entendu parler
+1	teghidni	Je compatis	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	tefla	fille	NOUN	NC	_	1	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+3	l	qui	PRON	PROREL	PronType=Rel	5	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+4	jamais	jamais	ADV	ADV	_	5	advmod	_	lang=fr|ComposedUDPOS=ADV
+5	sme3na	entendu nous	VERB	V1mp	Gender=Masc|Number=Plur|Person=1	1	ccomp	_	lang=ar_dz|ComposedUDPOS=VERB
+6	baha	de elle	PRON	P+PRO	AdpType=Prep	5	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+
+# sent_id = M2S59
+# text = yketlouna kif ma3toub wla yanfiwna men leblad
+# trad_fr = Ils nous tueront comme Matoub et nous exploseront de ce pays
+1	yketlouna	Ils tueront	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+2	kif	comme	SCONJ	CS	_	3	case	_	lang=ar_dz|ComposedUDPOS=SCONJ
+3	ma3toub	Matoub	PROPN	NPP	_	1	obl	_	lang=ar_dz|ComposedUDPOS=PROPN
+4	wla	et	CCONJ	CC	_	5	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+5	yanfiwna	ils expulsent nous	VERB	V3mp+CLO	Gender=Masc|Number=Plur|Person=3	1	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+6	men	de	ADP	P	AdpType=Prep	8	case	_	lang=ar_dz|ComposedUDPOS=ADP
+7-8	leblad	_	_	_	_	_	_	_	lang=ar_dz
+7	le	le	DET	DET	_	8	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+8	blad	pays	NOUN	NC	_	5	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = 3171
+# text = 3amrousse nous avec la stabilt√© du club merci
+# trad_fr = Amrous nous on est avec la stabilit√© du club merci
+1	3amrousse	Amrous	PROPN	NPP	_	5	vocative	_	lang=ar_dz|ComposedUDPOS=PROPN
+2	nous	nous	PRON	CLS-SUJ	_	5	nmod	_	lang=fr|ComposedUDPOS=PRON
+3	avec	avec	ADP	P	AdpType=Prep	5	case	_	lang=fr|ComposedUDPOS=ADP
+4	la	la	DET	DET	_	5	det	_	lang=fr|ComposedUDPOS=DET
+5	stabilt√©	stabilit√©	NOUN	NC	_	0	root	_	lang=fr|ComposedUDPOS=NOUN
+6	du	du	ADP	P+DET	AdpType=Prep	7	case	_	lang=fr|ComposedUDPOS=ADP+DET
+7	club	club	NOUN	NC	_	5	nmod	_	lang=fr|ComposedUDPOS=NOUN
+8	merci	merci	INTJ	I	_	5	dep	_	lang=fr|ComposedUDPOS=INTJ
+
+# sent_id = 4689
+# text = el wihda chi3arouna
+# trad_fr = le union sologan notre
+1	el	l'	DET	DET	_	2	det	_	lang=ar_dz|ComposedUDPOS=DET
+2	wihda	union	NOUN	NC	_	3	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+3	chi3arouna	sologan notre	NOUN	NC+POSS	Possessive=Yes	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+
+# sent_id = 4509
+# text = le numero 4 la yougharid kharij esserb rapelle toi seddam et l eglise a katar et ley et tu pense que madjliss el 3ar a raison et tu pense que el djazira ni pas fitna el kaddafi et son peuple el bar
+# trad_fr = le num√©ro 4 la chanter il dehors  rappelle toi Saddam et l' √©glise a Qatar et les et tu pense que conseil le est une honte a raison et tu pense que le Jazira ni pas enchantement le Kadhafi et son peuple le bar
+1	le	le	DET	DET	_	2	det	_	lang=fr|ComposedUDPOS=DET
+2	numero	num√©ro	NOUN	NC	_	5	nsubj	_	lang=fr|ComposedUDPOS=NOUN
+3	4	4	NOUN	NC	_	2	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+4	la	pas	PART	PART-NEG	Polarity=Neg	5	advmod	_	lang=fr|ComposedUDPOS=PART
+5	yougharid	chanter il	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+6	kharij	dehors	ADP	P	AdpType=Prep	7	case	_	lang=ar_dz|ComposedUDPOS=ADP
+7	esserb	le nid	NOUN	DET+NC	_	5	obl	_	lang=ar_dz|ComposedUDPOS=DET+NOUN
+8	rapelle	rappelle	VERB	V	_	5	parataxis	_	lang=fr|ComposedUDPOS=VERB
+9	toi	toi	PRON	PRO	_	8	obj	_	lang=fr|ComposedUDPOS=PRON
+10	seddam	Saddam	PROPN	NPP	_	9	appos	_	lang=ar_dz|ComposedUDPOS=PROPN
+11	et	et	CCONJ	CC	_	13	cc	_	lang=fr|ComposedUDPOS=CCONJ
+12	l	l'	DET	DET	_	13	det	_	lang=ar_dz|ComposedUDPOS=DET
+13	eglise	√©glise	NOUN	NC	_	10	conj:coord	_	lang=fr|ComposedUDPOS=NOUN
+14	a	au	ADP	P+DET	AdpType=Prep	15	case	_	lang=fr|ComposedUDPOS=ADP+DET
+15	katar	Qatar	PROPN	NPP	_	8	obl	_	lang=ar_dz|ComposedUDPOS=PROPN
+16	et	et	CCONJ	CC	_	17	cc	_	lang=fr|ComposedUDPOS=CCONJ
+17	ley	les	DET	DET	_	15	conj:coord	_	lang=ar_dz|ComposedUDPOS=DET
+18	et	et	CCONJ	CC	_	19	cc	_	lang=fr|ComposedUDPOS=CCONJ
+19	tu	tu	PRON	CLS-SUJ	_	20	nsubj	_	lang=fr|ComposedUDPOS=PRON
+20	pense	pense	VERB	V	_	5	parataxis	_	lang=fr|ComposedUDPOS=VERB
+21	que	que	SCONJ	CS	_	22	mark	_	lang=fr|ComposedUDPOS=SCONJ
+22	madjliss	conseil	NOUN	NC	_	20	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+23	el	la	DET	DET	_	24	det	_	lang=ar_dz|ComposedUDPOS=DET
+24	3ar	honte	NOUN	NC	_	25	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN
+25	a	a	VERB	V	_	5	parataxis	_	lang=fr|ComposedUDPOS=VERB
+26	raison	raison	NOUN	NC	_	25	obj	_	lang=fr|ComposedUDPOS=NOUN
+27	et	et	CCONJ	CC	_	28	cc	_	lang=fr|ComposedUDPOS=CCONJ
+28	tu	tu	PRON	CLS-SUJ	_	29	nsubj	_	lang=fr|ComposedUDPOS=PRON
+29	pense	pense	VERB	V	_	5	parataxis	_	lang=fr|ComposedUDPOS=VERB
+30	que	que	SCONJ	CS	_	32	mark	_	lang=fr|ComposedUDPOS=SCONJ
+31	el	El	DET	DET	_	32	det	_	lang=ar_dz|ComposedUDPOS=PROPN
+32	djazira	Jazira	PROPN	NPP	_	29	obl	_	lang=ar_dz|ComposedUDPOS=PROPN
+33	ni	n'est	VERB	ADV-MOD+V	Polarity=Neg	5	parataxis	_	lang=fr|ComposedUDPOS=ADV+VERB
+34	pas	pas	ADV	ADV-MOD	Polarity=Neg	35	advmod	_	lang=fr|ComposedUDPOS=ADV
+35	fitna	s√©dition	NOUN	NC	_	33	obj	_	lang=fr|ComposedUDPOS=NOUN
+36	el	le	DET	DET	_	37	det	_	lang=ar_dz|ComposedUDPOS=DET
+37	kaddafi	Kadhafi	PROPN	NPP	_	35	nmod	_	lang=ar_dz|ComposedUDPOS=PROPN
+38	et	et	CCONJ	CC	_	40	cc	_	lang=fr|ComposedUDPOS=CCONJ
+39	son	son	DET	DET	_	40	det	_	lang=fr|ComposedUDPOS=DET
+40	peuple	peuple	NOUN	NC	_	5	parataxis	_	lang=fr|ComposedUDPOS=NOUN
+41	el	le	DET	DET	_	42	det	_	lang=ar_dz|ComposedUDPOS=DET
+42	bar	d√©vou√©	ADJ	ADJ	_	40	amod	_	lang=ar_msa|ComposedUDPOS=ADJ
+
+# sent_id = 1452
+# text = c'est noael c'est pour √ßa emmmmmmm mlih 3aido apr√© nahkom 3lih
+# trad_fr = c'est noel c'est pour √ßa miam bien c√©l√©brer la f√™te apr√®s juge √† lui
+1	c'est	c'est	VERB	CLS-SUJ+V	_	0	root	_	lang=fr|ComposedUDPOS=PRON+VERB
+2	noael	noel	PROPN	NPP	_	1	obj	_	lang=fr|ComposedUDPOS=PROPN
+3	c'est	c'est	VERB	CLS-SUJ+V	_	1	parataxis	_	lang=fr|ComposedUDPOS=PRON+VERB
+4	pour	pour	ADP	P	AdpType=Prep	5	case	_	lang=fr|ComposedUDPOS=ADP
+5	√ßa	√ßa	PRON	PRO	_	3	obl	_	lang=fr|ComposedUDPOS=PRON
+6	emmmmmmm	miam	INTJ	I	_	8	discourse	_	lang=fr|ComposedUDPOS=INTJ
+7	mlih	bien	ADJ	ADJ	_	8	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+8	3aido	c√©l√©brer la f√™te l'a√Ød	VERB	VIMP	Mood=Imp	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+9	apr√©	apr√®s	ADV	ADV	_	10	advmod	_	lang=fr|ComposedUDPOS=ADV
+10	nahkom	juge	VERB	V1mp	Gender=Masc|Number=Plur|Person=1	8	advcl	_	lang=ar_dz|ComposedUDPOS=VERB
+11	3lih	√† lui	PRON	P+PRO	AdpType=Prep	10	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+
+# sent_id = 4466
+# text = alihada assabab kanat touwakafou el bakhirat limoudatin tawila fi el mawanibach idjiboulna sebbat el bay3 hakada houm el djazairiyoun ki yessam3ou wahed 3erbi ikounou ta3matelhoum mouslim kana bilimkan woudjoud houloul oukhra douna el bay3 ya dra loukan n'koul ana 3arbiya wach imedouli yakhi yakh
+# trad_fr = pour cette raison ils avaient vous arrivez le bateaux pour p√©riode longue dans le pour il nous ram√®ne des chaussures le vendu comme √ßa eux le alg√©riens quand ils entendent personne arabe ils doivent √™tre  musulman √©tait √† la possibilit√© exitsance solutions autres sans le vendu oh  si je dis moi arabe ce que il me change alala c'est √ßa
+1	alihada	pour cette	PRON	P+DEM	AdpType=Prep|PronType=Dem	2	nsubj	_	lang=ar_msa|ComposedUDPOS=ADP+PRON
+2	assabab	raison	NOUN	NC	_	3	dep	_	lang=ar_msa|ComposedUDPOS=NOUN
+3	kanat	elle √©tait	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	0	root	_	lang=ar_msa|ComposedUDPOS=VERB
+4	touwakafou	elle arr√™ter	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	3	xcomp	_	lang=ar_msa|ComposedUDPOS=VERB
+5	el	les	DET	DET	_	6	det	_	lang=ar_msa|ComposedUDPOS=DET
+6	bakhirat	bateaux	NOUN	NC	_	4	obj	_	lang=ar_msa|ComposedUDPOS=NOUN
+7	limoudatin	pour p√©riode	NOUN	P+NC	AdpType=Prep	6	nmod	_	lang=ar_msa|ComposedUDPOS=ADP+NOUN
+8	tawila	longue	ADJ	ADJ	_	7	amod	_	lang=ar_msa|ComposedUDPOS=ADJ
+9	fi	sur	ADP	P	AdpType=Prep	11	case	_	lang=ar_msa|ComposedUDPOS=ADP
+10	el	les	DET	DET	_	11	det	_	lang=ar_msa|ComposedUDPOS=DET
+11-12	mawanibach	_	_	_	_	_	_	_	_
+11	mawani	ports	NOUN	NC	_	3	obl	_	SpaceAfter=No|lang=ar_msa|ComposedUDPOS=NOUN
+12	bach	pour	ADP	P	AdpType=Prep	13	case	_	lang=ar_msa|ComposedUDPOS=ADP
+13	idjiboulna	ammener √† nous	VERB	V+P+PRO	AdpType=Prep	4	obl	_	lang=ar_dz|ComposedUDPOS=VERB+ADP+PRON
+14	sebbat	marchandise	NOUN	NC	_	13	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+15	el	la	DET	DET	_	16	det	_	lang=ar_dz|ComposedUDPOS=DET
+16	bay3	vente	NOUN	NC	_	14	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+17	hakada	c'est_ainsi	ADV	ADV	_	18	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+18	houm	eux	PRON	CLS-SUJ	_	20	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+19	el	les	DET	DET	_	20	det	_	lang=ar_dz|ComposedUDPOS=DET
+20	djazairiyoun	alg√©riens	NOUN	NC	_	22	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN
+21	ki	quand	ADV	ADV	_	22	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+22	yessam3ou	ils entendre	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	3	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+23	wahed	personne	NOUN	NC	_	22	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+24	3erbi	arabe	ADJ	ADJ	_	23	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+25	ikounou	ils seraient	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	22	ccomp	_	lang=ar_dz|ComposedUDPOS=VERB
+26	ta3matelhoum	X	VERB	V+P+PRO	AdpType=Prep	25	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB+ADP+PRON
+27	mouslim	musulman	ADJ	ADJ	_	26	obj	_	lang=ar_dz|ComposedUDPOS=ADJ
+28	kana	il √™tre	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	3	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+29	bilimkan	√† la possibilit√©	NOUN	P+DET+NC	AdpType=Prep	28	obj	_	lang=ar_dz|ComposedUDPOS=ADP+DET+NOUN
+30	woudjoud	existance	NOUN	NC	_	29	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+31	houloul	solutions	NOUN	NC	_	30	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+32	oukhra	autres	ADJ	ADJ	_	31	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+33	douna	sans	ADP	P	AdpType=Prep	35	case	_	lang=ar_dz|ComposedUDPOS=ADP
+34	el	la	DET	DET	_	35	det	_	lang=ar_dz|ComposedUDPOS=DET
+35	bay3	vente	NOUN	NC	_	32	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+36	ya	si	X	YM	_	39	discourse	_	lang=ar_dz|ComposedUDPOS=X
+37	dra	seulement	SCONJ	CS	_	39	mark	_	lang=ar_dz|ComposedUDPOS=SCONJ
+38	loukan	si	SCONJ	CS	_	39	nsubj	_	lang=ar_dz|ComposedUDPOS=SCONJ
+39	n'koul	je dire	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	3	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+40	ana	moi	PRON	CLS-SUJ	_	39	obj	_	lang=ar_dz|ComposedUDPOS=PRON
+41	3arbiya	arabe	ADJ	ADJ	_	40	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+42	wach	ce_que	ADV	ADVWH	_	43	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+43	imedouli	prolonger pour moi	VERB	V+P+PRO	AdpType=Prep	39	advcl	_	lang=ar_dz|ComposedUDPOS=VERB+ADP+PRON
+44	yakhi	alala	INTJ	I	_	43	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+45	yakh	ah	INTJ	I	_	43	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+
+# sent_id = 2242
+# text = wach edakoum tbi3ou les matches ta3 l'√©quipe national ma 3andna ni chaine de sport ni t√©l√©vision msegam
+# trad_fr = qu'est-ce-qu' il se passe vous vendez les matchs de l'√©quipe nationale et nous n'avons pas ni cha√Æne de sport ni t√©l√©vision arrang√©e
+1	wach	quoi	ADV	ADVWH	_	2	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+2	edakoum	vous emporte	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+3	tbi3ou	vous vendez	VERB	V2mp	Gender=Masc|Number=Plur|Person=2	2	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+4	les	les	DET	DET	_	5	det	_	lang=fr|ComposedUDPOS=DET
+5	matches	matchs	NOUN	NC	_	3	obj	_	lang=fr|ComposedUDPOS=NOUN
+6	ta3	de	ADP	P	AdpType=Prep	8	case	_	lang=ar_dz|ComposedUDPOS=ADP
+7-8	l'√©quipe	_	_	_	_	_	_	_	lang=fr
+7	l'	l'	DET	DET	_	8	det	_	SpaceAfter=No|lang=fr|ComposedUDPOS=DET
+8	√©quipe	√©quipe	NOUN	NC	_	3	obl	_	lang=fr|ComposedUDPOS=NOUN
+9	national	nationale	ADJ	ADJ	_	8	amod	_	lang=fr|ComposedUDPOS=ADJ
+10	ma	pas	PART	PART-NEG	Polarity=Neg	11	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+11	3andna	chez vous	PRON	P+PRO	AdpType=Prep	13	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+12	ni	ni	ADV	ADV-MOD	Polarity=Neg	13	advmod	_	lang=fr|ComposedUDPOS=ADV
+13	chaine	cha√Æne	NOUN	NC	_	2	parataxis	_	lang=fr|ComposedUDPOS=NOUN
+14	de	de	ADP	P	AdpType=Prep	15	case	_	lang=fr|ComposedUDPOS=ADP
+15	sport	sport	NOUN	NC	_	13	nmod	_	lang=fr|ComposedUDPOS=NOUN
+16	ni	ni	ADV	ADV-MOD	Polarity=Neg	17	advmod	_	lang=fr|ComposedUDPOS=ADV
+17	t√©l√©vision	t√©l√©vision	NOUN	NC	_	13	nmod	_	lang=fr|ComposedUDPOS=NOUN
+18	msegam	arrang√©	ADJ	ADJ	_	17	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+
+# sent_id = 4270
+# text = lazam asha3b inodh daoula islamya la la la lihizb firanssa tahya aljazair tahya almarroc tahya tousnes asaghira al3adhima
+# trad_fr = faudrait que le peuple se l√®ve contre l'√©tat islamique et ce n'est pas et encore pas et encore pas uniquement que pour la France vive l'Alg√©rie vive le Maroc et vive la Tunisie la petite la majestieuse
+1	lazam	faudrait	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2-3	asha3b	_	_	_	_	_	_	_	lang=ar_dz
+2	a	le	DET	DET	_	3	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+3	sha3b	peuple	NOUN	NC	_	1	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+4	inodh	levera	VERB	V	_	1	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+5	daoula	√©tat	NOUN	NC	_	4	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+6	islamya	islamique	ADJ	ADJ	_	5	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+7	la	pas	PART	PART-NEG	Polarity=Neg	11	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+8	la	pas	PART	PART-NEG	Polarity=Neg	11	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+9	la	pas	PART	PART-NEG	Polarity=Neg	11	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+10-11	lihizb	_	_	_	_	_	_	_	lang=ar_dz
+10	li	pour	ADP	P	AdpType=Prep	11	case	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADP
+11	hizb	partie	NOUN	NC	_	1	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+12	firanssa	France	PROPN	NPP	_	11	nmod	_	lang=ar_dz|ComposedUDPOS=PROPN
+13	tahya	vive	INTJ	I	_	14	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+14	aljazair	l'Alg√©rie	PROPN	NPP	_	1	parataxis	_	lang=ar_dz|ComposedUDPOS=PROPN
+15	tahya	vive	INTJ	I	_	16	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+16	almarroc	le Maroc	PROPN	NPP	_	1	parataxis	_	lang=ar_dz|ComposedUDPOS=PROPN
+17	tahya	vive	INTJ	I	_	18	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+18	tousnes	Tunisie	PROPN	NPP	_	16	prataxis	_	lang=ar_dz|ComposedUDPOS=PROPN
+19	asaghira	la petite	ADJ	ADJ	_	18	amod	_	lang=ar_msa|ComposedUDPOS=ADJ
+20-21	al3adhima	_	_	_	_	_	_	_	lang=ar_msa
+20	al	la	DET	DET	_	21	det	_	SpaceAfter=No|lang=ar_msa|ComposedUDPOS=DET
+21	3adhima	majestieuse	ADJ	ADJ	_	18	amod	_	lang=ar_msa|ComposedUDPOS=ADJ
+
+# sent_id = 4672
+# text = dima isti3ana b lmgharba f jami3 lmajalat lol
+# trad_fr = toujours sollicitation avec les maghr√©bins dans tous les domaines lol
+1	dima	toujours	ADV	ADV	_	2	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+2	isti3ana	sollicitation	NOUN	NC	_	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN
+3	b	de	ADP	P	AdpType=Prep	4	case	_	lang=ar_dz|ComposedUDPOS=ADP
+4	lmgharba	les marocains	NOUN	DET+NC	_	2	nmod	_	lang=ar_dz|ComposedUDPOS=DET+NOUN
+5	f	dans	ADP	P	AdpType=Prep	7	case	_	lang=ar_dz|ComposedUDPOS=ADP
+6	jami3	tous	ADV	ADV	_	7	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+7	lmajalat	les domaines	NOUN	DET+NC	_	2	nmod	_	lang=ar_dz|ComposedUDPOS=DET+NOUN
+8	lol	lol	INTJ	I	_	2	discourse	_	lang=fr|ComposedUDPOS=INTJ
+
+# sent_id = 289
+# text = akhdem dwa barka? bla? bla? ? la3ab bness
+# trad_fr = fabrique les m√©dicaments et √ßa suffit sans ? sans ? jouer avec les gens
+1	akhdem	fabrique	VERB	VIMP	Mood=Imp	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	dwa	m√©dicament	NOUN	NC	_	1	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+3-4	barka?	_	_	_	_	_	_	_	lang=ar_dz
+3	barka	√ßa_suffit	ADV	ADV	_	2	advmod	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADV
+4	?	?	PUNCT	PONCT	_	1	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+5-6	bla?	_	_	_	_	_	_	_	_
+5	bla?	sans	ADP	P	AdpType=Prep	7	case	_	lang=ar_dz|ComposedUDPOS=ADP
+6	?	?	PUNCT	PONCT	_	5	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+7	la3ab	jeu	NOUN	NC	_	1	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+8-9	bness	_	_	_	_	_	_	_	lang=ar_dz
+8	b	avec	ADP	P	AdpType=Prep	9	case	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADP
+9	ness	gens	NOUN	NC	_	7	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = 9325
+# text = hadi d3awi khalifa
+# trad_fr = ceci est une plainte Khalifa
+1	hadi	ceci	PRON	DEM	PronType=Dem	2	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+2	d3awi	plainte	NOUN	NC	_	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN
+3	khalifa	Khalifa	PROPN	NPP	_	2	nmod	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = 9290
+# text = m3ak ya bladi rabhin wella khasrine
+# trad_fr = avec toi √¥ mon pays gagnant ou perdant
+1	m3ak	avec toi	PRON	P+PRO	AdpType=Prep	3	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+2	ya	√¥	INTJ	VOC	_	3	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+3	bladi	mon pays	NOUN	NC+POSS	Possessive=Yes	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+4	rabhin	gagnant	ADJ	ADJ	_	3	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+5	wella	ou	CCONJ	CC	_	6	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+6	khasrine	perdant	ADJ	ADJ	_	4	conj:coord	_	lang=ar_dz|ComposedUDPOS=ADJ
+
+# sent_id = 2088
+# text = saraha ma3andna man9olo f nos freres algerien tbarklah 3likom
+# trad_fr = franchement nous ne disons pas √† nos fr√®res alg√©riens qu'Allah vous b√©nissent
+1	saraha	franchement	ADV	ADV	_	3	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+2	ma3andna	nous n'avons pas	ADP	PART-NEG+P+PRO	Polarity=Neg|AdpType=Prep	3	case	_	lang=ar_dz|ComposedUDPOS=PART+ADP+PRON
+3	man9olo	nous ne disons pas	VERB	PART-NEG+V	Polarity=Neg	0	root	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+4	f	√†	ADP	P	AdpType=Prep	6	case	_	lang=ar_dz|ComposedUDPOS=ADP
+5	nos	nos	DET	DET	_	6	det	_	lang=fr|ComposedUDPOS=DET
+6	freres	fr√®res	NOUN	NC	_	3	obl	_	lang=fr|ComposedUDPOS=NOUN
+7	algerien	alg√©riens	ADJ	ADJ	_	6	amod	_	lang=fr|ComposedUDPOS=ADJ
+8-9	tbarklah	_	_	_	_	_	_	_	lang=ar_dz
+8	tbark	b√©nit	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	3	parataxis	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=VERB
+9	lah	Allah	PROPN	NPP	_	8	obj	_	lang=ar_dz|ComposedUDPOS=PROPN
+10	3likom	√† vous	PRON	P+PRO	AdpType=Prep	8	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+
+# sent_id = 3781
+# text = 1 2 3 vive algerian ;3ak ya rezki bey"""""""
+# trad_fr = 1 2 3 vive l'Alg√©rie nous sommes avec toi cher Rezki Bey
+1	1	1	INTJ	I	_	5	discourse	_	lang=en|ComposedUDPOS=INTJ
+2	2	2	INTJ	I	_	5	discourse	_	lang=en|ComposedUDPOS=INTJ
+3	3	3	INTJ	I	_	5	discourse	_	lang=en|ComposedUDPOS=INTJ
+4	vive	vive	INTJ	I	_	5	discourse	_	lang=fr|ComposedUDPOS=INTJ
+5	algerian	Alg√©rie	ADJ	ADJ	_	8	discourse	_	lang=en|ComposedUDPOS=ADJ
+6	;3ak	avec toi	PRON	P+PRO	AdpType=Prep	8	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+7	ya	oh	INTJ	VOC	_	8	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+8	rezki	Rezki	PROPN	NPP	_	0	root	_	lang=ar_dz|ComposedUDPOS=PROPN
+9	bey	bye	INTJ	I	_	8	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+
+# sent_id = 4540
+# text = makach ballon f dzayer barka ma tkhaltou 3lina normalement drahem li rahoum yaklou fihom les joueurs (mssaken) ya3touhom les jeunes (hommes) rakoum 3labalkoum kechma yekhdmou 3la rwah om lhala rahi ri tzid tes3ab allah yjib lkhir
+# trad_fr = il n'y a pas jeux dans Algerie et √ßa suffit ne vous trompez de nous normalement de l'argent qui sont ils mangent pour eux les joueurs ( pauvres ) ils donnent eux les jeunes ( hommes ) vous votre avis √† vous  ils travaillent pour  Om l'ambiance est sauf tu ajoutes √™tre difficile Dieu ram√©ne le bien
+1	makach	ne √™tre pas	VERB	PART-NEG+V	Polarity=Neg	0	root	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+2	ballon	ballon	NOUN	NC	_	1	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+3	f	en	ADP	P	AdpType=Prep	4	case	_	lang=ar_dz|ComposedUDPOS=ADP
+4	dzayer	Alg√©rie	PROPN	NPP	_	1	obl	_	lang=ar_dz|ComposedUDPOS=PROPN
+5	barka	car	ADP	P	AdpType=Prep	7	case	_	lang=ar_dz|ComposedUDPOS=ADP
+6	ma	pas	PART	PART-NEG	Polarity=Neg	7	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+7	tkhaltou	vous m√©langer	VERB	V2mp	Gender=Masc|Number=Plur|Person=2	1	ccomp	_	lang=ar_dz|ComposedUDPOS=VERB
+8	3lina	pour nous	PRON	P+PRO	AdpType=Prep	7	obj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+9	normalement	normalement	ADV	ADV	_	10	advmod	_	lang=fr|ComposedUDPOS=ADV
+10	drahem	argent	NOUN	NC	_	1	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+11	li	qui	PRON	PROREL	PronType=Rel	12	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+12	rahoum	ils √™tre	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	10	acl:relcl	_	lang=ar_dz|ComposedUDPOS=VERB
+13	yaklou	ils manger	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	12	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+14	fihom	sur eux	PRON	P+PRO	AdpType=Prep	13	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+15	les	les	DET	DET	_	16	det	_	lang=fr|ComposedUDPOS=DET
+16	joueurs	joueurs	NOUN	NC	_	13	obj	_	lang=fr|ComposedUDPOS=NOUN
+17-19	(mssaken)	_	_	_	_	_	_	_	_
+17	(	(	PUNCT	PONCT	_	12	punct	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=PUNCT
+18	mssaken	pauvres	ADJ	ADJ	_	16	amod	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADJ
+19	)	)	PUNCT	PONCT	_	12	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+20	ya3touhom	ils donner eux	VERB	V3mp+PRO	Gender=Masc|Number=Plur|Person=3	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+21	les	les	DET	DET	_	22	det	_	lang=fr|ComposedUDPOS=DET
+22	jeunes	joueurs	NOUN	NC	_	20	obj	_	lang=fr|ComposedUDPOS=NOUN
+23-25	(hommes)	_	_	_	_	_	_	_	_
+23	(	(	PUNCT	PONCT	_	20	punct	_	SpaceAfter=No|lang=fr|ComposedUDPOS=PUNCT
+24	hommes	hommes	NOUN	NC	_	22	nmod	_	SpaceAfter=No|lang=fr|ComposedUDPOS=NOUN
+25	)	)	PUNCT	PONCT	_	20	punct	_	lang=fr|ComposedUDPOS=PUNCT
+26	rakoum	vous √™tre	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+27	3labalkoum	sur attention votre	NOUN	P+NC+PRO	AdpType=Prep	26	obj	_	lang=ar_dz|ComposedUDPOS=ADP+NOUN+PRON
+28	kechma	comment	ADV	ADVWH	_	29	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+29	yekhdmou	ils travailler	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	26	advcl	_	lang=ar_dz|ComposedUDPOS=VERB
+30	3la	sur	ADP	P	AdpType=Prep	32	case	_	lang=ar_dz|ComposedUDPOS=ADP
+31	rwah	leurs	NOUN	NC	_	29	obl	_	lang=ar_dz|ComposedUDPOS=X
+32	om	√¢mes	NOUN	NC	_	31	goeswith	_	lang=ar_dz|ComposedUDPOS=NOUN
+33	lhala	la situation	NOUN	DET+NC	_	34	nsubj	_	lang=ar_dz|ComposedUDPOS=DET+NOUN
+34	rahi	elle √™tre	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+35	ri	que	PART	PART-EXP	_	36	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+36	tzid	elle ajouter	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	34	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+37	tes3ab	elle empirer	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	36	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+38	allah	Allah	PROPN	NPP	_	39	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+39	yjib	il ramener	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+40	lkhir	le bien	NOUN	DET+NC	_	39	obj	_	lang=ar_dz|ComposedUDPOS=DET+NOUN
+
+# sent_id = 3496
+# text = Hadi c'est normal un juif 3andou facebook parce-que 24h/24 24 h / 24 ya9ra ou yet3alem
+# trad_fr = Hadi c'est normal un juif il a facebook parceque 24h / 24 24 heure sur 24 il lit et il apprend
+1	Hadi	√ßa	PRON	PRO	_	2	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+2	c'est	c'est	VERB	CLS-SUJ+V	_	0	root	_	lang=fr|ComposedUDPOS=PRON+VERB
+3	normal	normal	ADV	ADV	_	5	advmod	_	lang=fr|ComposedUDPOS=ADV
+4	un	un	DET	DET	_	5	det	_	lang=fr|ComposedUDPOS=DET
+5	juif	juif	ADJ	ADJ	_	2	obj	_	lang=fr|ComposedUDPOS=ADJ
+6	3andou	chez lui	PRON	P+PRO	AdpType=Prep	2	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+7	facebook	facebook	PROPN	NPP	_	6	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+8	parce-que	parceque	ADV	ADVWH	_	10	advmod	_	lang=fr|ComposedUDPOS=ADV
+9-12	24h/24	_	_	_	_	_	_	_	_
+9	24	24	DET	DET	_	10	det	_	lang=fr|ComposedUDPOS=DET
+10	h	heure	NOUN	NC	_	7	nmod	_	lang=fr|ComposedUDPOS=NOUN
+11	/	sur	ADP	P	AdpType=Prep	12	case	_	lang=fr|ComposedUDPOS=ADP
+12	24	24	DET	DET	_	10	det	_	lang=fr|ComposedUDPOS=NOUN
+13	ya9ra	il lit	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	2	advcl	_	lang=ar_dz|ComposedUDPOS=VERB
+14	ou	et	CCONJ	CC	_	15	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+15	yet3alem	il apprend	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	13	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB
+
+# sent_id = 1028
+# text = hakda les algerien winchalah coup du monde wsa3dan lazmek t3aet 3la jabour
+# trad_fr = comme √ßa les alg√©riens et si Dieu le veux la coupe du monde et Saadane faudrait que t' appelles √† Jabbour
+1	hakda	comme √ßa	PRON	DEM	PronType=Dem	3	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+2	les	les	DET	DET	_	3	det	_	lang=fr|ComposedUDPOS=DET
+3	algerien	alg√©riens	NOUN	NC	_	0	root	_	lang=fr|ComposedUDPOS=NOUN
+4-5	winchalah	_	_	_	_	_	_	_	lang=ar_dz
+4	w	et	CCONJ	CC	_	5	cc	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=CCONJ
+5	inchalah	InchaAllah	INTJ	I	_	6	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+6	coup	coupe	NOUN	NC	_	3	parataxis	_	lang=fr|ComposedUDPOS=NOUN
+7	du	du	ADP	P+DET	AdpType=Prep	8	case	_	lang=fr|ComposedUDPOS=ADP+DET
+8	monde	monde	NOUN	NC	_	6	nmod	_	lang=fr|ComposedUDPOS=NOUN
+9-10	wsa3dan	_	_	_	_	_	_	_	lang=ar_dz
+9	w	et	CCONJ	CC	_	10	cc	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=CCONJ
+10	sa3dan	Saadane	PROPN	NPP	_	11	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+11	lazmek	faudrait toi	VERB	V	_	3	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+12	t3aet	appeler	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	11	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+13	3la	√†	ADP	P	AdpType=Prep	14	case	_	lang=ar_dz|ComposedUDPOS=ADP
+14	jabour	Jabbour	PROPN	NPP	_	12	obl	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = M4S34
+# text = Kif li yesreq jarou ki ychoufou rah fi voyage
+# trad_fr = Comme quelqu'un qui vole son voisin quand il le voit partir en voyage
+1	Kif	Comme	SCONJ	CS	_	3	mark	_	lang=ar_dz|ComposedUDPOS=SCONJ
+2	li	qui	PRON	PROREL	PronType=Rel	3	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+3	yesreq	vole	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+4	jarou	son voisin	NOUN	NC+POSS	Possessive=Yes	3	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+5	ki	quand	ADV	ADV	_	6	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+6	ychoufou	il voit	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	3	advcl	_	lang=ar_dz|ComposedUDPOS=VERB
+7	rah	partis	VERB	V	_	6	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+8	fi	en	ADP	P	AdpType=Prep	9	case	_	lang=ar_dz|ComposedUDPOS=ADP
+9	voyage	voyage	NOUN	NC	_	7	obl	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = 75
+# text = kol youm 3andak jadide
+# trad_fr = chaque jour il y achez toi du nouveau
+1	kol	chaque	ADV	ADV	_	2	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+2	youm	jour	NOUN	NC	_	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN
+3	3andak	chez toi	PRON	P+PRO	AdpType=Prep	2	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+4	jadide	du nouveau	ADJ	ADJ	_	2	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+
+# sent_id = 4406
+# text = rabi yastar m3a english ou marican
+# trad_fr = que Dieu te prot√®ge avec les anglais et les am√©ricains
+1	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	2	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+2	yastar	il √©pargner	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	m3a	avec	ADP	P	AdpType=Prep	4	case	_	lang=ar_dz|ComposedUDPOS=ADP
+4	english	anglais	NOUN	NC	_	2	obl	_	lang=en|ComposedUDPOS=NOUN
+5	ou	et	CCONJ	CC	_	6	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+6	marican	am√©ricains	NOUN	NC	_	4	conj:coord	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = 1863
+# text = non rak ghalat rafik saifi mazawdj ou 3andou tafal
+# trad_fr = non tu as faux Rafik Saifi il est mari√© et il a des enfants
+1	non	non	INTJ	I	_	2	discourse	_	lang=fr|ComposedUDPOS=INTJ
+2	rak	tu es	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	ghalat	FAUX	ADJ	ADJ	_	2	obj	_	lang=ar_dz|ComposedUDPOS=ADJ
+4	rafik	Rafik	PROPN	NPP	_	2	parataxis	_	lang=ar_dz|ComposedUDPOS=PROPN
+5	saifi	Saifi	PROPN	NPP	_	4	flat	_	lang=ar_dz|ComposedUDPOS=PROPN
+6	mazawdj	mari√©	ADJ	ADJ	_	4	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+7	ou	et	CCONJ	CC	_	9	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+8	3andou	il a	PRON	P+PRO	AdpType=Prep	9	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+9	tafal	enfant	NOUN	NC	_	6	conj:coord	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = 1854
+# text = rabi m3akome ila hatmcho bnayatkome parce que mol nia yatla3 ki la3lame allez les verts bonne chance rabi m3akom w rana m3akom jusqu'√† la mort
+# trad_fr = que Dieu soit avec vous vous partez votre pure intention  parce que celui avec une pure intention monte comme un drapeau allez les verts bonne chance que Dieu soit avec vous et nous sommes avec vous jusqu'√† la mort
+1	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	4	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+2	m3akome	avec vous	PRON	P+PRO	AdpType=Prep	1	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+3	ila	sauf	PART	PART-EXP	_	4	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+4	hatmcho	partir	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+5	bnayatkome	votre pure intention	NOUN	NC+POSS	Possessive=Yes	4	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+6	parce	parce	X	YM	_	10	mark	_	lang=fr|ComposedUDPOS=X
+7	que	que	SCONJ	CS	_	6	fixed	_	lang=fr|ComposedUDPOS=SCONJ
+8	mol	celui	PRON	PROREL	PronType=Rel	10	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+9	nia	pure intention	NOUN	NC	_	8	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+10	yatla3	monte	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	4	advcl	_	lang=ar_dz|ComposedUDPOS=VERB
+11	ki	comme	ADP	P	AdpType=Prep	13	case	_	lang=ar_dz|ComposedUDPOS=ADP
+12-13	la3lame	_	_	_	_	_	_	_	lang=ar_dz
+12	la	le	DET	DET	_	13	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+13	3lame	drapeau	NOUN	NC	_	10	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+14	allez	allez	VERB	VIMP	Mood=Imp	4	parataxis	_	lang=fr|ComposedUDPOS=VERB
+15	les	les	DET	DET	_	16	det	_	lang=fr|ComposedUDPOS=DET
+16	verts	verts	NOUN	NC	_	14	obj	_	lang=fr|ComposedUDPOS=NOUN
+17	bonne	bonne	ADJ	ADJ	_	2	parataxis	_	lang=fr|ComposedUDPOS=ADJ
+18	chance	chance	INTJ	I	_	17	discourse	_	lang=fr|ComposedUDPOS=INTJ
+19	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	2	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+20	m3akom	avec vous	PRON	P+PRO	AdpType=Prep	19	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+21	w	et	CCONJ	CC	_	22	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+22	rana	nous sommes	VERB	V	_	19	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB
+23	m3akom	avec vous	PRON	P+PRO	AdpType=Prep	22	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+24	jusqu'√†	jusqu'√†	ADP	P	AdpType=Prep	26	case	_	lang=fr|ComposedUDPOS=ADP
+25	la	la	DET	DET	_	26	det	_	lang=fr|ComposedUDPOS=DET
+26	mort	mort	ADJ	ADJ	_	22	obl	_	lang=fr|ComposedUDPOS=ADJ
+
+# sent_id = 3479
+# text = alah ysahelkoum nchllh w rabi m3akoum w maykoun ghi lkhir nchallh bon chance pour tt le monde
+# trad_fr = que Dieu vous facilite si Dieu le veux et que Dieu soit avec vous et qu'ils n'y aient que du bon pour vous si Dieu le veux bonne chance √† tout le monde
+1	alah	Dieu	PROPN	NPP	_	2	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+2	ysahelkoum	vous facilite	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+3	nchllh	inchaAllah	INTJ	I	_	2	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+4	w	et	CCONJ	CC	_	5	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+5	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	2	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+6	m3akoum	avec vous	PRON	P+PRO	AdpType=Prep	5	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+7	w	et	CCONJ	CC	_	8	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+8	maykoun	a pas	VERB	PART-NEG+V	Polarity=Neg	2	parataxis	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+9	ghi	que	PART	PART-EXP	_	11	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+10-11	lkhir	_	_	_	_	_	_	_	lang=ar_dz
+10	l	le	DET	DET	_	11	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+11	khir	bon	NOUN	NC	_	8	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+12	nchallh	inchaAllah	INTJ	I	_	8	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+13	bon	bonne	ADJ	ADJ	_	12	amod	_	lang=fr|ComposedUDPOS=ADJ
+14	chance	chance	NOUN	NC	_	8	parataxis	_	lang=fr|ComposedUDPOS=NOUN
+15	pour	pour	ADP	P	AdpType=Prep	18	case	_	lang=fr|ComposedUDPOS=ADP
+16	tt	tout	ADV	ADV	_	18	advmod	_	lang=fr|ComposedUDPOS=ADV
+17	le	le	DET	DET	_	18	det	_	lang=fr|ComposedUDPOS=DET
+18	monde	monde	NOUN	NC	_	14	nmod	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = 4473
+# text = hsbiya lah wa ni3ma wakil fi dawlatina nkifach sayfi ta3tolo melyar ou hada meskin ma3andoch bach yachri khobza anchalah yakhsroga3 li match
+# trad_fr = √ßa me suffit Dieu et gr√¢ce protecteur dans pays notre suffire Saifi vous lui donner milliard et ce pauvre il n'a pas pour il achete pain inchaAllah perdre tout qui match
+1	hsbiya	suffit √†_moi	VERB	V+CLO	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+2	lah	Allah	PROPN	NPP	_	1	obj	_	lang=ar_dz|ComposedUDPOS=PROPN
+3	wa	et	CCONJ	CC	_	4	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+4	ni3ma	meilleur	NOUN	NC	_	1	conj:coord	_	lang=ar_dz|ComposedUDPOS=NOUN
+5	wakil	mandataire	ADJ	ADJ	_	4	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+6	fi	dans	ADP	P	AdpType=Prep	7	case	_	lang=ar_dz|ComposedUDPOS=ADP
+7	dawlatina	notre √©tat	NOUN	NC+POSS	Possessive=Yes	1	obl	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+8	nkifach	comment	ADV	ADVWH	_	10	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+9	sayfi	Saifi	PROPN	NPP	_	10	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+10	ta3tolo	vous donner lui	VERB	V2mp+PRO	Gender=Masc|Number=Plur|Person=2	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+11	melyar	milliard	NOUN	NC	_	10	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+12	ou	et	CCONJ	CC	_	13	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+13	hada	ce	PRON	DEM	PronType=Dem	15	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+14	meskin	pauvre	ADJ	ADJ	_	13	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+15	ma3andoch	pas chez lui	ADP	PART-NEG+P+PRO	Polarity=Neg|AdpType=Prep	1	parataxis	_	lang=ar_dz|ComposedUDPOS=PART+ADP+PRON
+16	bach	de_quoi	ADP	P	AdpType=Prep	17	case	_	lang=ar_dz|ComposedUDPOS=ADP
+17	yachri	il acheter	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	15	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+18	khobza	pain	NOUN	NC	_	17	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+19	anchalah	inchaAllah	INTJ	I	_	17	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+20	yakhsroga3	perdre tout	VERB	V+ADV	_	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+ADV
+21	li	les	DET	DET	_	22	det	_	lang=ar_dz|ComposedUDPOS=DET
+22	match	matchs	NOUN	NC	_	20	obj	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = 9346
+# text = salem inchaallah farikna yarbah wa nekoll lsaadane lazamlkom rokya hadi matekoune raire 3aine elhasdine
+# trad_fr = paix si Dieu le veux notre √©quipe gagne et nous dirons √† Saadane il vous faut la lecture Quran cel√† n'est pas que l'oeil des envieux
+1	salem	paix	NOUN	NC	_	4	dep	_	lang=ar_dz|ComposedUDPOS=NOUN
+2	inchaallah	si Dieu le veux	INTJ	I	_	4	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+3	farikna	notre √©quipe	NOUN	NC+POSS	Possessive=Yes	4	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+4	yarbah	gagne	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+5	wa	et	CCONJ	CC	_	6	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+6	nekoll	nous disons	VERB	V1mp	Gender=Masc|Number=Plur|Person=1	4	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB
+7-8	lsaadane	_	_	_	_	_	_	_	lang=ar_dz
+7	l	√†	ADP	P	AdpType=Prep	8	case	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADP
+8	saadane	Saadane	PROPN	NPP	_	6	obl	_	lang=ar_dz|ComposedUDPOS=PROPN
+9	lazamlkom	il vous faut	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	6	ccomp	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+10	rokya	lecture Quran	NOUN	NC	_	9	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+11	hadi	cel√†	PRON	DEM	PronType=Dem	12	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+12	matekoune	n'est pas	VERB	PART-NEG+V	Polarity=Neg	4	parataxis	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+13	raire	que	PART	PART-EXP	_	14	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+14	3aine	oeil	NOUN	NC	_	12	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+15-16	elhasdine	_	_	_	_	_	_	_	lang=ar_dz
+15	el	des	DET	DET	_	16	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+16	hasdine	envieux	ADJ	ADJ	_	14	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+
+# sent_id = M1S11
+# text = Ratteb qaanoun al ousra, tant pie lyoum rej3et 7ourra, jm'en fou ana mzewwaj 3achra
+# trad_fr = Arrange la loi de la famille, tant pis aujourd'hui elle est devenu libre, je m'en fou moi je suis mari√© √† dix femmes
+1	Ratteb	t'arrange	VERB	V2ms	Gender=Masc|Number=Sing|Person=2	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	qaanoun	loi	NOUN	NC	_	1	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+3	al	la	DET	DET	_	4	det	_	lang=ar_dz|ComposedUDPOS=DET
+4-5	ousra,	_	_	_	_	_	_	_	lang=ar_dz
+4	ousra	famille	NOUN	NC	_	2	nmod	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=NOUN
+5	,	,	PUNCT	PONCT	_	1	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+6	tant	tant	X	YM	_	10	advmod	_	lang=fr|ComposedUDPOS=X
+7	pie	pis	ADV	ADV	_	6	fixed	_	lang=fr|ComposedUDPOS=ADV
+8-9	lyoum	_	_	_	_	_	_	_	lang=ar_dz
+8	l	le	DET	DET	_	9	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+9	youm	jour	NOUN	NC	_	10	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+10	rej3et	elle devient	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+11-12	7ourra,	_	_	_	_	_	_	_	lang=ar_dz
+11	7ourra	libre	ADJ	ADJ	_	10	obj	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADJ
+12	,	,	PUNCT	PONCT	_	10	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+13-15	jm'en	_	_	_	_	_	_	_	lang=fr
+13	j	je	PRON	CLS-SUJ	_	16	nsubj	_	SpaceAfter=No|lang=fr|ComposedUDPOS=PRON
+14	m'	m'	PRON	CLR	_	16	iobj	_	SpaceAfter=No|lang=fr|ComposedUDPOS=PRON
+15	en	en	PRON	CLO	_	16	obj	_	lang=fr|ComposedUDPOS=PRON
+16	fou	fou	VERB	V	_	11	parataxis	_	lang=fr|ComposedUDPOS=VERB
+17	ana	moi	PRON	CLS-SUJ	_	18	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+18	mzewwaj	mari√©	ADJ	ADJ	_	16	ccomp	_	lang=ar_dz|ComposedUDPOS=ADJ
+19	3achra	dix	NOUN	NC	_	18	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = 9324
+# text = Rabi y3awen kawetna twanssa rana net3almou menkoum
+# trad_fr = mon Dieu aide nos soeurs tunisiennes nous somme en train d'apprendre avec vous
+1	Rabi	mon Dieu	NOUN	NC	_	2	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN
+2	y3awen	aide	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	kawetna	nos soeurs	NOUN	NC+POSS	Possessive=Yes	2	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+4	twanssa	tunisiennes	ADJ	ADJ	_	3	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+5	rana	nous somme	VERB	V	_	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+6	net3almou	nous apprenons	VERB	V1mp	Gender=Masc|Number=Plur|Person=1	5	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+7	menkoum	avec vous	PRON	P+PRO	AdpType=Prep	6	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+
+# sent_id = 2883
+# text = 3andou wach shih hada Lamouchiaca cerai bien qi'il retourne au bled
+# trad_fr = il a quoi de bien ce Lamouchia √ßa serait bien qu'il retourne au bled
+1	3andou	chez lui	PRON	P+PRO	AdpType=Prep	7	parataxis	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+2	wach	quoi	ADV	ADVWH	_	3	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+3	shih	neuf	ADJ	ADJ	_	1	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+4	hada	ce	PRON	DEM	PronType=Dem	5	det	_	lang=ar_dz|ComposedUDPOS=PRON
+5-6	Lamouchiaca	_	_	_	_	_	_	_	lang=fr
+5	Lamouchia	Lamouchia	PROPN	NPP	_	1	appos	_	SpaceAfter=No|lang=fr|ComposedUDPOS=PROPN
+6	ca	√ßa	PRON	PRO	_	7	nsubj	_	lang=fr|ComposedUDPOS=PRON
+7	cerai	serait	VERB	V	_	0	root	_	lang=fr|ComposedUDPOS=VERB
+8	bien	bien	ADJ	ADJ	_	7	obj	_	lang=fr|ComposedUDPOS=ADJ
+9-10	qi'il	_	_	_	_	_	_	_	lang=fr
+9	qi'	qu'	SCONJ	CS	_	11	mark	_	SpaceAfter=No|lang=fr|ComposedUDPOS=SCONJ
+10	il	il	PRON	CLS-SUJ	_	11	nsubj	_	lang=fr|ComposedUDPOS=PRON
+11	retourne	retourne	VERB	V	_	7	parataxis	_	lang=fr|ComposedUDPOS=VERB
+12	au	au	ADP	P+DET	AdpType=Prep	13	case	_	lang=fr|ComposedUDPOS=ADP+DET
+13	bled	bled	NOUN	NC	_	11	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = 4634
+# text = had el3am ma3nda matetmch elnehd
+# trad_fr = cette l'ann√©e ne pas chez moi
+1	had	cette	PRON	DEM	PronType=Dem	2	det	_	lang=ar_dz|ComposedUDPOS=PRON
+2	el3am	l'ann√©e	NOUN	DET+NC	_	4	nmod	_	lang=ar_dz|ComposedUDPOS=DET+NOUN
+3	ma3nda	ne pas chez moi	ADP	PART-NEG+P+PRO	Polarity=Neg|AdpType=Prep	4	case	_	lang=ar_dz|ComposedUDPOS=PART+ADP+PRON
+4	matetmch	o√π aller	VERB	PART-NEG+V	Polarity=Neg	0	root	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+5	elnehd	El NAHD	PROPN	NPP	_	4	obj	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = 3930
+# text = la la yastahel sa3dan m3ak dima 123 viva l'algerie
+# trad_fr = non non il  m√©rite Saadane nous seront toujours avec toi 123 viva l'Alg√©rie
+1	la	pas	PART	PART-NEG	Polarity=Neg	3	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+2	la	pas	PART	PART-NEG	Polarity=Neg	3	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+3	yastahel	m√©rite	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+4	sa3dan	Saadane	PROPN	NPP	_	3	obj	_	lang=ar_dz|ComposedUDPOS=PROPN
+5	m3ak	avec toi	PRON	P+PRO	AdpType=Prep	3	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+6	dima	toujours	ADV	ADV	_	10	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+7	123	123	INTJ	I	_	10	discourse	_	lang=en|ComposedUDPOS=INTJ
+8	viva	viva	INTJ	I	_	10	discourse	_	lang=es|ComposedUDPOS=INTJ
+9-10	l'algerie	_	_	_	_	_	_	_	lang=fr
+9	l'	l'	DET	DET	_	10	det	_	SpaceAfter=No|lang=fr|ComposedUDPOS=DET
+10	algerie	Alg√©rie	PROPN	NPP	_	3	parataxis	_	lang=fr|ComposedUDPOS=PROPN
+
+# sent_id = 4568
+# text = rabi yedj3al had el 3am 3am khir 3ala el djazair Yarabi
+# trad_fr = que Dieu faire il cette le ann√©e ann√©e bien sur le Alg√©rie oh mon Dieu
+1	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	2	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+2	yedj3al	faire il	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	had	ce	PRON	DEM	PronType=Dem	5	det	_	lang=ar_dz|ComposedUDPOS=PRON
+4	el	l'	DET	DET	_	5	det	_	lang=ar_dz|ComposedUDPOS=DET
+5	3am	ann√©e	NOUN	NC	_	2	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+6	3am	ann√©e	NOUN	NC	_	5	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+7	khir	bien	NOUN	NC	_	5	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+8	3ala	sur	ADP	P	AdpType=Prep	10	case	_	lang=ar_dz|ComposedUDPOS=ADP
+9	el	l'	DET	DET	_	10	det	_	lang=ar_dz|ComposedUDPOS=DET
+10	djazair	Alg√©rie	PROPN	NPP	_	2	obl	_	lang=ar_dz|ComposedUDPOS=PROPN
+11	Yarabi	oh mon Dieu	NOUN	VOC+NC+POSS	Possessive=Yes	10	nmod	_	lang=ar_dz|ComposedUDPOS=INTJ+NOUN+PRON
+
+# sent_id = 9335
+# text = vive l'algerie rana m3akoum ya moharibiy sahraa ya afnak m3ak ya lkhadra m3ak ya dzayer diri hala
+# trad_fr = vive l'Alg√©rie nous sommes avec vous √¥ soldats sahara √¥ fennecs nous somme avec toi √¥ les verts nous somme avec toi √¥ Algerie fait la f√™te
+1	vive	vive	INTJ	I	_	3	discourse	_	lang=fr|ComposedUDPOS=INTJ
+2-3	l'algerie	_	_	_	_	_	_	_	lang=fr
+2	l'	l'	DET	DET	_	3	det	_	SpaceAfter=No|lang=fr|ComposedUDPOS=DET
+3	algerie	Alg√©rie	PROPN	NPP	_	4	parataxis	_	lang=fr|ComposedUDPOS=PROPN
+4	rana	nous sommes	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+5	m3akoum	avec vous	PRON	P+PRO	AdpType=Prep	4	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+6	ya	√¥	INTJ	VOC	_	7	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+7	moharibiy	soldats	NOUN	NC	_	5	appos	_	lang=ar_dz|ComposedUDPOS=NOUN
+8	sahraa	sahara	PROPN	NPP	_	7	nmod	_	lang=ar_dz|ComposedUDPOS=PROPN
+9	ya	√¥	INTJ	VOC	_	10	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+10	afnak	fennecs	NOUN	NC	_	4	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+11	m3ak	avec toi	PRON	P+PRO	AdpType=Prep	10	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+12	ya	√¥	INTJ	VOC	_	14	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+13-14	lkhadra	_	_	_	_	_	_	_	lang=ar_dz
+13	l	les	DET	DET	_	14	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+14	khadra	verts	ADJ	ADJ	_	4	discourse	_	lang=ar_dz|ComposedUDPOS=ADJ
+15	m3ak	avec toi	PRON	P+PRO	AdpType=Prep	14	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+16	ya	√¥	INTJ	VOC	_	17	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+17	dzayer	Algerie	PROPN	NPP	_	18	vocative	_	lang=ar_dz|ComposedUDPOS=PROPN
+18	diri	fait	VERB	V	_	4	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+19	hala	la f√™te	NOUN	NC	_	18	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = M4S71
+# text = Wana nmout meta3dib wra mandir i3tirafat
+# trad_fr = Et moi je meurs de la torture derri√®re je ne ferai pas des aveux
+1-2	Wana	_	_	_	_	_	_	_	lang=ar_dz
+1	W	et	CCONJ	CC	_	3	cc	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=CCONJ
+2	ana	moi	PRON	CLS-SUJ	_	3	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+3	nmout	je meurs	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+4	meta3dib	tortur√©	ADJ	ADJ	_	3	obj	_	lang=ar_dz|ComposedUDPOS=ADJ
+5	wra	derri√®re	ADP	P	AdpType=Prep	6	case	_	lang=ar_dz|ComposedUDPOS=ADP
+6	mandir	fais pas	VERB	PART-NEG+V	Polarity=Neg	3	obl	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+7	i3tirafat	aveux	NOUN	NC	_	6	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = 1939
+# text = vive mca w nchalah had l'3am championi
+# trad_fr = vive MCA et j'esp√®re que celle l√† cette ann√©e nous serons champions
+1	vive	vive	INTJ	I	_	2	discourse	_	lang=fr|ComposedUDPOS=INTJ
+2	mca	MCA	PROPN	NPP	_	0	root	_	lang=fr|ComposedUDPOS=PROPN
+3	w	et	CCONJ	CC	_	4	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+4	nchalah	inchaAllah	INTJ	I	_	5	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+5	had	cette	PRON	DEM	PronType=Dem	7	det	_	lang=ar_dz|ComposedUDPOS=PRON
+6-7	l'3am	_	_	_	_	_	_	_	lang=ar_dz
+6	l'	l'	DET	DET	_	7	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+7	3am	ann√©e	NOUN	NC	_	2	parataxis	_	lang=|ComposedUDPOS=NOUN
+8	championi	champions	NOUN	NC	_	7	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = M2S13
+# text = album jdid fih soufrance ta3 nass
+# trad_fr = Un album tout recent avec de la souffrance des gens
+1	album	album	NOUN	NC	_	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN
+2	jdid	nouveau	ADJ	ADJ	_	1	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+3	fih	√† elle	PRON	P+PRO	AdpType=Prep	1	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+4	soufrance	souffrance	NOUN	NC	_	3	nmod	_	lang=fr|ComposedUDPOS=NOUN
+5	ta3	des	ADP	P	AdpType=Prep	6	case	_	lang=ar_dz|ComposedUDPOS=ADP
+6	nass	gens	NOUN	NC	_	4	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = 2446
+# text = Un grand merci pour cette √©quipe de s√©tif l3ali et je les souhaite beaucoup plus de succ√®s
+# trad_fr = Un grand merci √† cette √©quipe de S√©tif le haut et je leurs souhaite beaucoup plus de succ√®s
+1	Un	Un	DET	DET	_	2	det	_	lang=fr|ComposedUDPOS=DET
+2	grand	grand	ADJ	ADJ	_	3	amod	_	lang=fr|ComposedUDPOS=ADJ
+3	merci	merci	INTJ	I	_	6	discourse	_	lang=fr|ComposedUDPOS=INTJ
+4	pour	pour	ADP	P	AdpType=Prep	6	case	_	lang=fr|ComposedUDPOS=ADP
+5	cette	cette	DET	DET	_	6	det	_	lang=fr|ComposedUDPOS=DET
+6	√©quipe	√©quipe	NOUN	NC	_	14	parataxis	_	lang=fr|ComposedUDPOS=NOUN
+7	de	de	ADP	P	AdpType=Prep	8	case	_	lang=fr|ComposedUDPOS=ADP
+8	s√©tif	S√©tif	PROPN	NPP	_	6	nmod	_	lang=fr|ComposedUDPOS=PROPN
+9-10	l3ali	_	_	_	_	_	_	_	lang=ar_dz
+9	l	le	DET	DET	_	10	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+10	3ali	haut	ADJ	ADJ	_	8	amod	_	lang=|ComposedUDPOS=ADJ
+11	et	et	CCONJ	CC	_	12	cc	_	lang=fr|ComposedUDPOS=CCONJ
+12	je	je	PRON	CLS-SUJ	_	14	nsubj	_	lang=fr|ComposedUDPOS=PRON
+13	les	leurs	PRON	PRO	_	14	obl	_	lang=fr|ComposedUDPOS=PRON
+14	souhaite	souhaite	VERB	V	_	0	root	_	lang=fr|ComposedUDPOS=VERB
+15	beaucoup	beaucoup	ADV	ADV	_	18	advmod	_	lang=fr|ComposedUDPOS=ADV
+16	plus	plus	ADV	ADV	_	18	advmod	_	lang=fr|ComposedUDPOS=ADV
+17	de	de	ADP	P	AdpType=Prep	18	case	_	lang=fr|ComposedUDPOS=ADP
+18	succ√®s	succ√®s	NOUN	NC	_	14	obj	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = 4692
+# text = elah yarhem dhahaya el irhab el hamadji ha dhou houma erdjal fi beladi ahhhhhh b elahra 3and boutef je pose un simple question est ce que un couchon comme ce la il peut vivre avec nous dans notre societe????? welahi manamenkoume ila goltou oui par ce que la solution d'extermine hadhou el mahkloukate
+# trad_fr = Quand Allah   le terrorisme le  ha  eux hommes dans mon pays ahhhhhh avec  chez Boutef je pose un simple question est ce que un couchon comme ce la il peut vivre avec nous dans notre societe????? Wallah  que je lui ai dit oui par ce que la solution d'extermine ces le créatures
+# error = manquante (ajout djamé) 
+# file = ../../../../4_Algerian_arabizi_clean_data/Sentences_AnnoteesByFarah/Annote_alg_arabizi-ud_test.conllu
+1	elah	Allah	PROPN	NPP	_	2	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+2	yarhem	il avoir_pitié	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	dhahaya	victimes	NOUN	NC	_	2	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+4	el	le	DET	DET	_	5	det	_	lang=ar_dz|ComposedUDPOS=DET
+5	irhab	terrorisme	NOUN	NC	_	2	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+6	el	le	DET	DET	_	7	det	_	lang=ar_dz|ComposedUDPOS=DET
+7	hamadji	bordélique	ADJ	ADJ	_	5	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+8	ha	celà	X	YM	_	11	det	_	lang=ar_dz|ComposedUDPOS=X
+9	dhou	celà	PRON	DEM	PronType=Dem	11	det	_	lang=ar_dz|ComposedUDPOS=PRON
+10	houma	eux	PRON	PRO	_	11	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+11	erdjal	hommes	NOUN	NC	_	2	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+12	fi	dans	ADP	P	AdpType=Prep	13	case	_	lang=ar_dz|ComposedUDPOS=ADP
+13	beladi	mon pays	NOUN	NC+POSS	Possessive=Yes	11	obl	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+14	ahhhhhh	ahhhhhh	INTJ	I	_	16	vocative	_	lang=ar_dz|ComposedUDPOS=INTJ
+15	b	en	ADP	P	AdpType=Prep	16	case	_	lang=ar_dz|ComposedUDPOS=ADP
+16	elahra	VRAI	ADJ	ADJ	_	11	parataxis	_	lang=ar_dz|ComposedUDPOS=ADJ
+17	3and	chez	ADP	P	AdpType=Prep	18	case	_	lang=ar_dz|ComposedUDPOS=ADP
+18	boutef	Boutef	PROPN	NPP	_	16	obl	_	lang=fr|ComposedUDPOS=PROPN
+19	je	je	PRON	CLS-SUJ	_	20	nsubj	_	lang=fr|ComposedUDPOS=PRON
+20	pose	pose	VERB	V	_	16	parataxis	_	lang=fr|ComposedUDPOS=VERB
+21	un	un	DET	DET	_	22	det	_	lang=fr|ComposedUDPOS=DET
+22	simple	simple	ADJ	ADJ	_	20	obj	_	lang=fr|ComposedUDPOS=ADJ
+23	question	question	NOUN	NC	_	24	nsubj	_	lang=fr|ComposedUDPOS=NOUN
+24	est	est	VERB	V	_	20	parataxis	_	lang=fr|ComposedUDPOS=VERB
+25	ce	ce	PRON	CLS-SUJ	_	26	nsubj	_	lang=fr|ComposedUDPOS=PRON
+26	que	que	SCONJ	CS	_	24	parataxis	_	lang=fr|ComposedUDPOS=SCONJ
+27	un	un	DET	DET	_	28	det	_	lang=fr|ComposedUDPOS=DET
+28	couchon	couchon	NOUN	NC	_	26	obj	_	lang=fr|ComposedUDPOS=NOUN
+29	comme	comme	ADP	P	AdpType=Prep	33	case	_	lang=fr|ComposedUDPOS=ADP
+30	ce	ceux	PRON	PRO	_	33	nsubj	_	lang=fr|ComposedUDPOS=PRON
+31	la	là	ADV	ADV	_	33	advmod	_	lang=fr|ComposedUDPOS=ADV
+32	il	il	PRON	CLS-SUJ	_	33	nsubj	_	lang=fr|ComposedUDPOS=PRON
+33	peut	peut	VERB	V	_	28	parataxis	_	lang=fr|ComposedUDPOS=VERB
+34	vivre	vivre	VERB	VINF	VerbForm=Inf	33	parataxis	_	lang=fr|ComposedUDPOS=VERB
+35	avec	avec	ADP	P	AdpType=Prep	36	case	_	lang=fr|ComposedUDPOS=ADP
+36	nous	nous	PRON	PRO	_	34	obl	_	lang=fr|ComposedUDPOS=PRON
+37	dans	dans	ADP	P	AdpType=Prep	39	case	_	lang=fr|ComposedUDPOS=ADP
+38	notre	notre	DET	DET	_	39	det	_	lang=fr|ComposedUDPOS=DET
+39	societe?????	societe?????	NOUN	NC+PONCT	_	34	obl	_	lang=fr|ComposedUDPOS=NOUN+PUNCT
+40	welahi	Wallah	INTJ	I	_	41	nsubj	_	lang=ar_dz|ComposedUDPOS=INTJ
+41	manamenkoume	ne_pas faire_confiance	VERB	PART-NEG+V1ms	Polarity=Neg|Gender=Masc|Number=Sing|Person=1	33	parataxis	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+42	ila	que	PART	PART-EXP	_	43	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+43	goltou	dire	VERB	V	_	41	obj	_	lang=ar_dz|ComposedUDPOS=VERB
+44	oui	oui	INTJ	I	_	47	vocative	_	lang=fr|ComposedUDPOS=INTJ
+45	par	par	X	YM	_	47	vocative	_	lang=fr|ComposedUDPOS=X
+46	ce	ce	X	YM	_	47	nsubj	_	lang=fr|ComposedUDPOS=X
+47	que	que	SCONJ	CS	_	43	parataxis	_	lang=fr|ComposedUDPOS=SCONJ
+48	la	la	DET	DET	_	49	det	_	lang=fr|ComposedUDPOS=DET
+49	solution	solution	NOUN	NC	_	50	nsubj	_	lang=fr|ComposedUDPOS=NOUN
+50	d'extermine	d'extermine	VERB	P+V	AdpType=Prep	47	parataxis	_	lang=fr|ComposedUDPOS=ADP+VERB
+51	hadhou	ces	PRON	DEM	PronType=Dem	53	det	_	lang=ar_dz|ComposedUDPOS=PRON
+52	el	les	DET	DET	_	53	det	_	lang=ar_dz|ComposedUDPOS=DET
+53	mahkloukate	créatures	NOUN	NC	_	50	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = M1S25
+# text = Ki nesma3 b satellite, w dzayer khadmet zalamet w tetfarqa3 ki dinamit
+# trad_fr = Quand j'entend sur le satellite, que l'Alg√©rie a fabriqu√© les allumettes, et elle l'explose comme de la dynamite
+1	Ki	Quand	ADV	ADV	_	2	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+2	nesma3	j'entend	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	b	sur	ADP	P	AdpType=Prep	4	case	_	lang=ar_dz|ComposedUDPOS=ADP
+4-5	satellite,	_	_	_	_	_	_	_	lang=fr
+4	satellite	satellite	NOUN	NC	_	2	obl	_	SpaceAfter=No|lang=fr|ComposedUDPOS=NOUN
+5	,	,	PUNCT	PONCT	_	2	punct	_	lang=fr|ComposedUDPOS=PUNCT
+6	w	ou	CCONJ	CC	_	7	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+7	dzayer	Alg√©rie	PROPN	NPP	_	8	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+8	khadmet	elle fabrique	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+9	zalamet	allumettes	NOUN	NC	_	8	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+10	w	et	CCONJ	CC	_	11	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+11	tetfarqa3	elle explose	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	8	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB
+12	ki	comme	ADV	ADV	_	13	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+13	dinamit	dynamite	NOUN	NC	_	11	obl	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = 2401
+# text = mlih yal3ab w klhalouna min hadra fargha hada wach na3arfou bark ghir hadra rahi batal salam vive l¬¥algerie
+# trad_fr = c'est mieux qu'il joue et laissez nous avec ces paroles futiles c'est tout ce qu'on sais seulement que parole c'est gratuit paix et vive l'Alg√©rie
+1	mlih	bien	ADJ	ADJ	_	2	obj	_	lang=ar_dz|ComposedUDPOS=ADJ
+2	yal3ab	jou√©	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	w	et	CCONJ	CC	_	4	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+4	klhalouna	laissez nous	VERB	V2mp+CLO	Gender=Masc|Number=Plur|Person=2	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+5	min	avec	ADP	P	AdpType=Prep	6	case	_	lang=ar_dz|ComposedUDPOS=ADP
+6	hadra	parole	NOUN	NC	_	4	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+7	fargha	vide	ADJ	ADJ	_	6	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+8	hada	celle-ci	PRON	DEM	PronType=Dem	10	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+9	wach	que	ADV	ADVWH	_	10	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+10	na3arfou	nous savons	VERB	V1mp	Gender=Masc|Number=Plur|Person=1	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+11	bark	seulement	ADV	ADV	_	13	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+12	ghir	que	PART	PART-EXP	_	13	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+13	hadra	parole	NOUN	NC	_	10	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+14	rahi	est elle	VERB	V	_	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+15	batal	champion	NOUN	NC	_	14	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+16	salam	paix	NOUN	NC	_	15	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+17	vive	vive	INTJ	I	_	19	discourse	_	lang=fr|ComposedUDPOS=INTJ
+18-19	l¬¥algerie	_	_	_	_	_	_	_	lang=fr
+18	l¬¥	l'	DET	DET	_	19	det	_	SpaceAfter=No|lang=fr|ComposedUDPOS=DET
+19	algerie	Alg√©rie	PROPN	NPP	_	2	parataxis	_	lang=fr|ComposedUDPOS=PROPN
+
+# sent_id = 4487
+# text = Allahouma achfi akhana rayane Allahouma khafif anhou Allahouma zidhou sabran Allahouma arziqhou el kafa oua al 3affaf Allahouma arzouq ahlahou al sebr Allahouma 3adjil bi chiffaihi
+# trad_fr = √¥ Allah nous garde nos fr√®res Rayan √¥ Allah alleger sur lui √¥ Allah ajoutez patients √¥ Allah donner lui le  et les gu√©rison √¥ Allah donner famille sa les patience √¥ Allah gu√©rir vite avec gu√©rison sien
+1	Allahouma	Allah	PROPN	NPP	_	2	vocative	_	lang=ar_msa|ComposedUDPOS=PROPN
+2	achfi	gu√©rir	VERB	VIMP	Mood=Imp	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	akhana	fr√®re notre	NOUN	NC+POSS	Possessive=Yes	2	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+4	rayane	Rayan	PROPN	NPP	_	3	nmod	_	lang=ar_dz|ComposedUDPOS=PROPN
+5	Allahouma	Allah	PROPN	NPP	_	6	vocative	_	lang=ar_dz|ComposedUDPOS=PROPN
+6	khafif	alleger	VERB	VIMP	Mood=Imp	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+7	anhou	sur lui	PRON	P+PRO	AdpType=Prep	6	obj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+8	Allahouma	Allah	PROPN	NPP	_	9	vocative	_	lang=ar_dz|ComposedUDPOS=PROPN
+9	zidhou	rajouter lui	VERB	VIMP+CLO	Mood=Imp	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+10	sabran	patience	NOUN	NC	_	9	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+11	Allahouma	Allah	PROPN	NPP	_	12	vocative	_	lang=ar_dz|ComposedUDPOS=PROPN
+12	arziqhou	donner lui	VERB	VIMP+CLO	Mood=Imp	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+13	el	le	DET	DET	_	14	det	_	lang=ar_dz|ComposedUDPOS=DET
+14	kafa	capacit√©	NOUN	NC	_	12	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+15	oua	et	CCONJ	CC	_	17	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+16	al	la	DET	DET	_	17	det	_	lang=ar_dz|ComposedUDPOS=DET
+17	3affaf	gu√©rison	NOUN	NC	_	14	conj:coord	_	lang=ar_dz|ComposedUDPOS=NOUN
+18	Allahouma	Allah	PROPN	NPP	_	19	vocative	_	lang=ar_dz|ComposedUDPOS=PROPN
+19	arzouq	donner	VERB	VIMP	Mood=Imp	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+20	ahlahou	famille sa	NOUN	NC+POSS	Possessive=Yes	19	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+21	al	la	DET	DET	_	22	det	_	lang=ar_dz|ComposedUDPOS=DET
+22	sebr	patience	NOUN	NC	_	20	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+23	Allahouma	Allah	PROPN	NPP	_	24	vocative	_	lang=ar_msa|ComposedUDPOS=PROPN
+24	3adjil	gu√©rir vite	VERB	VIMP	Mood=Imp	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+25	bi	avec	ADP	P	AdpType=Prep	26	case	_	lang=ar_dz|ComposedUDPOS=ADP
+26	chiffaihi	gu√©rison sien	NOUN	NC+POSS	Possessive=Yes	24	obl	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+
+# sent_id = 9281
+# text = nchoufo wach te3mel biha ya ben chikha m3a mahaliyin
+# trad_fr = nous avons vu ce que tu fais avec elle √î ben chikha avec locaux
+1	nchoufo	nous regardons	VERB	V1mp	Gender=Masc|Number=Plur|Person=1	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	wach	Que	ADV	ADVWH	_	3	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+3	te3mel	fais tu	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	1	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+4	biha	avec elle	PRON	P+PRO	AdpType=Prep	3	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+5	ya	√î	INTJ	VOC	_	6	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+6	ben	ben	PROPN	NPP	_	4	appos	_	lang=ar_dz|ComposedUDPOS=PROPN
+7	chikha	chikha	PROPN	NPP	_	6	flat	_	lang=ar_dz|ComposedUDPOS=PROPN
+8	m3a	avec	ADP	P	AdpType=Prep	9	case	_	lang=ar_dz|ComposedUDPOS=ADP
+9	mahaliyin	locaux	ADJ	ADJ	_	7	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+
+# sent_id = 1914
+# text = alhe yarhamha oi ya 3alha mina al moaminine oi mine ashabe al janhe
+# trad_fr = Dieu lui donne sa mis√©ricorde et qu' parmi les croyants et parmi partisans du paradis
+1	alhe	Dieu	PROPN	NPP	_	2	nsubj	_	lang=msa|ComposedUDPOS=PROPN
+2	yarhamha	lui donne sa mis√©ricorde	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=msa|ComposedUDPOS=VERB+PRON
+3	oi	et	CCONJ	CC	_	4	cc	_	lang=msa|ComposedUDPOS=CCONJ
+4	ya	il la rend	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	2	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+5	g3alha	la_rendre	VERB	V	_	4	goeswith	_	lang=ar_dz|ComposedUDPOS=X
+6	mina	√†	ADP	P	AdpType=Prep	8	case	_	lang=ar_dz|ComposedUDPOS=ADP
+7	al	les	DET	DET	_	8	det	_	lang=ar_dz|ComposedUDPOS=DET
+8	moaminine	croyants	NOUN	NC	_	4	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+9	oi	et	CCONJ	CC	_	11	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+10	mine	√†	ADP	P	AdpType=Prep	11	case	_	lang=ar_dz|ComposedUDPOS=ADP
+11	ashabe	amis	NOUN	NC	_	8	conj:coord	_	lang=ar_dz|ComposedUDPOS=NOUN
+12	al	le	DET	DET	_	13	det	_	lang=ar_dz|ComposedUDPOS=DET
+13	janhe	paradis	NOUN	NC	_	11	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = 413
+# text = rabi m3ana
+# trad_fr = que Dieu soit avec moi
+1	rabi	Dieu	NOUN	NC+POSS	Possessive=Yes	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+2	m3ana	avec moi	PRON	P+PRO	AdpType=Prep	1	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+
+# sent_id = 1965
+# text = rouh ya habibo nchallah rabi ykoun m3ak 123viva la algerie
+# trad_fr = pars oh mon cher j'esp√®re que Dieu sera avec toi 123 viva l' Alg√©rie
+1	rouh	pars	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	ya	oh	INTJ	VOC	_	3	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+3	habibo	cher mon	PROPN	NPP	_	1	obj	_	lang=ar_dz|ComposedUDPOS=PROPN
+4	nchallah	inchaAllah	INTJ	I	_	6	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+5	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	6	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+6	ykoun	sera	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+7	m3ak	avec toi	PRON	P+PRO	AdpType=Prep	6	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+8-9	123viva	_	_	_	_	_	_	_	lang=ar_dz
+8	123	123	INTJ	I	_	11	discourse	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=INTJ
+9	viva	viva	INTJ	I	_	11	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+10	la	l'	DET	DET	_	11	det	_	lang=fr|ComposedUDPOS=DET
+11	algerie	Alg√©rie	PROPN	NPP	_	1	parataxis	_	lang=fr|ComposedUDPOS=PROPN
+
+# sent_id = 1322
+# text = vive usman et vive m3aiza
+# trad_fr = vive USMA et vive Maiza
+1	vive	vive	INTJ	I	_	2	discourse	_	lang=fr|ComposedUDPOS=INTJ
+2	usman	USMA	PROPN	NPP	_	0	root	_	lang=fr|ComposedUDPOS=PROPN
+3	et	et	CCONJ	CC	_	5	cc	_	lang=fr|ComposedUDPOS=CCONJ
+4	vive	vive	INTJ	I	_	5	discourse	_	lang=fr|ComposedUDPOS=INTJ
+5	m3aiza	Maiza	PROPN	NPP	_	2	conj:coord	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = 983
+# text = hado homa rajala mojahidon vive hamas kataeb lkasam wekol lmokawama l mokawama ana tmenit nkon njahed m3ahom
+# trad_fr = ce sont eux les hommes victorieux vive Hamas Bataillons  du Kassam et tout la r√©sistance la r√©sistance moi j'aurais souhait√© faire la guerre avec eux
+1	hado	ceux l√†	PRON	DEM	PronType=Dem	15	parataxis	_	lang=ar_dz|ComposedUDPOS=PRON
+2	homa	eux	PRON	CLS-SUJ	_	1	nmod	_	lang=ar_dz|ComposedUDPOS=PRON
+3	rajala	hommes	NOUN	NC	_	2	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+4	mojahidon	victorieux	ADJ	ADJ	_	3	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+5	vive	vive	INTJ	I	_	6	discourse	_	lang=fr|ComposedUDPOS=INTJ
+6	hamas	Hamas	PROPN	NPP	_	15	parataxis	_	lang=ar_dz|ComposedUDPOS=PROPN
+7	kataeb	Bataillons	PROPN	NPP	_	6	flat	_	lang=ar_dz|ComposedUDPOS=PROPN
+8	lkasam	Qassam	PROPN	NPP	_	7	flat	_	lang=ar_dz|ComposedUDPOS=PROPN
+9-10	wekol	_	_	_	_	_	_	_	lang=ar_dz
+9	we	et	CCONJ	CC	_	11	cc	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=CCONJ
+10	kol	tout	ADV	ADV	_	11	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+11	lmokawama	la r√©sistance	NOUN	DET+NC	_	15	parataxis	_	lang=ar_dz|ComposedUDPOS=DET+NOUN
+12	l	la	DET	DET	_	13	det	_	lang=ar_dz|ComposedUDPOS=DET
+13	mokawama	r√©sistance	NOUN	NC	_	11	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+14	ana	moi	PRON	CLS-SUJ	_	15	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+15	tmenit	je souhait√©	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+16	nkon	je suis	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	15	obj	_	lang=ar_dz|ComposedUDPOS=VERB
+17	njahed	fait la guerre	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	16	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+18	m3ahom	avec eux	PRON	P+PRO	AdpType=Prep	17	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+
+# sent_id = 1767
+# text = rouhi ya bladi rouhi beslama c honteux les responssables nt3a albackss
+# trad_fr = pars oh mon pays pars en paix c'est honteux ces responsables des All Blacks
+1	rouhi	pars	VERB	V2fs	Gender=Fem|Number=Sing|Person=2	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	ya	oh	INTJ	VOC	_	3	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+3	bladi	mon pays	NOUN	NC+POSS	Possessive=Yes	1	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+4	rouhi	pars	VERB	V2fs	Gender=Fem|Number=Sing|Person=2	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+5-6	beslama	_	_	_	_	_	_	_	lang=ar_dz
+5	b	avec	ADP	P	AdpType=Prep	6	case	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADP
+6	eslama	la paix	NOUN	DET+NC	_	4	obl	_	lang=ar_dz|ComposedUDPOS=DET+NOUN
+7	c	c'est	VERB	CLS-SUJ+V	_	1	parataxis	_	lang=fr|ComposedUDPOS=PRON+VERB
+8	honteux	honteux	ADJ	ADJ	_	7	obj	_	lang=fr|ComposedUDPOS=ADJ
+9	les	les	DET	DET	_	10	det	_	lang=fr|ComposedUDPOS=DET
+10	responssables	responsables	NOUN	NC	_	8	nmod	_	lang=fr|ComposedUDPOS=NOUN
+11	nt3a	des	DET	DET	_	12	det	_	lang=ar_dz|ComposedUDPOS=DET
+12	albackss	All Blacks	PROPN	NPP	_	10	nmod	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = 640
+# text = 3andi koleche sofe l'exp√©reonce
+# trad_fr = j'ai tout sauf l'exp√©rience
+1	3andi	chez moi	PRON	P+PRO	AdpType=Prep	0	root	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+2	koleche	tout	ADV	ADV	_	1	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+3	sofe	sauf	ADP	P	AdpType=Prep	5	case	_	lang=ar_dz|ComposedUDPOS=ADP
+4-5	l'exp√©reonce	_	_	_	_	_	_	_	lang=ar_dz
+4	l'	le	DET	DET	_	5	det	_	SpaceAfter=No|lang=fr|ComposedUDPOS=DET
+5	exp√©reonce	exp√©rience	NOUN	NC	_	1	parataxis	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = 9349
+# text = viva l'algirie nchalah ya rabi rana rabhin ranna m3akom
+# trad_fr = vive l'Algerie si Dieu le veux √¥ Dieu nous sommes gagnant nous sommes avec vous
+1	viva	vive	INTJ	I	_	2	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+2	l'algirie	l'Algerie	PROPN	NPP	_	6	parataxis	_	lang=ar_dz|ComposedUDPOS=PROPN
+3	nchalah	si Dieu le veux	INTJ	I	_	6	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+4	ya	√¥	INTJ	VOC	_	5	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+5	rabi	Dieu	NOUN	NC+POSS	Possessive=Yes	6	vocative	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+6	rana	nous sommes	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+7	rabhin	gagnant	ADJ	ADJ	_	6	obj	_	lang=ar_dz|ComposedUDPOS=ADJ
+8	ranna	nous sommes	VERB	V	_	6	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+9	m3akom	avec vous	PRON	P+PRO	AdpType=Prep	8	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+
+# sent_id = M1S21
+# text = Tqoulchi khlassou rjal rmawna kamel f la poubelles; wach 3melna f isteqlal"""""""
+# trad_fr = On dirait qu'il n'y a plus d'hommes ils nous ont jet√© tous dans la poubelle; Qu'est-ce-qu'on a fait avec cette ind√©pendance"""""""
+1	Tqoulchi	dirait	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	khlassou	ils finissent	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	1	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+3	rjal	hommes	NOUN	NC	_	2	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+4	rmawna	ils jetent nous	VERB	V3mp+CLO	Gender=Masc|Number=Plur|Person=3	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+5	kamel	coml√®tement	ADV	ADV	_	8	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+6	f	dans	ADP	P	AdpType=Prep	8	case	_	lang=ar_dz|ComposedUDPOS=ADP
+7	la	la	DET	DET	_	8	det	_	lang=fr|ComposedUDPOS=DET
+8-9	poubelles;	_	_	_	_	_	_	_	lang=fr
+8	poubelles	poubelle	NOUN	NC	_	4	obl	_	SpaceAfter=No|lang=fr|ComposedUDPOS=NOUN
+9	;	;	PUNCT	PONCT	_	4	punct	_	lang=fr|ComposedUDPOS=PUNCT
+10	wach	que	ADV	ADVWH	_	11	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+11	3melna	nous faisons	VERB	V1mp	Gender=Masc|Number=Plur|Person=1	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+12	f	de	ADP	P	AdpType=Prep	13	case	_	lang=ar_dz|ComposedUDPOS=ADP
+13	isteqlal	l'ind√©pendance	NOUN	NC	_	11	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = 520
+# text = bnj lamouchia sa place est dans real madrid pas zamalek et m3ak ya khadra et vive ASO w mazel MCO
+# trad_fr = Bonjour Lamouchia sa place est au Real Madrid pas au Zamalek nous sommes avec toi oh les verts et vive l'ASO et encore le MCO
+1	bnj	bonjour	INTJ	I	_	2	discourse	_	lang=fr|ComposedUDPOS=INTJ
+2	lamouchia	Lamouchia	PROPN	NPP	_	4	nmod	_	lang=ar_dz|ComposedUDPOS=PROPN
+3	sa	sa	DET	DET	_	4	det	_	lang=fr|ComposedUDPOS=DET
+4	place	place	NOUN	NC	_	5	nsubj	_	lang=fr|ComposedUDPOS=NOUN
+5	est	est	VERB	V	_	0	root	_	lang=fr|ComposedUDPOS=VERB
+6	dans	dans	ADP	P	AdpType=Prep	7	case	_	lang=fr|ComposedUDPOS=ADP
+7	real	Real	PROPN	NPP	_	5	obl	_	lang=ar_dz|ComposedUDPOS=PROPN
+8	madrid	Madrid	PROPN	NPP	_	7	flat	_	lang=ar_dz|ComposedUDPOS=PROPN
+9	pas	pas	ADV	ADV	_	10	advmod	_	lang=fr|ComposedUDPOS=ADV
+10	zamalek	Zamalek	PROPN	NPP	_	5	parataxis	_	lang=ar_dz|ComposedUDPOS=PROPN
+11	et	et	CCONJ	CC	_	12	cc	_	lang=fr|ComposedUDPOS=CCONJ
+12	m3ak	avec toi	PRON	P+PRO	AdpType=Prep	14	discourse	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+13	ya	oh	INTJ	VOC	_	14	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+14	khadra	verts	NOUN	NC	_	5	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+15	et	et	CCONJ	CC	_	17	cc	_	lang=fr|ComposedUDPOS=CCONJ
+16	vive	vive	INTJ	I	_	17	discourse	_	lang=fr|ComposedUDPOS=INTJ
+17	ASO	ASO	PROPN	NPP	_	5	parataxis	_	lang=ar_dz|ComposedUDPOS=PROPN
+18	w	et	CCONJ	CC	_	20	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+19	mazel	toujours	ADV	ADV	_	20	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+20	MCO	MCO	PROPN	NPP	_	17	conj:coord	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = M3S63
+# text = na9ra 3liha sora o nzid nemas
+# trad_fr = Je vais lui lire pour elle des sourates puis en plus de cela je vais la toucher
+1	na9ra	je lit	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	3liha	sur elle	PRON	P+PRO	AdpType=Prep	1	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+3	sora	sourates	NOUN	NC	_	1	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+4	o	et	CCONJ	CC	_	5	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+5	nzid	j'ajoute	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	1	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB
+6	nemas	je touche	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	5	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+
+# sent_id = M4S14
+# text = Koun dkhalt f had el domaine ndir charika b ras el mal
+# trad_fr = Si j'√©tais entr√© dans cela ce domaine j'aurais fais une entreprise avec un beau capital
+1	Koun	√©tais	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	dkhalt	rentr√©	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	1	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+3	f	dans	ADP	P	AdpType=Prep	4	case	_	lang=ar_dz|ComposedUDPOS=ADP
+4	had	ce	PRON	DEM	PronType=Dem	1	obl	_	lang=ar_dz|ComposedUDPOS=PRON
+5	el	le	DET	DET	_	6	det	_	lang=ar_dz|ComposedUDPOS=DET
+6	domaine	domaine	NOUN	NC	_	4	nmod	_	lang=fr|ComposedUDPOS=NOUN
+7	ndir	je fais	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+8	charika	entreprise	NOUN	NC	_	7	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+9	b	avec	ADP	P	AdpType=Prep	10	case	_	lang=ar_dz|ComposedUDPOS=ADP
+10	ras	t√™te	NOUN	NC	_	7	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+11	el	le	DET	DET	_	12	det	_	lang=ar_dz|ComposedUDPOS=DET
+12	mal	argent	NOUN	NC	_	10	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = 4012
+# text = hna fi la pharmacie kan 3adna ghi vendredi raha kizadona samdi bagh√© yagla3ha
+# trad_fr = nous √† la pharmacie on avait que le vendredi elle est quand ils nous ont ajout√© le samedi ils veulent nous l'enlever
+1	hna	nous	PRON	CLS-SUJ	_	5	parataxis	_	lang=ar_dz|ComposedUDPOS=PRON
+2	fi	√†	ADP	P	AdpType=Prep	4	case	_	lang=ar_dz|ComposedUDPOS=ADP
+3	la	la	DET	DET	_	4	det	_	lang=fr|ComposedUDPOS=DET
+4	pharmacie	pharmacie	NOUN	NC	_	1	nmod	_	lang=fr|ComposedUDPOS=NOUN
+5	kan	√©tait	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+6	3adna	chez nous	PRON	P+PRO	AdpType=Prep	5	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+7	ghi	que	PART	PART-EXP	_	8	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+8	vendredi	vendredi	NOUN	NC	_	5	obj	_	lang=fr|ComposedUDPOS=NOUN
+9	raha	elle est	VERB	V	_	5	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+10-11	kizadona	_	_	_	_	_	_	_	lang=ar_dz
+10	ki	quand	ADV	ADV	_	11	advmod	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADV
+11	zadona	lis ajoutent nous	VERB	V3mp+CLO	Gender=Masc|Number=Plur|Person=3	9	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+12	samdi	Samedi	NOUN	NC	_	11	obj	_	lang=fr|ComposedUDPOS=NOUN
+13	bagh√©	vouloir	VERB	V	_	5	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+14	yagla3ha	ils enlevent nous	VERB	V3mp+CLO	Gender=Masc|Number=Plur|Person=3	13	obj	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+
+# sent_id = 1711
+# text = madam 3andna sa3dan waziani et bezaz wel hadj
+# trad_fr = tant que nous avons Saadane et Ziani et Bezzaz et El Hadj
+1	madam	tant que	SCONJ	CS	_	2	mark	_	lang=ar_dz|ComposedUDPOS=SCONJ
+2	3andna	chez nous	PRON	P+PRO	AdpType=Prep	0	root	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+3	sa3dan	Saadane	PROPN	NPP	_	2	nmod	_	lang=ar_dz|ComposedUDPOS=PROPN
+4-5	waziani	_	_	_	_	_	_	_	lang=ar_dz
+4	wa	et	CCONJ	CC	_	5	cc	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=CCONJ
+5	ziani	Ziani	PROPN	NPP	_	3	conj:coord	_	lang=ar_dz|ComposedUDPOS=PROPN
+6	et	et	CCONJ	CC	_	7	cc	_	lang=fr|ComposedUDPOS=CCONJ
+7	bezaz	Bezzaz	PROPN	NPP	_	5	conj:coord	_	lang=fr|ComposedUDPOS=PROPN
+8-9	wel	_	_	_	_	_	_	_	lang=ar_dz
+8	w	et	CCONJ	CC	_	10	cc	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=CCONJ
+9	el	El	PROPN	NPP	_	10	det	_	lang=ar_dz|ComposedUDPOS=PROPN
+10	hadj	Hadj	PROPN	NPP	_	7	conj:coord	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = M4S45
+# text = Fi cent mille salari√©s talla3 gadah rbaht
+# trad_fr = Parmi cent mille salari√©s regarde combien tu gagneras
+1	Fi	dans	ADP	P	AdpType=Prep	2	case	_	lang=ar_dz|ComposedUDPOS=ADP
+2	cent	cent	X	YM	_	3	nmod	_	lang=fr|ComposedUDPOS=X
+3	mille	mille	DET	DET	_	4	det	_	lang=fr|ComposedUDPOS=DET
+4	salari√©s	salari√©s	NOUN	NC	_	5	nsubj	_	lang=fr|ComposedUDPOS=NOUN
+5	talla3	regarde	VERB	V2ms	Gender=Masc|Number=Sing|Person=2	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+6	gadah	combien	ADV	ADVWH	_	7	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+7	rbaht	gagneras	VERB	V2ms	Gender=Masc|Number=Sing|Person=2	5	ccomp	_	lang=ar_dz|ComposedUDPOS=VERB
+
+# sent_id = 1484
+# text = Mabrook algeria et mabrook maroc 3antlakaw incha allah tani f marakkech
+# trad_fr = felicitation √† l'Alg√©rie et f√©licitation au Maroc nous allons retrouvons si le veux Dieu aussi √† Marakkech
+1	Mabrook	felicitation	INTJ	I	_	2	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+2	algeria	Alg√©rie	PROPN	NPP	_	6	parataxis	_	lang=ar_dz|ComposedUDPOS=PROPN
+3	et	et	CCONJ	CC	_	5	cc	_	lang=fr|ComposedUDPOS=CCONJ
+4	mabrook	f√©licitation	INTJ	I	_	5	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+5	maroc	Maroc	PROPN	NPP	_	2	conj:coord	_	lang=ar_dz|ComposedUDPOS=PROPN
+6	3antlakaw	nous retrouvons	VERB	V1mp	Gender=Masc|Number=Plur|Person=1	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+7	incha	si le veux	VERB	CS+V	_	6	xcomp	_	lang=ar_dz|ComposedUDPOS=SCONJ+VERB
+8	allah	Dieu	PROPN	NPP	_	7	obj	_	lang=ar_dz|ComposedUDPOS=PROPN
+9	tani	aussi	ADV	ADV	_	11	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+10	f	√†	ADP	P	AdpType=Prep	11	case	_	lang=ar_dz|ComposedUDPOS=ADP
+11	marakkech	Marakkech	PROPN	NPP	_	6	obl	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = 1743
+# text = blasto mafihach hadra surtout ki mayal3abch bezzaz
+# trad_fr = il n' a pas √† parler surtout qu' il ne joue pas Bezzaz
+1	blasto	sa place	NOUN	NC+POSS	Possessive=Yes	6	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+2	mafihach	n'est pas	ADP	PART-NEG+P+PRO	Polarity=Neg|AdpType=Prep	3	case	_	lang=ar_dz|ComposedUDPOS=PART+ADP+PRON
+3	hadra	parlote	NOUN	NC	_	1	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+4	surtout	surtout	ADV	ADV	_	6	advmod	_	lang=fr|ComposedUDPOS=ADV
+5	ki	quand	SCONJ	CS	_	6	nsubj	_	lang=ar_dz|ComposedUDPOS=SCONJ
+6	mayal3abch	il ne joue pas	VERB	PART-NEG+V	Polarity=Neg	0	root	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+7	bezzaz	Bezzaz	PROPN	NPP	_	6	obj	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = 638
+# text = toutes mes f√©licitation √† toi karim rabbi nchallah yaslahlek fiha w yarzkak dhorya alssalha w ywafkek amine ya rabbi l3alamine
+# trad_fr = toutes mes f√©licitations √† toi Karim que Dieu si Dieu le veux te facilite pour √ßa et qu'il te donne des enfants qui sont eduqu√©s  et te fais r√©uissir amine √¥ Dieu de tous
+1	toutes	toutes	ADV	ADV	_	3	advmod	_	lang=fr|ComposedUDPOS=ADV
+2	mes	mes	DET	DET	_	3	det	_	lang=fr|ComposedUDPOS=DET
+3	f√©licitation	f√©licitations	NOUN	NC	_	9	parataxis	_	lang=fr|ComposedUDPOS=NOUN
+4	√†	√†	ADP	P	AdpType=Prep	5	case	_	lang=fr|ComposedUDPOS=ADP
+5	toi	toi	PRON	PRO	_	3	nmod	_	lang=fr|ComposedUDPOS=PRON
+6	karim	Karim	PROPN	NPP	_	5	appos	_	lang=fr|ComposedUDPOS=PROPN
+7	rabbi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	9	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+8	nchallah	I	INTJ	I	_	9	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+9	yaslahlek	il facilite toi	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+10	fiha	√† elle	PRON	P+PRO	AdpType=Prep	9	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+11	w	et	CCONJ	CC	_	12	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+12	yarzkak	il donne toi	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	9	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+13	dhorya	enfants	NOUN	NC	_	12	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+14-15	alssalha	_	_	_	_	_	_	_	lang=ar_dz
+14	al	les	DET	DET	_	15	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+15	ssalha	√©duqu√©s	ADJ	ADJ	_	13	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+16	w	et	CCONJ	CC	_	17	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+17	ywafkek	il r√©ussit toi	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	9	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+18	amine	amine	INTJ	I	_	20	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+19	ya	√¥	INTJ	VOC	_	20	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+20	rabbi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	9	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+21-22	l3alamine	_	_	_	_	_	_	_	lang=ar_dz
+21	l	les	DET	DET	_	22	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+22	3alamine	mondes	NOUN	NC	_	20	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = 66
+# text = desole ilham mes vive el gawriyat ki natzawdjo bikoum tkarhoma fi yamana ou khiyatna ou familatna hadi hakika adiro el plon wanhass wel3akar ntoma asamhili walakin wa3rin bazef HACHA ALI MATASTAHELCH 10POUR100 YASALHO WELBAKI CHOKH BLA MOKH
+# trad_fr = d√©sol√©e Ilham mais vive les √©trang√®res quand on se marie avec vous vous nous faite detester nos m√®res et nos soeurs et notre famille c'est une verit√© vous travailler dans le plomb et le cuivre et les √©pices veuillez m'excusez par contre c'est difficile vraiment sauf Ali qui ne le m√©rite pas √† 10% celle l√† sont bonnes et le reste ce sont des merdes sans cerveau
+1	desole	d√©sol√©e	ADJ	ADJ	_	2	amod	_	lang=fr|ComposedUDPOS=ADJ
+2	ilham	Ilham	PROPN	NPP	_	8	vocative	_	lang=fr|ComposedUDPOS=PROPN
+3	mes	mais	CCONJ	CC	_	4	cc	_	lang=fr|ComposedUDPOS=CCONJ
+4	vive	vive	INTJ	I	_	6	discourse	_	lang=fr|ComposedUDPOS=INTJ
+5	el	les	DET	DET	_	6	det	_	lang=ar_dz|ComposedUDPOS=DET
+6	gawriyat	√©trang√®res	ADJ	ADJ	_	8	parataxis	_	lang=ar_dz|ComposedUDPOS=ADJ
+7	ki	quand	ADV	ADV	_	8	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+8	natzawdjo	on se marie	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+9	bikoum	avec vous	PRON	P+PRO	AdpType=Prep	8	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+10	tkarhoma	vous nous faite detester	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	8	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+11	fi	dans	ADP	P	AdpType=Prep	12	case	_	lang=ar_dz|ComposedUDPOS=ADP
+12	yamana	nos m√®res	NOUN	NC+POSS	Possessive=Yes	10	obl	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+13	ou	et	CCONJ	CC	_	14	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+14	khiyatna	nos soeurs	NOUN	NC+POSS	Possessive=Yes	12	conj:coord	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+15	ou	et	CCONJ	CC	_	16	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+16	familatna	notre famille	NOUN	NC+POSS	Possessive=Yes	14	conj:coord	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+17	hadi	cette	PRON	DEM	PronType=Dem	18	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+18	hakika	verit√©	NOUN	NC	_	8	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+19	adiro	vous faites	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	8	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+20	el	le	DET	DET	_	21	det	_	lang=ar_dz|ComposedUDPOS=DET
+21	plon	plomb	NOUN	NC	_	19	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+22-24	wanhass	_	_	_	_	_	_	_	lang=ar_dz
+22	w	et	CCONJ	CC	_	24	cc	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=CCONJ
+23	a	le	DET	DET	_	24	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+24	nhass	cuivre	NOUN	NC	_	21	conj:coord	_	lang=ar_dz|ComposedUDPOS=NOUN
+25-27	wel3akar	_	_	_	_	_	_	_	lang=ar_dz
+25	w	et	CCONJ	CC	_	27	cc	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=CCONJ
+26	el	les	DET	DET	_	27	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+27	3akar	√©pices	NOUN	NC	_	24	conj:coord	_	lang=ar_dz|ComposedUDPOS=NOUN
+28	ntoma	vous	PRON	PRO	_	29	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+29-30	asamhili	_	_	_	_	_	_	_	lang=ar_dz
+29	asamhi	pardonnez	VERB	VIMP	Mood=Imp	8	parataxis	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=VERB
+30	li	√† moi	PRON	P+PRO	AdpType=Prep	29	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+31-32	walakin	_	_	_	_	_	_	_	lang=ar_dz
+31	wa	par	CCONJ	CC	_	33	cc	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=CCONJ
+32	lakin	contre	SCONJ	CS	_	31	fixed	_	lang=ar_dz|ComposedUDPOS=SCONJ|BUG=ICI
+33	wa3rin	difficile	ADJ	ADJ	_	8	parataxis	_	lang=ar_dz|ComposedUDPOS=ADJ
+34	bazef	trop	ADV	ADV	_	33	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+35	HACHA	sauf	ADP	P	AdpType=Prep	36	case	_	lang=ar_dz|ComposedUDPOS=ADP
+36	ALI	Ali	PROPN	NPP	_	37	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+37	MATASTAHELCH	ne m√©rite pas	VERB	PART-NEG+V3fs	Polarity=Neg|Gender=Fem|Number=Plur|Person=3	8	parataxis	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+38-39	10POUR100	_	_	_	_	_	_	_	lang=fr
+38	10	10	DET	DET	_	39	det	_	SpaceAfter=No|lang=fr|ComposedUDPOS=DET
+39	POUR100	%	NOUN	NC	_	37	obj	_	lang=|ComposedUDPOS=NOUN
+40	YASALHO	sont bonnes	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	37	ccomp	_	lang=ar_dz|ComposedUDPOS=VERB
+41-43	WELBAKI	_	_	_	_	_	_	_	lang=ar_dz
+41	W	et	CCONJ	CC	_	43	cc	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=CCONJ
+42	EL	le	DET	DET	_	43	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+43	BAKI	reste	ADJ	ADJ	_	40	obj	_	lang=ar_dz|ComposedUDPOS=ADJ
+44	CHOKH	merde	NOUN	NC	_	43	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+45	BLA	sans	ADP	P	AdpType=Prep	46	case	_	lang=ar_dz|ComposedUDPOS=ADP
+46	MOKH	cerveau	NOUN	NC	_	44	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = M1S20
+# text = Qoulli wachen had la7iyat, ya7akmou fina l madammat, ya7akmou fina l maddamat
+# trad_fr = Dis-moi c'est quoi √ßa vie, ils nous attrapent, nous les femmes, ils nous attrapent, nous les femmes
+1	Qoulli	Dis	VERB	VIMP	Mood=Imp	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	wachen	quoi	ADV	ADVWH	_	3	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+3	had	cette	PRON	DEM	PronType=Dem	5	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+4-6	la7iyat,	_	_	_	_	_	_	_	lang=ar_dz
+4	la	la	DET	DET	_	5	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+5	7iyat	vie	NOUN	NC	_	1	obj	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=NOUN
+6	,	,	PUNCT	PONCT	_	1	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+7	ya7akmou	ils attrapent	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+8	fina	en nous	PRON	P+PRO	AdpType=Prep	7	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+9	l	les	DET	DET	_	10	det	_	lang=ar_dz|ComposedUDPOS=DET
+10-11	madammat,	_	_	_	_	_	_	_	lang=ar_dz
+10	madammat	femmes	NOUN	NC	_	7	obj	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=NOUN
+11	,	,	PUNCT	PONCT	_	7	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+12	ya7akmou	ils attrapent	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+13	fina	en nous	PRON	P+PRO	AdpType=Prep	12	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+14	l	les	DET	DET	_	15	det	_	lang=ar_dz|ComposedUDPOS=DET
+15	maddamat	femmes	NOUN	NC	_	12	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = M4S92
+# text = Kount qader ndirha bessah ana ma derthach
+# trad_fr = Je pouvais le faire mais je ne l'ai pas fait
+1	Kount	j'√©tais	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	qader	puissant	ADJ	ADJ	_	1	obj	_	lang=ar_dz|ComposedUDPOS=ADJ
+3	ndirha	je fais elle	VERB	V1ms+CLO	Gender=Masc|Number=Sing|Person=1	1	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+4-5	bessah	_	_	_	_	_	_	_	lang=ar_dz
+4	be	avec	ADP	P	AdpType=Prep	5	case	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADP
+5	ssah	VRAI	NOUN	NC	_	3	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+6	ana	moi	PRON	PRO	_	8	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+7	ma	pas	PART	PART-NEG	Polarity=Neg	8	nmod	_	lang=ar_dz|ComposedUDPOS=PART
+8	derthach	fais pas	VERB	V+PART-NEG	Polarity=Neg	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PART
+
+# sent_id = M3S75
+# text = al iman we saber hiya le7wayej li7atnejik
+# trad_fr = La croyance et patience sont les choses qui vont te sauver
+1	al	la	DET	DET	_	2	det	_	lang=ar_dz|ComposedUDPOS=DET
+2	iman	foi	NOUN	NC	_	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN
+3-4	we	_	_	_	_	_	_	_	lang=ar_dz
+3	w	et	CCONJ	CC	_	5	cc	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=CCONJ
+4	e	la	DET	DET	_	5	det	_	lang=ar_dz|ComposedUDPOS=DET
+5	saber	patience	NOUN	NC	_	2	conj:coord	_	lang=ar_dz|ComposedUDPOS=NOUN
+6	hiya	elle	PRON	PRO	_	8	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+7-8	le7wayej	_	_	_	_	_	_	_	lang=ar_dz
+7	le	les	DET	DET	_	8	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+8	7wayej	choses	NOUN	NC	_	2	appos	_	lang=ar_dz|ComposedUDPOS=NOUN
+9-10	li7atnejik	_	_	_	_	_	_	_	lang=ar_dz
+9	li	qui	PRON	PROREL	PronType=Rel	10	nsubj	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=PRON
+10	7atnejik	sauver toi	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	8	acl:relcl	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+
+# sent_id = 4586
+# text = ellahoma ahdina we3fo 3ana
+# trad_fr = Dieu guider nous et pardonner nous
+1	ellahoma	Dieu	PROPN	NPP	_	2	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+2	ahdina	guider nous	VERB	V+CLO	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+3	we3fo	et pardonner	VERB	CC+V	_	2	xcomp	_	lang=ar_dz|ComposedUDPOS=CCONJ+VERB
+4	3ana	de nous	PRON	P+PRO	AdpType=Prep	2	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+
+# sent_id = 570
+# text = lahawla wala 9ouata illa billeh el 3alii l'3adhim √† un moment donn√© j'ai crus que je lis un roman dramatique malheureusement la r√©alit√© est plus dramatique que l'on puisse imaginer allah yahdina w yechfi les petites RABI KBIR
+# trad_fr = Il n'y a de pouvoir et force que par Dieu le supr√™me le grandiose √† un momet donn√© j'ai cru que je lisais un roman dramatique malheuresement la r√©alit√© est plus dramatique que l'on ne puisse imaginer que Dieu nous emporte et gu√©risse les petites Dieu est grand
+1-2	lahawla	_	_	_	_	_	_	_	lang=msa
+1	la	ni	PART	PART-NEG	Polarity=Neg	2	advmod	_	SpaceAfter=No|lang=msa|ComposedUDPOS=PART
+2	hawla	pouvoir	NOUN	NC	_	16	parataxis	_	lang=msa|ComposedUDPOS=NOUN
+3-4	wala	_	_	_	_	_	_	_	lang=msa
+3	wa	et	CCONJ	CC	_	5	cc	_	SpaceAfter=No|lang=msa|ComposedUDPOS=CCONJ
+4	la	ni	PART	PART-NEG	Polarity=Neg	5	advmod	_	lang=msa|ComposedUDPOS=PART
+5	9ouata	force	NOUN	NC	_	2	conj:coord	_	lang=msa|ComposedUDPOS=NOUN
+6	illa	que	PART	PART-EXP	_	8	nsubj	_	lang=msa|ComposedUDPOS=PART
+7-8	billeh	_	_	_	_	_	_	_	lang=msa
+7	bi	par Allah	ADP	P	AdpType=Prep	8	case	_	SpaceAfter=No|lang=msa|ComposedUDPOS=ADP
+8	lleh	Allah	PROPN	NPP	_	2	nmod	_	lang=msa|ComposedUDPOS=PROPN
+9	el	le	DET	DET	_	10	det	_	lang=msa|ComposedUDPOS=DET
+10	3alii	supr√™me	ADJ	ADJ	_	8	amod	_	lang=msa|ComposedUDPOS=ADJ
+11-12	l'3adhim	_	_	_	_	_	_	_	lang=msa
+11	l'	le	DET	DET	_	12	det	_	SpaceAfter=No|lang=msa|ComposedUDPOS=DET
+12	3adhim	grand	ADJ	ADJ	_	8	amod	_	lang=msa|ComposedUDPOS=ADJ
+13	√†	√†	ADP	P	AdpType=Prep	15	case	_	lang=fr|ComposedUDPOS=ADP
+14	un	un	DET	DET	_	15	det	_	lang=fr|ComposedUDPOS=DET
+15	moment	moment	NOUN	NC	_	16	nmod	_	lang=fr|ComposedUDPOS=NOUN
+16	donn√©	donn√©	VERB	VPP	VerbForm=Part	0	root	_	lang=fr|ComposedUDPOS=VERB
+17-18	j'ai	_	_	_	_	_	_	_	lang=fr
+17	j'	j'	PRON	CLS-SUJ	_	18	nsubj	_	SpaceAfter=No|lang=fr|ComposedUDPOS=PRON
+18	ai	ai	VERB	V	_	16	parataxis	_	lang=fr|ComposedUDPOS=VERB
+19	crus	cru	VERB	VPP	VerbForm=Part	18	xcomp	_	lang=fr|ComposedUDPOS=VERB
+20	que	que	SCONJ	CS	_	22	mark	_	lang=fr|ComposedUDPOS=SCONJ
+21	je	je	PRON	CLS-SUJ	_	22	nsubj	_	lang=fr|ComposedUDPOS=PRON
+22	lis	lis	VERB	V	_	19	ccomp	_	lang=fr|ComposedUDPOS=VERB
+23	un	un	DET	DET	_	24	det	_	lang=fr|ComposedUDPOS=DET
+24	roman	roman	NOUN	NC	_	22	obj	_	lang=fr|ComposedUDPOS=NOUN
+25	dramatique	dramatique	ADJ	ADJ	_	24	amod	_	lang=fr|ComposedUDPOS=ADJ
+26	malheureusement	malheuresement	ADV	ADV	_	28	advmod	_	lang=fr|ComposedUDPOS=ADV
+27	la	la	DET	DET	_	28	det	_	lang=fr|ComposedUDPOS=DET
+28	r√©alit√©	r√©alit√©	NOUN	NC	_	29	nsubj	_	lang=fr|ComposedUDPOS=NOUN
+29	est	est	VERB	V	_	16	parataxis	_	lang=fr|ComposedUDPOS=VERB
+30	plus	plus	ADV	ADV	_	31	advmod	_	lang=fr|ComposedUDPOS=ADV
+31	dramatique	dramatique	ADJ	ADJ	_	29	obj	_	lang=fr|ComposedUDPOS=ADJ
+32	que	que	SCONJ	CS	_	35	mark	_	lang=fr|ComposedUDPOS=SCONJ
+33-34	l'on	_	_	_	_	_	_	_	lang=fr
+33	l'	l'	DET	DET	_	35	nsubj	_	SpaceAfter=No|lang=fr|ComposedUDPOS=DET
+34	on	on	PRON	CLS-SUJ	_	35	nsubj	_	lang=fr|ComposedUDPOS=PRON
+35	puisse	puisse	VERB	V	_	29	ccomp	_	lang=fr|ComposedUDPOS=VERB
+36	imaginer	imaginer	VERB	VINF	VerbForm=Inf	35	xcomp	_	lang=fr|ComposedUDPOS=VERB
+37	allah	Dieu	PROPN	NPP	_	38	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+38	yahdina	nous emporte	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	16	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+39	w	et	CCONJ	CC	_	40	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+40	yechfi	gu√©risse	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	38	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB
+41	les	les	DET	DET	_	42	det	_	lang=fr|ComposedUDPOS=DET
+42	petites	petites	ADJ	ADJ	_	40	obj	_	lang=fr|ComposedUDPOS=ADJ
+43	RABI	Dieu	NOUN	NC+POSS	Possessive=Yes	16	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+44	KBIR	grand	ADJ	ADJ	_	43	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+
+# sent_id = 3302
+# text = merci mazal inchalah m3a angola
+# trad_fr = merci encore j'esp√®re face √† l' Angola
+1	merci	merci	INTJ	I	_	2	discourse	_	lang=fr|ComposedUDPOS=INTJ
+2	mazal	encore	ADV	ADV	_	5	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+3	inchalah	inchaAllah	INTJ	I	_	5	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+4	m3a	avec	ADP	P	AdpType=Prep	5	case	_	lang=ar_dz|ComposedUDPOS=ADP
+5	angola	Angola	PROPN	NPP	_	0	root	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = M3S41
+# text = l chekon 7atecheki, la famille makanlhache, l s7abatha matelgache o jiran madekhalnache
+# trad_fr = √Ä qui va elle se confier, la famille ce n'est pas la peine, √† ses copines elle n'en trouve pas et les voisins ils ne s'en m√™lent pas
+1	l	√Ä	ADP	P	AdpType=Prep	3	case	_	lang=ar_dz|ComposedUDPOS=ADP
+2	chekon	qui	ADV	ADVWH	_	3	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+3-4	7atecheki,	_	_	_	_	_	_	_	lang=ar_dz
+3	7atecheki	confier elle	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	0	root	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=VERB
+4	,	,	PUNCT	PONCT	_	3	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+5	la	la	DET	DET	_	6	det	_	lang=fr|ComposedUDPOS=DET
+6	famille	famille	NOUN	NC	_	7	nsubj	_	lang=fr|ComposedUDPOS=NOUN
+7-8	makanlhache,	_	_	_	_	_	_	_	lang=ar_dz
+7	makanlhache	pas pein√©	VERB	PART-NEG+V	Polarity=Neg	3	parataxis	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=PART+VERB
+8	,	,	PUNCT	PONCT	_	7	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+9	l	√†	ADP	P	AdpType=Prep	10	case	_	lang=ar_dz|ComposedUDPOS=ADP
+10	s7abatha	ses amis	NOUN	NC+POSS	Possessive=Yes	11	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+11	matelgache	trouve pas	VERB	PART-NEG+V	Polarity=Neg	3	parataxis	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+12	o	et	CCONJ	CC	_	13	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+13	jiran	voisins	NOUN	NC	_	14	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+14	madekhalnache	entre pas	VERB	PART-NEG+V	Polarity=Neg	3	parataxis	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+
+# sent_id = 810
+# text = vive toi magik rabi m3ak
+# trad_fr = vive toi Magik que doit soit avec toi
+1	vive	vive	INTJ	I	_	2	discourse	_	lang=fr|ComposedUDPOS=INTJ
+2	toi	toi	PRON	CLS-SUJ	_	4	parataxis	_	lang=fr|ComposedUDPOS=PRON
+3	magik	Magik	PROPN	NPP	_	2	nmod	_	lang=ar_dz|ComposedUDPOS=PROPN
+4	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+5	m3ak	avec toi	PRON	P+PRO	AdpType=Prep	4	nmod	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+
+# sent_id = 4655
+# text = vive chyoukha siadna dima m3akoum
+# trad_fr = vive cheikh ses nos ma√Ætres toujours avec vous
+1	vive	vive	INTJ	I	_	2	discourse	_	lang=fr|ComposedUDPOS=INTJ
+2	chyoukha	cheikh ses	NOUN	NC+POSS	Possessive=Yes	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+3	siadna	ma√Ætres nos	NOUN	NC+POSS	Possessive=Yes	2	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+4	dima	toujours	ADV	ADV	_	5	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+5	m3akoum	avec vous	PRON	P+PRO	AdpType=Prep	3	nmod	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+
+# sent_id = 979
+# text = oui mazal 3ayeche et mieu que toi meme vous ete en algerie ma cher mira
+# trad_fr = oui toujours vivant et mieux que toi m√™me si vous √™tes en Alg√©rie ma cher mira
+1	oui	oui	INTJ	I	_	2	discourse	_	lang=fr|ComposedUDPOS=INTJ
+2	mazal	pas venu	VERB	PART-NEG+V	Polarity=Neg	0	root	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+3	3ayeche	vivant	ADJ	ADJ	_	2	obj	_	lang=ar_dz|ComposedUDPOS=ADJ
+4	et	et	CCONJ	CC	_	5	cc	_	lang=fr|ComposedUDPOS=CCONJ
+5	mieu	mieux	ADJ	ADJ	_	2	conj:coord	_	lang=fr|ComposedUDPOS=ADJ
+6	que	que	SCONJ	CS	_	7	mark	_	lang=fr|ComposedUDPOS=SCONJ
+7	toi	toi	PRON	CLS-SUJ	_	5	nsubj	_	lang=fr|ComposedUDPOS=PRON
+8	meme	m√™me	ADV	ADV	_	7	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+9	vous	vous	PRON	CLS-SUJ	_	10	nsubj	_	lang=fr|ComposedUDPOS=PRON
+10	ete	√™tes	VERB	V	_	2	parataxis	_	lang=fr|ComposedUDPOS=VERB
+11	en	en	ADP	P	AdpType=Prep	12	case	_	lang=fr|ComposedUDPOS=ADP
+12	algerie	Alg√©rie	PROPN	NPP	_	10	obl	_	lang=fr|ComposedUDPOS=PROPN
+13	ma	ma	DET	DET	_	15	det	_	lang=fr|ComposedUDPOS=DET
+14	cher	cher	ADJ	ADJ	_	15	amod	_	lang=fr|ComposedUDPOS=ADJ
+15	mira	mira	PROPN	NPP	_	10	vocative	_	lang=fr|ComposedUDPOS=PROPN
+
+# sent_id = 4651
+# text = mlih algerie ki hakmat khayn kbir semouh alhaycha psq kan haghar dahayah bzf kan ykhalas almanouvria 500 da wana khdamt 3andah
+# trad_fr = bien Alg√©rie quand gouverner elle traitre gros noms son Alhaycha par ce que il √©tait m√©prisant victimes beaucoup il √©tait payer il la manoeuvre 500 dinars et moi travailler je il a
+1	mlih	depuis	ADV	ADV	_	4	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+2	algerie	Alg√©rie	PROPN	NPP	_	4	nsubj	_	lang=fr|ComposedUDPOS=PROPN
+3	ki	quand	ADV	ADV	_	4	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+4	hakmat	elle juger	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+5	khayn	traitre	ADJ	ADJ	_	4	obj	_	lang=ar_dz|ComposedUDPOS=ADJ
+6	kbir	grand	ADJ	ADJ	_	5	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+7	semouh	noms son	VERB	V	Possessive=Yes	4	ccomp	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+8	alhaycha	Al Haycha	PROPN	NPP	_	7	obj	_	lang=ar_dz|ComposedUDPOS=PROPN
+9	psq	parceque	SCONJ	CS	_	10	mark	_	lang=fr|ComposedUDPOS=SCONJ
+10	kan	√™tre il	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	4	ccomp	_	lang=ar_dz|ComposedUDPOS=VERB
+11	haghar	m√©prisant	ADJ	ADJ	_	10	obj	_	lang=ar_dz|ComposedUDPOS=ADJ
+12	dahayah	victimes	NOUN	NC	_	11	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+13	bzf	beaucoup	ADV	ADV	_	10	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+14	kan	√™tre il	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	10	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+15	ykhalas	payer il	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	14	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+16	almanouvria	la manoeuvre	NOUN	DET+NC	_	15	obj	_	lang=ar_dz|ComposedUDPOS=DET+NOUN
+17	500	500	DET	DET	_	18	det	_	lang=ar_dz|ComposedUDPOS=DET
+18	da	dinar	NOUN	NC	_	16	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+19	wana	et moi	PRON	CC+PRO	_	20	nsubj	_	lang=ar_dz|ComposedUDPOS=CCONJ+PRON
+20	khdamt	travailler je	VERB	V	_	4	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+21	3andah	chez lui	PRON	P+PRO	AdpType=Prep	20	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+
+# sent_id = 2372
+# text = rabi ykoun m3ahoum nchallah c la vie
+# trad_fr = que Dieu soit avec eux si Dieu le veux c'est la vie
+1	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	2	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+2	ykoun	sera	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	m3ahoum	avec eux	PRON	P+PRO	AdpType=Prep	2	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+4	nchallah	inchaAllah	INTJ	I	_	5	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+5	c	c'est	VERB	CLS-SUJ+V	_	2	parataxis	_	lang=fr|ComposedUDPOS=PRON+VERB
+6	la	la	DET	DET	_	7	det	_	lang=fr|ComposedUDPOS=DET
+7	vie	vie	NOUN	NC	_	5	obj	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = M1S3
+# text = Ki nchouf t√©l√©vision kayen la greve des enseignants yezguiwlhouym les fain√©ants
+# trad_fr = Quand je regarde la t√©l√©vision il y a  la gr√®ve des enseignants, on les appellent les fain√©ants
+1	Ki	Quand	ADV	ADV	_	2	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+2	nchouf	je regarde	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	t√©l√©vision	television	NOUN	NC	_	2	obj	_	lang=fr|ComposedUDPOS=NOUN
+4	kayen	il y a	VERB	V	_	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+5	la	la	DET	DET	_	6	det	_	lang=fr|ComposedUDPOS=DET
+6	greve	gr√®ve	NOUN	NC	_	4	obj	_	lang=fr|ComposedUDPOS=NOUN
+7	des	des	ADP	P+DET	AdpType=Prep	8	case	_	lang=fr|ComposedUDPOS=ADP+DET
+8	enseignants	enseignants	NOUN	NC	_	6	nmod	_	lang=fr|ComposedUDPOS=NOUN
+9-11	yezguiwlhouym	_	_	_	_	_	_	_	lang=ar_dz
+9	yezguiw	hurler	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	2	parataxis	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=VERB
+10	l	√†	ADP	P	AdpType=Prep	11	case	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADP
+11	houym	eux	PRON	PRO	_	9	obl	_	lang=ar_dz|ComposedUDPOS=PRON
+12	les	les	DET	DET	_	13	det	_	lang=fr|ComposedUDPOS=DET
+13	fain√©ants	fain√©ants	ADJ	ADJ	_	9	obj	_	lang=fr|ComposedUDPOS=ADJ
+
+# sent_id = 3931
+# text = saadan ye3ref ghir la defense n7awsou entrineur yel3ab bach yerba7 merci saadane mais lazem trou7
+# trad_fr = Saadane il ne connait que la d√©fense nous recherchons un entraineur qui joue pour gagner merci Saadane mais faudrait que tu partes
+1	saadan	Saadane	PROPN	NPP	_	2	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+2	ye3ref	sait	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	ghir	que	PART	PART-EXP	_	5	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+4	la	la	DET	DET	_	5	det	_	lang=fr|ComposedUDPOS=DET
+5	defense	d√©fense	NOUN	NC	_	2	obj	_	lang=fr|ComposedUDPOS=NOUN
+6	n7awsou	nous cherchons	VERB	V1mp	Gender=Masc|Number=Plur|Person=1	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+7	entrineur	entraineur	NOUN	NC	_	6	obj	_	lang=fr|ComposedUDPOS=NOUN
+8	yel3ab	joue	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	7	acl:relcl	_	lang=ar_dz|ComposedUDPOS=VERB
+9	bach	pour	ADP	P	AdpType=Prep	10	case	_	lang=ar_dz|ComposedUDPOS=ADP
+10	yerba7	gagner	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	8	ccomp	_	lang=ar_dz|ComposedUDPOS=VERB
+11	merci	merci	INTJ	I	_	12	discourse	_	lang=fr|ComposedUDPOS=INTJ
+12	saadane	Saadane	PROPN	NPP	_	14	dep	_	lang=ar_dz|ComposedUDPOS=PROPN
+13	mais	mais	CCONJ	CC	_	14	cc	_	lang=fr|ComposedUDPOS=CCONJ
+14	lazem	faudrait	VERB	V	_	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+15	trou7	tu pars	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	14	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+
+# sent_id = M2S8
+# text = m3aya wlad cha3b wlad zwawawawla
+# trad_fr = Avec moi les fils du peuple les fils des pauvres
+1	m3aya	Avec	PRON	P+PRO	AdpType=Prep	2	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+2	wlad	fils	NOUN	NC	_	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN
+3	cha3b	peuple	NOUN	NC	_	2	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+4	wlad	fils	NOUN	NC	_	2	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+5	zwawawawla	pauvres	ADJ	ADJ	_	4	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+
+# sent_id = 4443
+# text = makanech menha choufoulina une autre histoire la securite dyalna ma kedrouch hata ye3arfou les teroristes de lecole de yesser o yejou yekhorto 3alina avec une histoire a la haute niveau
+# trad_fr = il n'y a pas de s'en ils nous ont vu une autre histoire la s√©curit√© les notres ne peuvent pas jusqu' savent les terroristes de l'√©cole de Yassir et ils viennent ils mentent nous avec une histoire a la haute niveau
+1	makanech	ne pas √™tre	VERB	PART-NEG+V	Polarity=Neg	3	parataxis	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+2	menha	de elle	PRON	P+PRO	AdpType=Prep	1	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+3	choufoulina	voir pour nous	VERB	V+P+PRO	AdpType=Prep	0	root	_	lang=ar_dz|ComposedUDPOS=VERB+ADP+PRON
+4	une	une	DET	DET	_	5	det	_	lang=fr|ComposedUDPOS=DET
+5	autre	autre	ADJ	ADJ	_	6	amod	_	lang=fr|ComposedUDPOS=ADJ
+6	histoire	histoire	NOUN	NC	_	3	obj	_	lang=fr|ComposedUDPOS=NOUN
+7	la	la	DET	DET	_	8	det	_	lang=fr|ComposedUDPOS=DET
+8	securite	s√©curit√©	NOUN	NC	_	3	parataxis	_	lang=fr|ComposedUDPOS=NOUN
+9	dyalna	de nous	PRON	P+POSS	AdpType=Prep|Possessive=Yes	8	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+10	ma	pas	PART	PART-NEG	Polarity=Neg	11	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+11	kedrouch	pas pouvoir	VERB	PART-NEG+V	Polarity=Neg	3	parataxis	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+12	hata	m√™me	ADV	ADV	_	13	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+13	ye3arfou	ils savent	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	11	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+14	les	les	DET	DET	_	15	det	_	lang=fr|ComposedUDPOS=DET
+15	teroristes	terroristes	NOUN	NC	_	13	obj	_	lang=fr|ComposedUDPOS=NOUN
+16	de	de	ADP	P	AdpType=Prep	17	case	_	lang=fr|ComposedUDPOS=ADP
+17	lecole	l'√©cole	NOUN	DET+NC	_	15	nmod	_	lang=fr|ComposedUDPOS=DET+NOUN
+18	de	de	ADP	P	AdpType=Prep	19	case	_	lang=fr|ComposedUDPOS=ADP
+19	yesser	Yassir	PROPN	NPP	_	17	nmod	_	lang=ar_dz|ComposedUDPOS=PROPN
+20	o	et	CCONJ	CC	_	21	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+21	yejou	venir ils	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	3	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+22	yekhorto	ils mentent	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	21	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+23	3alina	sur nous	PRON	P+PRO	AdpType=Prep	22	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+24	avec	avec	ADP	P	AdpType=Prep	26	case	_	lang=fr|ComposedUDPOS=ADP
+25	une	une	DET	DET	_	26	det	_	lang=fr|ComposedUDPOS=DET
+26	histoire	histoire	NOUN	NC	_	22	obl	_	lang=fr|ComposedUDPOS=NOUN
+27	a	√†	ADP	P	AdpType=Prep	29	case	_	lang=fr|ComposedUDPOS=ADP
+28	la	le	DET	DET	_	29	det	_	lang=fr|ComposedUDPOS=DET
+29	haute	haut	ADJ	ADJ	_	30	amod	_	lang=fr|ComposedUDPOS=ADJ
+30	niveau	niveau	NOUN	NC	_	26	nmod	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = 3773
+# text = ??? ??? ??? ??? ??? ???comme il a dit n ya wedi ta3arfou ghir tebkou yaw fakou dourk el-azhar eykheredj fetwa sur mesure bache terebhou bessif aaaaaaaaaa
+# trad_fr = arguments arguments arguments arguments arguments comme arguments  il a dit non oh mon fils vous ne savez que pleurer oh r√©veillez-vous maintenant El Azhar fait sortir une fatwa sur mesure pour que vous puissiez gagner de force aaaaaaaaaa
+1	???	arguments	NOUN	NC	_	9	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+2	???	arguments	NOUN	NC	_	1	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+3	???	arguments	NOUN	NC	_	1	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+4	???	arguments	NOUN	NC	_	3	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+5	???	arguments	NOUN	NC	_	1	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+6-7	???comme	_	_	_	_	_	_	_	lang=ar_dz
+6	???	comme	NOUN	NC	_	5	nmod	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=NOUN
+7	comme	comme	ADP	P	AdpType=Prep	8	case	_	lang=fr|ComposedUDPOS=ADP
+8	il	il	PRON	CLS-SUJ	_	9	nsubj	_	lang=fr|ComposedUDPOS=PRON
+9	a	a	VERB	V	_	0	root	_	lang=fr|ComposedUDPOS=VERB
+10	dit	dit	VERB	VPP	VerbForm=Part	9	xcomp	_	lang=fr|ComposedUDPOS=VERB
+11	n	non	ADV	ADV	_	10	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+12	ya	oh	INTJ	VOC	_	13	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+13	wedi	fils mon	NOUN	NC+POSS	Possessive=Yes	9	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+14	ta3arfou	vous savez	VERB	V2ms	Gender=Masc|Number=Sing|Person=2	9	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+15	ghir	que	PART	PART-EXP	_	16	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+16	tebkou	pleurer vous	VERB	V2mp	Gender=Masc|Number=Plur|Person=2	14	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+17	yaw	oh	INTJ	I	_	18	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+18	fakou	r√©veille	VERB	V	_	9	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+19	dourk	maintenant	ADV	ADV	_	20	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+20	el-azhar	El Azhar	PROPN	NPP	_	21	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+21	eykheredj	il sorte	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	9	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+22	fetwa	fatwa	NOUN	NC	_	21	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+23	sur	sur	ADP	P	AdpType=Prep	24	case	_	lang=fr|ComposedUDPOS=ADP
+24	mesure	mesure	NOUN	NC	_	21	obl	_	lang=fr|ComposedUDPOS=NOUN
+25	bache	pour	ADP	P	AdpType=Prep	26	case	_	lang=ar_dz|ComposedUDPOS=ADP
+26	terebhou	vous gagnez	VERB	V2mp	Gender=Masc|Number=Plur|Person=2	9	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+27-28	bessif	_	_	_	_	_	_	_	lang=ar_dz
+27	be	de	ADP	P	AdpType=Prep	28	case	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADP
+28	ssif	force	NOUN	NC	_	26	obl	_	lang=|ComposedUDPOS=NOUN
+29	aaaaaaaaaa	aaaaaaaaaa	INTJ	I	_	26	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+
+# sent_id = M3S49
+# text = lyoum ana howa li ra7 nekaser les tabous
+# trad_fr = aujourd'hui c'est moi qui vais briser les tabous
+1	lyoum	le jour	NOUN	DET+NC	_	2	nmod	_	lang=ar_dz|ComposedUDPOS=DET+NOUN
+2	ana	moi	PRON	CLS-SUJ	_	0	root	_	lang=ar_dz|ComposedUDPOS=PRON
+3	howa	lui	PRON	PRO	_	2	nmod	_	lang=ar_dz|ComposedUDPOS=PRON
+4	li	qui	PRON	PROREL	PronType=Rel	5	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+5	ra7	vais	VERB	V	_	2	acl:relcl	_	lang=ar_dz|ComposedUDPOS=VERB
+6	nekaser	briser	VERB	V	_	5	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+7	les	les	DET	DET	_	8	det	_	lang=fr|ComposedUDPOS=DET
+8	tabous	tabous	NOUN	NC	_	6	obj	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = 605
+# text = nhab bladi w dima lalgerie w makra fl 3adyan
+# trad_fr = j'aime mon pays et je serais toujours avec l'Alg√©rie et mal√©diction aux ennemis l√†
+1	nhab	j'aime	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	bladi	mon pays	NOUN	NC+POSS	Possessive=Yes	1	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+3	w	et	CCONJ	CC	_	4	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+4	dima	toujours	ADV	ADV	_	6	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+5-6	lalgerie	_	_	_	_	_	_	_	lang=ar_dz
+5	l	le	DET	DET	_	6	det	_	SpaceAfter=No|lang=fr|ComposedUDPOS=DET
+6	algerie	Alg√©rie	PROPN	NPP	_	1	parataxis	_	lang=fr|ComposedUDPOS=PROPN
+7	w	et	CCONJ	CC	_	8	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+8	makra	mal√©diction	NOUN	NC	_	1	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+9-10	fl	_	_	_	_	_	_	_	lang=ar_dz
+9	f	√†	ADP	P	AdpType=Prep	11	case	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADP
+10	l	les	DET	DET	_	11	det	_	lang=ar_dz|ComposedUDPOS=DET
+11	3adyan	ennemis	NOUN	NC	_	8	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = 9333
+# text = inchalah tel3a lel pac skara fel cabvive les algerois khawa khawa skara fi brawiales vont onvahir 20aout nchalah
+# trad_fr = si dieu le veux la mont√©e au PAC de l' ambiance au CAB vive les algerois c'est la fraterie c'est la fraterie et c'est fait expr√®s pour le rythme Berwali va envahir le 20 ao√ªt si dieu le veux
+1	inchalah	si dieu le veux	INTJ	I	_	2	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+2	tel3a	la mont√©e	NOUN	NC	_	17	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+3	lel	au	ADP	P	AdpType=Prep	4	case	_	lang=ar_dz|ComposedUDPOS=ADP
+4	pac	PAC	PROPN	NPP	_	2	nmod	_	lang=ar_dz|ComposedUDPOS=PROPN
+5	skara	narguer	NOUN	NC	_	17	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+6-7	fel	_	_	_	_	_	_	_	lang=ar_dz
+6	f	√†	ADP	P	AdpType=Prep	8	case	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADP
+7	el	le	DET	DET	_	8	det	_	lang=ar_dz|ComposedUDPOS=DET
+8-9	cabvive	_	_	_	_	_	_	_	lang=fr
+8	cab	CAB	PROPN	NPP	_	5	nmod	_	SpaceAfter=No|lang=fr|ComposedUDPOS=PROPN
+9	vive	vive	INTJ	I	_	11	discourse	_	lang=fr|ComposedUDPOS=INTJ
+10	les	les	DET	DET	_	11	det	_	lang=fr|ComposedUDPOS=DET
+11	algerois	alg√©rois	ADJ	ADJ	_	17	parataxis	_	lang=fr|ComposedUDPOS=ADJ
+12	khawa	fraterie	NOUN	NC	_	11	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+13	khawa	fraterie	NOUN	NC	_	11	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+14	skara	expr√®s	ADJ	ADJ	_	16	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+15	fi	pour	ADP	P	AdpType=Prep	16	case	_	lang=ar_dz|ComposedUDPOS=ADP
+16	brawiales	Berwali	PROPN	NPP	_	17	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+17	vont	vont	VERB	V	_	0	root	_	lang=fr|ComposedUDPOS=VERB
+18	onvahir	envahir	VERB	VINF	VerbForm=Inf	17	xcomp	_	lang=fr|ComposedUDPOS=VERB
+19-20	20aout	_	_	_	_	_	_	_	lang=fr
+19	20	20	DET	DET	_	20	det	_	SpaceAfter=No|lang=fr|ComposedUDPOS=DET
+20	aout	ao√ªt	NOUN	NC	_	18	obj	_	lang=fr|ComposedUDPOS=NOUN
+21	nchalah	inchaAllah	INTJ	I	_	17	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+
+# sent_id = 885
+# text = mabrouk 3lina w merci lal kahla li raha mtal3atana rassana
+# trad_fr = f√©licitation √† nous et merci √† le noire qui est parti nous remonter en t√™te
+1	mabrouk	f√©licitation	INTJ	I	_	2	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+2	3lina	pour nous	PRON	P+PRO	AdpType=Prep	7	parataxis	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+3	w	et	CCONJ	CC	_	7	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+4	merci	merci	INTJ	I	_	7	discourse	_	lang=fr|ComposedUDPOS=INTJ
+5-6	lal	_	_	_	_	_	_	_	lang=ar_dz
+5	l	√†	ADP	P	AdpType=Prep	7	case	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADP
+6	al	le	DET	DET	_	7	det	_	lang=ar_dz|ComposedUDPOS=DET
+7	kahla	noire	ADJ	ADJ	_	0	root	_	lang=ar_dz|ComposedUDPOS=ADJ
+8	li	qui	PRON	PROREL	PronType=Rel	9	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+9	raha	parti	VERB	V	_	7	acl:relcl	_	lang=ar_dz|ComposedUDPOS=VERB
+10	mtal3atana	fait remonter	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	9	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+11	rassana	notre t√™te	NOUN	NC+POSS	Possessive=Yes	10	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+
+# sent_id = 4474
+# text = hada makanch liy3alak 3lih yak loukane match nta3 liyedou les miliards ga3 tehadrou besah hada guelil
+# trad_fr = ce il n'y a pas celui commenter √† lui c'est si match de √† celui qui prend les milliards tous vous parlez mais ce peu
+1	hada	ceci	PRON	DEM	PronType=Dem	2	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+2	makanch	ne √™tre	VERB	PART-NEG+V	Polarity=Neg	0	root	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+3	liy3alak	celui il commenter	VERB	PROREL+V	PronType=Rel	2	xcomp	_	lang=ar_dz|ComposedUDPOS=PRON+VERB
+4	3lih	sur lui	PRON	P+PRO	AdpType=Prep	3	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+5	yak	ah	INTJ	I	_	9	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+6	loukane	si	SCONJ	CS	_	9	mark	_	lang=ar_dz|ComposedUDPOS=SCONJ
+7	match	match	NOUN	NC	_	9	subj	_	lang=fr|ComposedUDPOS=NOUN
+8	nta3	de	ADP	P	AdpType=Prep	9	case	_	lang=ar_dz|ComposedUDPOS=ADP
+9	liyedou	pour_lequel donner	VERB	PRO+V	_	2	parataxis	_	lang=ar_dz|ComposedUDPOS=PRON+VERB
+10	les	les	DET	DET	_	11	det	_	lang=fr|ComposedUDPOS=DET
+11	miliards	milliards	NOUN	NC	_	9	obj	_	lang=fr|ComposedUDPOS=NOUN
+12	ga3	tout	ADV	ADV	_	13	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+13	tehadrou	vous parlez	VERB	V2mp	Gender=Masc|Number=Plur|Person=2	9	ccomp	_	lang=ar_dz|ComposedUDPOS=VERB
+14	besah	en v√©rit√©	NOUN	P+NC	AdpType=Prep	13	obl	_	lang=ar_dz|ComposedUDPOS=ADP+NOUN
+15	hada	ceci	PRON	DEM	PronType=Dem	16	det	_	lang=ar_dz|ComposedUDPOS=PRON
+16	guelil	peu	ADJ	ADJ	_	2	parataxis	_	lang=ar_dz|ComposedUDPOS=ADJ
+
+# sent_id = 1200
+# text = nchalah neabho w njoo et en plus ntiho m3a egypt nchalah ya rabi
+# trad_fr = j'esp√®re nous aimerons et nous viendrons et en plus nous tombons avec l'Egypte j'esp√®re √¥ Dieu
+1	nchalah	inchaAllah	INTJ	I	_	2	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+2	neabho	nous aimerons	VERB	V1mp	Gender=Masc|Number=Plur|Person=1	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	w	et	CCONJ	CC	_	4	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+4	njoo	nous viendrons	VERB	V1mp	Gender=Masc|Number=Plur|Person=1	2	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB
+5	et	et	CCONJ	CC	_	8	cc	_	lang=fr|ComposedUDPOS=CCONJ
+6	en	en	ADV	ADV	_	8	advmod	_	lang=fr|ComposedUDPOS=PRON
+7	plus	plus	ADV	ADV	_	6	goeswith	_	lang=fr|ComposedUDPOS=ADV
+8	ntiho	nous tombons	VERB	V1mp	Gender=Masc|Number=Plur|Person=1	4	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB
+9	m3a	avec	PRON	PRO	_	10	nmod	_	lang=ar_dz|ComposedUDPOS=PRON
+10	egypt	Egypte	PROPN	NPP	_	2	obj	_	lang=fr|ComposedUDPOS=PROPN
+11	nchalah	inchaAllah	INTJ	I	_	13	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+12	ya	√¥	INTJ	VOC	_	13	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+13	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	2	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+
+# sent_id = 225
+# text = ichouf tofla 3a√Æcha fi 3ezz weldiha m√™me √† l'√¢ge de 30 ans >>ya3jbou el islam
+# trad_fr = il voit une fille qui vie au sein de sa famille m√™me √† l'√¢ge de 30 ans >> √ßa leur plait l' Islam
+1	ichouf	il voit	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	tofla	fille	NOUN	NC	_	1	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+3	3a√Æcha	vivante	ADJ	ADJ	_	2	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+4	fi	dans	ADP	P	AdpType=Prep	5	case	_	lang=ar_dz|ComposedUDPOS=ADP
+5	3ezz	sein	NOUN	NC	_	1	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+6	weldiha	ses parents	NOUN	NC+POSS	Possessive=Yes	15	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+7	m√™me	m√™me	ADV	ADV	_	10	advmod	_	lang=fr|ComposedUDPOS=ADV
+8	√†	√†	ADP	P	AdpType=Prep	10	case	_	lang=fr|ComposedUDPOS=ADP
+9-10	l'√¢ge	_	_	_	_	_	_	_	lang=fr
+9	l'	le	DET	DET	_	10	det	_	SpaceAfter=No|lang=fr|ComposedUDPOS=DET
+10	√¢ge	√¢ge	NOUN	NC	_	6	nmod	_	lang=fr|ComposedUDPOS=NOUN
+11	de	de	ADP	P	AdpType=Prep	13	case	_	lang=fr|ComposedUDPOS=ADP
+12	30	30	DET	DET	_	13	det	_	lang=fr|ComposedUDPOS=DET
+13	ans	ans	NOUN	NC	_	10	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+14-15	>>ya3jbou	_	_	_	_	_	_	_	lang=ar_dz
+14	>>	>>	PUNCT	PONCT	_	15	punct	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=PUNCT
+15	ya3jbou	plait	VERB	V	_	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+16	el	l'	DET	DET	_	17	det	_	lang=fr|ComposedUDPOS=DET
+17	islam	Islam	NOUN	NC	_	15	obj	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = M1S26
+# text = Nnas kherjet mel orbite, w 7na mazel bidoun zit, ana kraht ana mellit
+# trad_fr = Les gens sont sortis de l'orbite, et nous on est encore avec le bidon d'huile, moi je n'en peux plus et je suis fatigu√©
+1	Nnas	gens	NOUN	NC	_	2	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN
+2	kherjet	sortis	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	mel	de le	ADP	P+DET	AdpType=Prep	4	case	_	lang=ar_dz|ComposedUDPOS=ADP+DET
+4-5	orbite,	_	_	_	_	_	_	_	lang=fr
+4	orbite	orbite	NOUN	NC	_	2	obl	_	SpaceAfter=No|lang=fr|ComposedUDPOS=NOUN
+5	,	,	PUNCT	PONCT	_	2	punct	_	lang=fr|ComposedUDPOS=PUNCT
+6	w	et	CCONJ	CC	_	7	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+7	7na	nous	PRON	CLS-SUJ	_	8	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+8	mazel	pas est	VERB	PART-NEG+V	Polarity=Neg	2	parataxis	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+9	bidoun	bidon	NOUN	NC	_	8	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+10-11	zit,	_	_	_	_	_	_	_	lang=ar_dz
+10	zit	huile	NOUN	NC	_	9	nmod	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=NOUN
+11	,	,	PUNCT	PONCT	_	8	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+12	ana	je	PRON	CLS-SUJ	_	13	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+13	kraht	je marre	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+14	ana	je	PRON	CLS-SUJ	_	15	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+15	mellit	je fatigue	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+
+# sent_id = 3253
+# text = ram yontriniw kol youm 3a les agression2-de7*la rah tkoun kopa fawda3-3rak b mess w cha3b f stade
+# trad_fr = sont entrain de s'entrainer chaque jour pour les agressions ce sera la coupe de bordel et d'embrouilles avec touche et le peuple dans les stade
+1	ram	sont	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	yontriniw	entrain√©	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	1	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+3	kol	chaque	ADV	ADV	_	4	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+4	youm	jour	NOUN	NC	_	2	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+5	3a	pour	ADP	P	AdpType=Prep	7	case	_	lang=ar_dz|ComposedUDPOS=ADP
+6	les	les	DET	DET	_	7	det	_	lang=fr|ComposedUDPOS=DET
+7	agression2-de7*la	agressions	NOUN	NC	_	2	obl	_	lang=fr|ComposedUDPOS=NOUN
+8	rah	ce	VERB	V	_	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+9	tkoun	sera	VERB	V	_	8	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+10	kopa	la coupe	NOUN	NC	_	9	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+11-13	fawda3-3rak	_	_	_	_	_	_	_	lang=ar_dz
+11	fawda3	bordel	NOUN	NC	_	10	nmod	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=NOUN
+12	-	-	PUNCT	PONCT	_	8	punct	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=PUNCT
+13	3rak	bagare	NOUN	NC	_	2	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+14	b	avec	ADP	P	AdpType=Prep	15	case	_	lang=ar_dz|ComposedUDPOS=ADP
+15	mess	touche	NOUN	NC	_	13	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+16	w	et	CCONJ	CC	_	17	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+17	cha3b	peuple	NOUN	NC	_	1	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+18	f	√†	ADP	P	AdpType=Prep	19	case	_	lang=ar_dz|ComposedUDPOS=ADP
+19	stade	stade	NOUN	NC	_	17	nmod	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = 4524
+# text = salam 3ala beladi salam 3alikome ya li rakome te3adiwe fi bacsur tou programe legdime helilekome hagrokoume mahatouche kaherabaee en plus le onec hate la correction ta3e jedide wakhala lgdime yemoute belkounta rabi yahedik ya boubaker ben bouzid we 3erame 3elik 3and rabihassebena allah wa ne3ema wakille
+# trad_fr = paix sur mon pays paix √† vous oh qui vous √™tes passer dans bac c'est s√ªr tout programme le vieux dommage ils vous ont humili√© vous n'avez pas poser √©lectricit√© en plus le  hate la correction de neuf et il laisse le vieux il meurt  que Dieu t'emportes oh Boubaker Ben Bouzid et il ait piti√© P+PRO chez mon Dieu il compte nous Dieu et meilleur protecteur
+1	salam	paix	NOUN	NC	_	8	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+2	3ala	sur	ADP	P	AdpType=Prep	3	case	_	lang=ar_dz|ComposedUDPOS=ADP
+3	beladi	mon pays	NOUN	NC+POSS	Possessive=Yes	1	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+4	salam	paix	NOUN	NC	_	8	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+5	3alikome	sur vous	PRON	P+PRO	AdpType=Prep	4	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+6	ya	oh	INTJ	VOC	_	8	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+7	li	qui	PRON	PROREL	PronType=Rel	8	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+8	rakome	vous √™tre	VERB	V2mp	Gender=Masc|Number=Plur|Person=2	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+9	te3adiwe	passer	VERB	V	_	8	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+10	fi	√†	ADP	P	AdpType=Prep	11	case	_	lang=ar_dz|ComposedUDPOS=ADP
+11-12	bacsur	_	_	_	_	_	_	_	_
+11	bac	bac	NOUN	NC	_	9	obl	_	SpaceAfter=No|lang=fr|ComposedUDPOS=NOUN
+12	sur	sur	X	YM	_	14	case	_	lang=fr|ComposedUDPOS=X
+13	tou	tout	ADV	ADV-MOD	Polarity=Neg	12	goeswith	_	lang=fr|ComposedUDPOS=ADV
+14	programe	programme	NOUN	NC	_	8	parataxis	_	lang=fr|ComposedUDPOS=NOUN
+15	legdime	le vieux	ADJ	ADJ	_	14	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+16	helilekome	dommage	ADV	ADV	_	17	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+17	hagrokoume	ils m√©prisent vous	VERB	V3mp+CLO	Gender=Masc|Number=Plur|Person=3	8	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+18	mahatouche	ils ne pas mettre	VERB	PART-NEG+V3mp	Polarity=Neg|Gender=Masc|Number=Plur|Person=3	17	xcomp	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+19	kaherabaee	√©lectricit√©	NOUN	NC	_	18	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+20	en	en	ADP	P	AdpType=Prep	23	case	_	lang=fr|ComposedUDPOS=ADP
+21	plus	plus	ADV	ADV	_	20	fixed	_	lang=fr|ComposedUDPOS=ADV
+22	le	le	DET	DET	_	23	det	_	lang=fr|ComposedUDPOS=DET
+23	onec	ONEC	PROPN	NPP	_	24	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+24	hate	il mettre	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	8	parataxis	_	lang=fr|ComposedUDPOS=VERB
+25	la	la	DET	DET	_	26	det	_	lang=fr|ComposedUDPOS=DET
+26	correction	correction	NOUN	NC	_	24	obj	_	lang=fr|ComposedUDPOS=NOUN
+27	ta3e	de	ADP	P	AdpType=Prep	28	case	_	lang=ar_dz|ComposedUDPOS=ADP
+28	jedide	nouveau	ADJ	ADJ	_	24	obl	_	lang=ar_dz|ComposedUDPOS=ADJ
+29-30	wakhala	_	_	_	_	_	_	_	_
+29	wa	et	CCONJ	CC	_	30	cc	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=CCONJ
+30	khala	il laisser	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	8	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+31	lgdime	le vieux	ADJ	DET+ADJ	_	30	obj	_	lang=ar_dz|ComposedUDPOS=DET+ADJ
+32	yemoute	mourir il	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	30	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+33	belkounta	avec le compte	NOUN	P+DET+NC	AdpType=Prep	32	obl	_	lang=ar_dz|ComposedUDPOS=ADP+DET+NOUN
+34	rabi	mon dieu	NOUN	NC+POSS	Possessive=Yes	35	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+35	yahedik	il guider toi	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	8	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+36	ya	oh	INTJ	VOC	_	37	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+37	boubaker	Boubaker	PROPN	NPP	_	35	obj	_	lang=ar_dz|ComposedUDPOS=PROPN
+38	ben	Ben	PROPN	NPP	_	37	flat	_	lang=ar_dz|ComposedUDPOS=PROPN
+39	bouzid	Bouzid	PROPN	NPP	_	38	flat	_	lang=ar_dz|ComposedUDPOS=PROPN
+40	we	et	CCONJ	CC	_	41	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+41	3erame	illicite	ADJ	ADJ	_	42	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+42	3elik	P+PRO	PRON	P+PRO	AdpType=Prep	39	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+43	3and	chez	ADP	P	AdpType=Prep	44	case	_	lang=ar_dz|ComposedUDPOS=ADP
+44-45	rabihassebena	_	_	_	_	_	_	_	_
+44	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	42	nmod	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=NOUN+PRON
+45	hassebena	il suffire nous	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	8	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+46	allah	Allah	PROPN	NPP	_	45	obj	_	lang=ar_dz|ComposedUDPOS=PROPN
+47	wa	et	CCONJ	CC	_	48	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+48	ne3ema	meilleur	NOUN	NC	_	46	conj:coord	_	lang=ar_dz|ComposedUDPOS=NOUN
+49	wakille	mandataire	ADJ	ADJ	_	48	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+
+# sent_id = 91
+# text = bismi elah wa lahou akbar alahouma ounsour ekwanana fi gaza alhouma damir elyahoud wa man ma3ahoum alahouma damir amreka alahouma ehdi hokama el mouslimine wa sadide raayahoum
+# trad_fr = au nom d'Allah et Allah est grand Oh Dieu donne la victoire √† nos fr√®res de Gaza Oh Dieu d√©truit les juifs et ce qui sont avec eux √¥ Dieu d√©truit l'Am√©rique √¥ Dieu guide les dirigeants qui sont muslumans et corrige leurs opinions
+1-2	bismi	_	_	_	_	_	_	_	lang=ar_msa
+1	bi	au	ADP	P	AdpType=Prep	2	case	_	SpaceAfter=No|lang=ar_msa|ComposedUDPOS=ADP
+2	smi	nom	NOUN	NC	_	3	nmod	_	lang=ar_msa|ComposedUDPOS=NOUN
+3	elah	Allah	PROPN	NPP	_	8	parataxis	_	lang=ar_msa|ComposedUDPOS=PROPN
+4	wa	et	CCONJ	CC	_	5	cc	_	lang=ar_msa|ComposedUDPOS=CCONJ
+5	lahou	Allah	PROPN	NPP	_	3	conj:coord	_	lang=ar_msa|ComposedUDPOS=PROPN
+6	akbar	grand	ADJ	ADJ	_	5	amod	_	lang=ar_msa|ComposedUDPOS=ADJ
+7	alahouma	Oh Dieu	PROPN	NPP	_	8	nsubj	_	lang=ar_msa|ComposedUDPOS=PROPN
+8	ounsour	donne victoire	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=ar_msa|ComposedUDPOS=VERB
+9	ekwanana	nos fr√®res	NOUN	NC+POSS	Possessive=Yes	8	obj	_	lang=ar_msa|ComposedUDPOS=NOUN+PRON
+10	fi	√†	ADP	P	AdpType=Prep	11	case	_	lang=ar_msa|ComposedUDPOS=ADP
+11	gaza	Gaza	PROPN	NPP	_	8	obl	_	lang=ar_msa|ComposedUDPOS=PROPN
+12	alhouma	Oh Dieu	PROPN	NPP	_	13	nsubj	_	lang=ar_msa|ComposedUDPOS=PROPN
+13	damir	d√©truit	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	8	parataxis	_	lang=ar_msa|ComposedUDPOS=VERB
+14-15	elyahoud	_	_	_	_	_	_	_	lang=ar_msa
+14	el	les	DET	DET	_	15	det	_	SpaceAfter=No|lang=ar_msa|ComposedUDPOS=DET
+15	yahoud	juifs	NOUN	NC	_	13	obj	_	lang=ar_msa|ComposedUDPOS=NOUN
+16	wa	et	CCONJ	CC	_	17	cc	_	lang=ar_msa|ComposedUDPOS=CCONJ
+17	man	ce qui	PRON	PROREL	PronType=Rel	15	conj:coord	_	lang=ar_msa|ComposedUDPOS=PRON
+18	ma3ahoum	avec eux	PRON	P+PRO	AdpType=Prep	17	nsubj	_	lang=ar_msa|ComposedUDPOS=ADP+PRON
+19	alahouma	Dieu √¥	PROPN	NPP+VOC	_	20	nsubj	_	lang=ar_msa|ComposedUDPOS=PROPN+INTJ
+20	damir	d√©truit	VERB	V2ms	Gender=Masc|Number=Sing|Person=2	8	parataxis	_	lang=ar_msa|ComposedUDPOS=VERB
+21	amreka	l'Am√©rique	PROPN	NPP	_	20	obj	_	lang=ar_msa|ComposedUDPOS=PROPN
+22	alahouma	Dieu √¥	PROPN	NPP+VOC	_	23	nsubj	_	lang=ar_msa|ComposedUDPOS=PROPN+INTJ
+23	ehdi	guide	VERB	V2ms	Gender=Masc|Number=Sing|Person=2	8	parataxis	_	lang=ar_msa|ComposedUDPOS=VERB
+24	hokama	les dirigeants	NOUN	NC+POSS	Possessive=Yes	23	obj	_	lang=ar_msa|ComposedUDPOS=NOUN+PRON
+25	el	les	DET	DET	_	26	det	_	lang=ar_msa|ComposedUDPOS=DET
+26	mouslimine	muslumans	NOUN	NC	_	24	nmod	_	lang=ar_msa|ComposedUDPOS=NOUN
+27	wa	et	CCONJ	CC	_	28	cc	_	lang=ar_msa|ComposedUDPOS=CCONJ
+28	sadide	finalise	VERB	V2ms	Gender=Masc|Number=Sing|Person=2	23	conj:coord	_	lang=ar_msa|ComposedUDPOS=VERB
+29	raayahoum	leurs opinions	NOUN	NC+POSS	Possessive=Yes	28	obj	_	lang=ar_msa|ComposedUDPOS=NOUN+PRON
+
+# sent_id = M4S60
+# text = Kount qader ndirha bessah ana ma derthach
+# trad_fr = Je pouvais le faire mais je ne l'ai pas fait
+1	Kount	√©tais	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	qader	puissant	ADJ	ADJ	_	1	obj	_	lang=ar_dz|ComposedUDPOS=ADJ
+3	ndirha	faire cela	VERB	V1ms+CLO	Gender=Masc|Number=Sing|Person=1	1	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+4-5	bessah	_	_	_	_	_	_	_	lang=ar_dz
+4	be	avec	ADP	P	AdpType=Prep	5	case	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADP
+5	ssah	VRAI	NOUN	NC	_	3	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+6	ana	moi	PRON	PRO	_	8	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+7	ma	pas	PART	PART-NEG	Polarity=Neg	8	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+8	derthach	fais pas	VERB	V+PART-NEG	Polarity=Neg	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PART
+
+# sent_id = 4446
+# text = ma etwalich edir rajelk wa 3ichi m3aha fi canadaraki etji tadfni ro7k han
+# trad_fr = ne ne reviens pas fait mari tien et vivre avec elle dans Canada tu es tu viens tu enterre moi ton √¢me ici
+1	ma	pas	PART	PART-NEG	Polarity=Neg	2	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+2	etwalich	revenir pas	VERB	PART-NEG+V	Polarity=Neg	0	root	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+3	edir	faire	VERB	V	_	2	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+4	rajelk	mari tien	NOUN	NC+POSS	Possessive=Yes	3	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+5	wa	et	CCONJ	CC	_	6	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+6	3ichi	vivre	VERB	VIMP	Mood=Imp	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+7	m3aha	avec elle	PRON	P+PRO	AdpType=Prep	6	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+8	fi	√†	ADP	P	AdpType=Prep	9	case	_	lang=ar_dz|ComposedUDPOS=ADP
+9-10	canadaraki	_	_	_	_	_	_	_	_
+9	canada	Canada	PROPN	NPP	_	6	obl	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=PROPN
+10	raki	tu √™tre	VERB	V2fs	Gender=Fem|Number=Sing|Person=2	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+11	etji	tu viens	VERB	V2fs	Gender=Fem|Number=Sing|Person=2	10	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+12	tadfni	enterrer tu	VERB	V2fs	Gender=Fem|Number=Sing|Person=2	11	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+13	ro7k	ton √¢me	NOUN	NC+POSS	Possessive=Yes	12	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+14	han	ici	ADV	ADV	_	13	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+
+# sent_id = 1271
+# text = Khafoo rabi ya djma3a rakoom bahdeltoona par tout
+# trad_fr = ayez peur de Dieu oh tous vous nous avez rendu fou par- tout
+1	Khafoo	ayez peur	VERB	VIMP	Mood=Imp	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	1	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+3	ya	oh	INTJ	VOC	_	4	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+4	djma3a	gens	NOUN	NC	_	5	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN
+5	rakoom	vous √™tes	VERB	V	_	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+6	bahdeltoona	fou √† nous	VERB	V3mp+CLO	Gender=Masc|Number=Plur|Person=3	5	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+7	par	par-	ADP	P	AdpType=Prep	8	case	_	lang=fr|ComposedUDPOS=ADP
+8	tout	#NOM?	ADV	ADV	_	6	advmod	_	lang=fr|ComposedUDPOS=ADV
+
+# sent_id = 687
+# text = rana m3akom malgr√© tout 123 viva l'algerie ya3tikom elsaha ya les jeunes
+# trad_fr = on est avec vous malgr√© tout 123 viva l'Alg√©rie je vous vous remercie oh les jeunes
+1	rana	on est	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	m3akom	avec vous	PRON	P+PRO	AdpType=Prep	1	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+3	malgr√©	malgr√©	ADV	ADV	_	1	advmod	_	lang=fr|ComposedUDPOS=ADV
+4	tout	tout	ADV	ADV	_	1	advmod	_	lang=fr|ComposedUDPOS=ADV
+5	123	123	INTJ	I	_	6	discourse	_	lang=en|ComposedUDPOS=INTJ
+6	viva	viva	INTJ	I	_	8	discourse	_	lang=es|ComposedUDPOS=INTJ
+7-8	l'algerie	_	_	_	_	_	_	_	lang=fr
+7	l'	l'	DET	DET	_	8	det	_	SpaceAfter=No|lang=fr|ComposedUDPOS=DET
+8	algerie	Alg√©rie	PROPN	NPP	_	1	parataxis	_	lang=fr|ComposedUDPOS=PROPN
+9	ya3tikom	je vous donne	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+10-11	elsaha	_	_	_	_	_	_	_	lang=ar_dz
+10	el	le	DET	DET	_	11	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+11	saha	remerciement	NOUN	NC	_	9	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+12	ya	oh	INTJ	VOC	_	14	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+13	les	les	DET	DET	_	14	det	_	lang=fr|ComposedUDPOS=DET
+14	jeunes	jeunes	NOUN	NC	_	9	vocative	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = 1545
+# text = salamy'a ech-chourouk ch3ab krahc'est pas la peine de le dribl√©dans sa tete une barque via l'europe
+# trad_fr = Bonjour oh El Chourouk le peuple en a marre c'est pas la peine de les dribbler dans sa t√™te il y a juste une barque pour l'Europe
+1-2	salamy'a	_	_	_	_	_	_	_	lang=ar_dz
+1	salam	Paix	NOUN	NC	_	5	dep	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=NOUN
+2	y'a	oh	INTJ	VOC	_	3	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+3	ech-chourouk	El Chourouk	PROPN	NPP	_	5	vocative	_	lang=ar_dz|ComposedUDPOS=PROPN
+4	ch3ab	peuple	NOUN	NC	_	5	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN
+5-6	krahc'est	_	_	_	_	_	_	_	lang=ar_dz
+5	krah	marre	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	0	root	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=VERB
+6	c'est	c'est	VERB	CLS-SUJ+V	_	5	parataxis	_	lang=ar_dz|ComposedUDPOS=PRON+VERB
+7	pas	pas	ADV	ADV-MOD	Polarity=Neg	9	advmod	_	lang=fr|ComposedUDPOS=ADV
+8	la	la	DET	DET	_	9	det	_	lang=fr|ComposedUDPOS=DET
+9	peine	peine	NOUN	NC	_	6	obj	_	lang=fr|ComposedUDPOS=NOUN
+10	de	de	ADP	P	AdpType=Prep	12	case	_	lang=fr|ComposedUDPOS=ADP
+11	le	le	DET	DET	_	12	det	_	lang=fr|ComposedUDPOS=DET
+12-13	dribl√©dans	_	_	_	_	_	_	_	lang=fr
+12	dribl√©	dribbler	VERB	VINF	VerbForm=Inf	6	ccomp	_	SpaceAfter=No|lang=fr|ComposedUDPOS=VERB
+13	dans	dans	ADP	P	AdpType=Prep	15	case	_	lang=fr|ComposedUDPOS=ADP
+14	sa	sa	DET	DET	_	15	det	_	lang=fr|ComposedUDPOS=DET
+15	tete	t√™te	NOUN	NC	_	12	obl	_	lang=fr|ComposedUDPOS=NOUN
+16	une	une	DET	DET	_	17	det	_	lang=fr|ComposedUDPOS=DET
+17	barque	barque	NOUN	NC	_	15	nmod	_	lang=fr|ComposedUDPOS=NOUN
+18	via	via	ADP	P	AdpType=Prep	19	case	_	lang=fr|ComposedUDPOS=ADP
+19	l'europe	l'europe	PROPN	DET+NPP	_	17	nmod	_	lang=fr|ComposedUDPOS=DET+PROPN
+
+# sent_id = 2968
+# text = ya rabi ya allah koun m3ana inchallah rana fi mondiale 2010 toujour l'algerie mon amour
+# trad_fr = √¥ mon Dieu √¥ Dieu soit avec nous faites que nous irons au Mondial 2010 toujours l'Alg√©rie mon amour
+1	ya	√¥	INTJ	VOC	_	2	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+2	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	5	vocative	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+3	ya	√¥	INTJ	VOC	_	4	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+4	allah	Dieu	PROPN	NPP	_	5	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+5	koun	soit	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+6	m3ana	avec nous	PRON	P+PRO	AdpType=Prep	5	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+7	inchallah	inchaAllah	INTJ	I	_	8	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+8	rana	nous sommes	VERB	V	_	5	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+9	fi	√†	ADP	P	AdpType=Prep	10	case	_	lang=ar_dz|ComposedUDPOS=ADP
+10	mondiale	Mondial	NOUN	NC	_	8	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+11	2010	2010	NOUN	NC	_	10	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+12	toujour	toujours	ADV	ADV	_	14	advmod	_	lang=fr|ComposedUDPOS=ADV
+13-14	l'algerie	_	_	_	_	_	_	_	lang=fr
+13	l'	l'	DET	DET	_	14	det	_	SpaceAfter=No|lang=fr|ComposedUDPOS=DET
+14	algerie	Alg√©rie	PROPN	NPP	_	5	parataxis	_	lang=fr|ComposedUDPOS=PROPN
+15	mon	mon	DET	DET	_	16	det	_	lang=fr|ComposedUDPOS=DET
+16	amour	amour	NOUN	NC	_	14	nmod	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = 3442
+# text = vive l'algerie ma3andna walou ghir rabi soub7ane
+# trad_fr = vive l'Alg√©rie nous n'avons rien uniquement Dieu le Tr√®s Haut
+1	vive	vive	INTJ	I	_	3	discourse	_	lang=fr|ComposedUDPOS=INTJ
+2-3	l'algerie	_	_	_	_	_	_	_	lang=fr
+2	l'	l'	DET	DET	_	3	det	_	SpaceAfter=No|lang=fr|ComposedUDPOS=DET
+3	algerie	Alg√©rie	PROPN	NPP	_	7	parataxis	_	lang=fr|ComposedUDPOS=PROPN
+4	ma3andna	pas chez nous	ADP	PART-NEG+P+PRO	Polarity=Neg|AdpType=Prep	7	case	_	lang=ar_dz|ComposedUDPOS=PART+ADP+PRON
+5	walou	rien	ADV	ADV	_	7	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+6	ghir	que	PART	PART-EXP	_	7	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+7	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+8	soub7ane	le_Tr√®s_Haut	ADJ	ADJ	_	7	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+
+# sent_id = 4659
+# text = rwahi lbadak le maroc anti oe wladak ta3ichi rasak marfo3 fblad alhoriya wa dimokrateya hadak alkadafi satakoun nihayatoho fi kotob atarikh alhadit la3nato allah 3alieh oe wlidak allah eyrahmo oe eywasa3 3lieh tahiyati licha3b libi wa jazairi
+# trad_fr = rentrer √† pays tien le Maroc anti et enfants tien vivre tu t√™te ta haute √† pays la libert√© et d√©mocratie lui Khaddafi va √™tre fin sa dans livre l'histoire contemporaine que la mal√©diction Dieu sur lui et p√®re tien Dieu avoir piti√© de lui et √©largir sur lui hommages mes au peuple libyien et alg√©rien
+1	rwahi	rentrer	VERB	VIMP	Mood=Imp	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	lbadak	√† pays tien	NOUN	P+NC+POSS	AdpType=Prep|Possessive=Yes	1	obj	_	lang=ar_dz|ComposedUDPOS=ADP+NOUN+PRON
+3	le	le	DET	DET	_	4	det	_	lang=fr|ComposedUDPOS=DET
+4	maroc	Maroc	PROPN	NPP	_	2	appos	_	lang=fr|ComposedUDPOS=PROPN
+5	anti	toi	PRON	PRO	_	8	nsubj	_	lang=fr|ComposedUDPOS=PRON
+6	oe	et	CCONJ	CC	_	7	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+7	wladak	enfants tien	NOUN	NC+POSS	Possessive=Yes	5	conj:coord	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+8	ta3ichi	vivre tu	VERB	V2fs	Gender=Fem|Number=Sing|Person=2	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+9	rasak	t√™te ta	NOUN	NC+POSS	Possessive=Yes	8	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+10	marfo3	haute	ADJ	ADJ	_	9	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+11	fblad	√† pays	NOUN	P+NC	AdpType=Prep	8	obl	_	lang=ar_dz|ComposedUDPOS=ADP+NOUN
+12	alhoriya	la libert√©	NOUN	DET+NC	_	11	nmod	_	lang=ar_dz|ComposedUDPOS=DET+NOUN
+13	wa	et	CCONJ	CC	_	14	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+14	dimokrateya	d√©mocratie	NOUN	NC	_	12	conj:coord	_	lang=ar_dz|ComposedUDPOS=NOUN
+15	hadak	ce	PRON	DEM	PronType=Dem	16	det	_	lang=ar_dz|ComposedUDPOS=PRON
+16	alkadafi	Khaddafi	PROPN	NPP	_	17	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+17	satakoun	va √™tre	VERB	PART-FUT+V3fs	Gender=Fem|Number=Plur|Person=3	1	parataxis	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+18	nihayatoho	fin sa	NOUN	NC+POSS	Possessive=Yes	17	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+19	fi	dans	ADP	P	AdpType=Prep	20	case	_	lang=ar_dz|ComposedUDPOS=ADP
+20	kotob	livre	NOUN	NC	_	17	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+21	atarikh	l'histoire	NOUN	DET+NC	_	20	nmod	_	lang=ar_dz|ComposedUDPOS=DET+NOUN
+22	alhadit	le contemporain	ADJ	DET+ADJ	_	21	amod	_	lang=ar_dz|ComposedUDPOS=DET+ADJ
+23	la3nato	mal√©diction	NOUN	NC	_	24	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+24	allah	Dieu	PROPN	NPP	_	1	parataxis	_	lang=ar_dz|ComposedUDPOS=PROPN
+25	3alieh	sur lui	PRON	P+PRO	AdpType=Prep	24	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+26	oe	et	CCONJ	CC	_	27	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+27	wlidak	p√®re tien	NOUN	NC+POSS	Possessive=Yes	29	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+28	allah	Dieu	PROPN	NPP	_	29	nsubj	_	lang=ar_dz|ComposedUDPOS=PROPN
+29	eyrahmo	avoir piti√© de lui	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+30	oe	et	CCONJ	CC	_	31	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+31	eywasa3	√©largir	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	29	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+32	3lieh	sur lui	PRON	P+PRO	AdpType=Prep	31	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+33	tahiyati	hommages mes	NOUN	NC+POSS	Possessive=Yes	1	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+34	licha3b	au peuple	NOUN	P+NC	AdpType=Prep	33	nmod	_	lang=ar_dz|ComposedUDPOS=ADP+NOUN
+35	libi	libyien	ADJ	ADJ	_	34	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+36	wa	et	CCONJ	CC	_	37	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+37	jazairi	alg√©rien	ADJ	ADJ	_	35	conj:coord	_	lang=ar_dz|ComposedUDPOS=ADJ
+
+# sent_id = 571
+# text = Soubhan ALLAH el mousta3an Rabi yahfadhoum amine avez vous oubli√© que vous allez faire face √† notre cr√©ateur et rendre compte de vos actes ?
+# trad_fr = Gloire √† Dieu le aidant que Dieu les prot√®ges amine avez vous oubli√© que vous allez faire face √† notre cr√©ateur et rendre compte de vos actes ?
+1	Soubhan	gloire	NOUN	NC	_	6	parataxis	_	lang=msa|ComposedUDPOS=NOUN
+2	ALLAH	√† ALLAh	PROPN	NPP	_	1	nmod	_	lang=msa|ComposedUDPOS=PROPN
+3	el	le	DET	DET	_	4	det	_	lang=msa|ComposedUDPOS=DET
+4	mousta3an	aidant	ADJ	ADJ	_	2	amod	_	lang=msa|ComposedUDPOS=ADJ
+5	Rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	6	nsubj	_	lang=msa|ComposedUDPOS=NOUN+PRON
+6	yahfadhoum	les prot√®ges	VERB	V3ms+CLO	Gender=Masc|Number=Sing|Person=3	0	root	_	lang=msa|ComposedUDPOS=VERB+PRON
+7	amine	amine	INTJ	I	_	6	discourse	_	lang=msa|ComposedUDPOS=INTJ
+8	avez	avez	VERB	V	_	6	parataxis	_	lang=fr|ComposedUDPOS=VERB
+9	vous	vous	PRON	CLS-SUJ	_	8	nsubj	_	lang=fr|ComposedUDPOS=PRON
+10	oubli√©	oubli√©	VERB	VPP	VerbForm=Part	8	xcomp	_	lang=fr|ComposedUDPOS=VERB
+11	que	que	SCONJ	CS	_	13	mark	_	lang=fr|ComposedUDPOS=SCONJ
+12	vous	vous	PRON	CLS-SUJ	_	13	nsubj	_	lang=fr|ComposedUDPOS=PRON
+13	allez	allez	VERB	V	_	10	ccomp	_	lang=fr|ComposedUDPOS=VERB
+14	faire	faire	VERB	VINF	VerbForm=Inf	13	xcomp	_	lang=fr|ComposedUDPOS=VERB
+15	face	face	NOUN	NC	_	14	obj	_	lang=fr|ComposedUDPOS=NOUN
+16	√†	√†	ADP	P	AdpType=Prep	18	case	_	lang=fr|ComposedUDPOS=ADP
+17	notre	notre	DET	DET	_	18	det	_	lang=fr|ComposedUDPOS=DET
+18	cr√©ateur	cr√©ateur	NOUN	NC	_	14	obl	_	lang=fr|ComposedUDPOS=NOUN
+19	et	et	CCONJ	CC	_	20	cc	_	lang=fr|ComposedUDPOS=CCONJ
+20	rendre	rendre	VERB	VINF	VerbForm=Inf	14	conj:coord	_	lang=fr|ComposedUDPOS=VERB
+21	compte	compte	NOUN	NC	_	20	obj	_	lang=fr|ComposedUDPOS=NOUN
+22	de	de	ADP	P	AdpType=Prep	24	case	_	lang=fr|ComposedUDPOS=ADP
+23	vos	vos	DET	DET	_	24	det	_	lang=fr|ComposedUDPOS=DET
+24	actes	actes	NOUN	NC	_	20	obl	_	lang=fr|ComposedUDPOS=NOUN
+25	?	?	PUNCT	PONCT	_	8	punct	_	lang=fr|ComposedUDPOS=PUNCT
+
+# sent_id = 4451
+# text = yaw 3andhom el hak !! tjouz 3la salembier plus pr√©cisament 3la diar el mahssol smahli kho mais loukan tjib m3ak 3ayar \
+# trad_fr = √©h ils ont le raison !! tu passes pour Salembier plus pr√©cisement pour les maisons le production pardon fr√®re mais si de ramener avec toi mesure \
+1	yaw	√©h	INTJ	I	_	2	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+2	3andhom	chez eux	PRON	P+PRO	AdpType=Prep	6	parataxis	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+3	el	la	DET	DET	_	4	det	_	lang=ar_dz|ComposedUDPOS=DET
+4	hak	raison	NOUN	NC	_	2	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+5	!!	!!	PUNCT	PONCT	_	2	punct	_	lang=fr|ComposedUDPOS=PUNCT
+6	tjouz	est_vrai	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+7	3la	sur	ADP	P	AdpType=Prep	8	case	_	lang=ar_dz|ComposedUDPOS=ADP
+8	salembier	Salembier	PROPN	NPP	_	6	obl	_	lang=ar_dz|ComposedUDPOS=PROPN
+9	plus	plus	ADV	ADV	_	10	advmod	_	lang=fr|ComposedUDPOS=ADV
+10	pr√©cisament	pr√©cisement	ADV	ADV	_	12	advmod	_	lang=fr|ComposedUDPOS=ADV
+11	3la	sur	ADP	P	AdpType=Prep	12	case	_	lang=ar_dz|ComposedUDPOS=ADP
+12	diar	maisons	NOUN	NC	_	6	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+13	el	le	DET	DET	_	14	det	_	lang=ar_dz|ComposedUDPOS=DET
+14	mahssol	production	NOUN	NC	_	6	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN
+15	smahli	pardon	INTJ	I	_	16	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+16	kho	fr√®re	NOUN	NC	_	14	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+17	mais	mais	CCONJ	CC	_	18	cc	_	lang=fr|ComposedUDPOS=CCONJ
+18	loukan	si	SCONJ	CS	_	19	mark	_	lang=ar_dz|ComposedUDPOS=SCONJ
+19	tjib	ramener toi	VERB	V2ms	Gender=Masc|Number=Sing|Person=2	6	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+20	m3ak	avec toi	PRON	P+PRO	AdpType=Prep	19	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+21	3ayar	mesure	NOUN	NC	_	19	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+22	\	\	PUNCT	PONCT	_	19	punct	_	lang=fr|ComposedUDPOS=PUNCT
+
+# sent_id = 3527
+# text = rabi m3ak khouya on te souhaite tte la r√©ussite inchalah
+# trad_fr = que Dieu soit avec toi mon fr√®re on te souhaite toute la r√©ussite si Dieu le veux
+1	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	6	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+2	m3ak	avec toi	PRON	P+PRO	AdpType=Prep	3	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+3	khouya	mon fr√®re	NOUN	NC+POSS	Possessive=Yes	1	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+4	on	on	PRON	CLS-SUJ	_	6	nsubj	_	lang=fr|ComposedUDPOS=PRON
+5	te	te	PRON	CLO	_	6	nsubj	_	lang=fr|ComposedUDPOS=PRON
+6	souhaite	souhaite	VERB	V	_	0	root	_	lang=fr|ComposedUDPOS=VERB
+7	tte	toute	ADV	ADV	_	9	advmod	_	lang=fr|ComposedUDPOS=ADV
+8	la	la	DET	DET	_	9	det	_	lang=fr|ComposedUDPOS=DET
+9	r√©ussite	r√©ussite	NOUN	NC	_	6	obj	_	lang=fr|ComposedUDPOS=NOUN
+10	inchalah	inchaAllah	INTJ	I	_	6	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+
+# sent_id = 9341
+# text = salam saha ftourkom a tous allah m3akom yardjala tahya eldjzair ya matmour ya messi de l'alg√©rie inchallah elmondiale et elbarca pour toiu matmour tahya ga33 les 'alg√©rien
+# trad_fr = paix et bon repas √† vous √† et √† tous que Dieu soit avec vous les hommes vive l'Algerie √¥ Matmour √¥ Messi de l'Algerie si dieu le veux le mondial et le Bar√ßa pour toi Matmour vive tous les alg√©riens
+1	salam	paix	NOUN	NC	_	3	discourse	_	lang=ar_dz|ComposedUDPOS=NOUN
+2	saha	bon	NOUN	NC	_	3	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+3	ftourkom	votre repas	NOUN	NC+POSS	Possessive=Yes	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+4	a	√†	ADP	P	AdpType=Prep	5	case	_	lang=fr|ComposedUDPOS=ADP
+5	tous	tous	PRON	PRO	_	3	nsubj	_	lang=fr|ComposedUDPOS=ADV
+6	allah	Dieu	PROPN	NPP	_	3	parataxis	_	lang=ar_dz|ComposedUDPOS=PROPN
+7	m3akom	avec vous	PRON	P+PRO	AdpType=Prep	6	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+8-9	yardjala	_	_	_	_	_	_	_	lang=ar_dz
+8	ya	les	INTJ	VOC	_	9	discourse	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=INTJ
+9	rdjala	hommes	PROPN	NPP	_	7	appos	_	lang=ar_dz|ComposedUDPOS=PROPN
+10	tahya	vive	INTJ	I	_	11	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+11	eldjzair	l'Algerie	PROPN	NPP	_	3	parataxis	_	lang=ar_dz|ComposedUDPOS=PROPN
+12	ya	√¥	INTJ	VOC	_	13	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+13	matmour	Matmour	PROPN	NPP	_	11	vocative	_	lang=ar_dz|ComposedUDPOS=PROPN
+14	ya	√¥	INTJ	VOC	_	15	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+15	messi	Messi	PROPN	NPP	_	11	vocative	_	lang=ar_dz|ComposedUDPOS=PROPN
+16	de	de	ADP	P	AdpType=Prep	17	case	_	lang=fr|ComposedUDPOS=ADP
+17	l'alg√©rie	l'Algerie	PROPN	NPP	_	15	nmod	_	lang=fr|ComposedUDPOS=PROPN
+18	inchallah	si dieu le veux	INTJ	I	_	20	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+19-20	elmondiale	_	_	_	_	_	_	_	lang=ar_dz
+19	el	le	DET	DET	_	20	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+20	mondiale	mondial	NOUN	NC	_	17	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+21	et	et	CCONJ	CC	_	22	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+22	elbarca	le Bar√ßa	PROPN	NPP	_	20	conj:coord	_	lang=ar_dz|ComposedUDPOS=PROPN
+23	pour	pour	ADP	P	AdpType=Prep	24	case	_	lang=fr|ComposedUDPOS=ADP
+24	toiu	toi	PRON	PRO	_	22	nsubj	_	lang=fr|ComposedUDPOS=PRON
+25	matmour	Matmour	PROPN	NPP	_	24	nmod	_	lang=ar_dz|ComposedUDPOS=PROPN
+26	tahya	vive	INTJ	I	_	29	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+27	ga33	tous	ADV	ADV	_	29	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+28	les	les	DET	DET	_	29	det	_	lang=fr|ComposedUDPOS=DET
+29	'alg√©rien	alg√©riens	NOUN	NC	_	3	parataxis	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = M3S2
+# text = ra7 ngoul les sujets l khebawhom b les cagoules
+# trad_fr = Je vais dire les sujets qu'ils ont cach√©s avec les cagoules
+1	ra7	vais	VERB	V	_	2	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+2	ngoul	je dis	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	les	les	DET	DET	_	4	det	_	lang=fr|ComposedUDPOS=DET
+4	sujets	sujets	NOUN	NC	_	2	obj	_	lang=fr|ComposedUDPOS=NOUN
+5	l	qui	PRON	PROREL	PronType=Rel	6	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+6	khebawhom	ils cachent eux	VERB	V3mp+CLO	Gender=Masc|Number=Plur|Person=3	4	acl:relcl	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+7	b	avec	ADP	P	AdpType=Prep	9	case	_	lang=ar_dz|ComposedUDPOS=ADP
+8	les	les	DET	DET	_	9	det	_	lang=fr|ComposedUDPOS=DET
+9	cagoules	cagoules	NOUN	NC	_	6	obl	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = 9304
+# text = dima m3a al khadra brabi rabhin m3a al magreb 123dima algerier
+# trad_fr = toujours avec les verts avec Dieu gagnant avec le maghreb I 2 3 toujours avec l'Alg√©rie
+1	dima	toujours	ADV	ADV	_	4	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+2	m3a	avec	ADP	P	AdpType=Prep	4	case	_	lang=ar_dz|ComposedUDPOS=ADP
+3	al	les	DET	DET	_	4	det	_	lang=ar_dz|ComposedUDPOS=DET
+4	khadra	verts	NOUN	NC	_	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN
+5-6	brabi	_	_	_	_	_	_	_	lang=ar_dz
+5	b	avec	ADP	P	AdpType=Prep	6	case	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=ADP
+6	rabi	mon Dieu	NOUN	NC+POSS	Possessive=Yes	4	parataxis	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+7	rabhin	gagnant	ADJ	ADJ	_	6	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+8	m3a	avec	ADP	P	AdpType=Prep	10	case	_	lang=ar_dz|ComposedUDPOS=ADP
+9	al	le	DET	DET	_	10	det	_	lang=ar_dz|ComposedUDPOS=DET
+10	magreb	maghreb	PROPN	NPP	_	7	nmod	_	lang=ar_dz|ComposedUDPOS=PROPN
+11-12	123dima	_	_	_	_	_	_	_	lang=ar_dz
+11	123	1 2 3	INTJ	I	_	13	discourse	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=INTJ
+12	dima	toujours	ADV	ADV	_	13	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+13	algerier	Algerie	PROPN	NPP	_	4	parataxis	_	lang=fr|ComposedUDPOS=PROPN
+
+# sent_id = 2964
+# text = pour basma de s√©tif wallah tchoufi wach idirou 3aynik yahwalou wadnik yatwalou123 viva l'algerie wa echorouk
+# trad_fr = pour Basma de S√©tif par Dieu tu vois ce qu'ils font de tes yeux louchront tes oreilles reviens 123 viva l'Alg√©rie et Echorouk
+1	pour	pour	ADP	P	AdpType=Prep	2	case	_	lang=fr|ComposedUDPOS=ADP
+2	basma	Basma	PROPN	NPP	_	6	parataxis	_	lang=fr|ComposedUDPOS=PROPN
+3	de	de	ADP	P	AdpType=Prep	4	case	_	lang=fr|ComposedUDPOS=ADP
+4	s√©tif	S√©tif	PROPN	NPP	_	2	nmod	_	lang=fr|ComposedUDPOS=PROPN
+5	wallah	Wallah	INTJ	I	_	6	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+6	tchoufi	tu vois	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+7	wach	quoi	ADV	ADVWH	_	8	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+8	idirou	font	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	6	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+9	3aynik	tes yeux	NOUN	NC+POSS	Possessive=Yes	8	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+10	yahwalou	loucheront	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	8	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+11	wadnik	tes oreilles	NOUN	NC+POSS	Possessive=Yes	10	obj	_	lang=ar_dz|ComposedUDPOS=NOUN+PRON
+12-13	yatwalou123	_	_	_	_	_	_	_	lang=ar_dz
+12	yatwalou	reviens	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	10	xcomp	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=VERB
+13	123	123	INTJ	I	_	16	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+14	viva	viva	INTJ	I	_	16	discourse	_	lang=es|ComposedUDPOS=INTJ
+15-16	l'algerie	_	_	_	_	_	_	_	lang=fr
+15	l'	l'	DET	DET	_	16	det	_	SpaceAfter=No|lang=fr|ComposedUDPOS=DET
+16	algerie	Alg√©rie	PROPN	NPP	_	6	parataxis	_	lang=fr|ComposedUDPOS=PROPN
+17	wa	et	CCONJ	CC	_	18	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+18	echorouk	Echorouk	PROPN	NPP	_	16	conj:coord	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = 4161
+# text = 3lah ya chorouk wallah nhabkom 6 heures par jours m3akom wntoma commentaire ma hotitoh????????????
+# trad_fr = pourquoi oh Chourouk je jure par Dieu je suis 6 heures par jours avec vous mais vous ne mettez pas mon commentaire ?
+1	3lah	pourquoi	ADV	ADVWH	_	3	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+2	ya	oh	INTJ	VOC	_	3	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+3	chorouk	Chourouk	PROPN	NPP	_	5	vocative	_	lang=ar_dz|ComposedUDPOS=PROPN
+4	wallah	Wallah	INTJ	I	_	5	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+5	nhabkom	je vous aimes	VERB	V1ms+CLO	Gender=Masc|Number=Sing|Person=1	0	root	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+6	6	6	DET	DET	_	7	det	_	lang=fr|ComposedUDPOS=DET
+7	heures	heures	NOUN	NC	_	5	obj	_	lang=fr|ComposedUDPOS=NOUN
+8	par	par	ADP	P	AdpType=Prep	9	case	_	lang=fr|ComposedUDPOS=ADP
+9	jours	jours	NOUN	NC	_	5	obl	_	lang=fr|ComposedUDPOS=NOUN
+10	m3akom	avec vous	PRON	P+PRO	AdpType=Prep	5	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+11-12	wntoma	_	_	_	_	_	_	_	lang=ar_dz
+11	w	et	CCONJ	CC	_	12	cc	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=CCONJ
+12	ntoma	vous	PRON	CLS-SUJ	_	15	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+13	commentaire	commentaire	NOUN	NC	_	15	obj	_	lang=fr|ComposedUDPOS=NOUN
+14	ma	pas	PART	PART-NEG	Polarity=Neg	15	advmod	_	lang=ar_dz|ComposedUDPOS=PART
+15-16	hotitoh????????????	_	_	_	_	_	_	_	lang=ar_dz
+15	hotitoh	mettre vous	VERB	V2mp+CLO	Gender=Masc|Number=Plur|Person=2	5	parataxis	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=VERB+PRON
+16	????????????	????????????	PUNCT	PONCT	_	15	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+
+# sent_id = 1390
+# text = sahlou 3alina rakoum msa3binha ahna walhih la douane tama3ine bezaf il fou controlie la douane sahitou
+# trad_fr = facilitez nous vous la rendez difficile nous je jure la douane est gourmand beaucoup trop il faut controler la douane merci
+1	sahlou	facilite	VERB	VIMP	Mood=Imp	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+2	3alina	√† nous	PRON	P+PRO	AdpType=Prep	1	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+3	rakoum	vous √™tes	VERB	V	_	1	ccomp	_	lang=ar_dz|ComposedUDPOS=VERB
+4	msa3binha	vous la rendez difficile	VERB	V2ms+CLO	Gender=Masc|Number=Sing|Person=2	3	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+5	ahna	nous	PRON	CLS-SUJ	_	8	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+6	walhih	je jure	INTJ	I	_	8	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+7	la	la	DET	DET	_	8	det	_	lang=fr|ComposedUDPOS=DET
+8	douane	douane	NOUN	NC	_	1	parataxis	_	lang=fr|ComposedUDPOS=NOUN
+9	tama3ine	gourmand	ADJ	ADJ	_	8	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+10	bezaf	beaucoup	ADV	ADV	_	9	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+11	il	il	PRON	CLS-SUJ	_	12	nsubj	_	lang=fr|ComposedUDPOS=PRON
+12	fou	faut	VERB	V	_	1	parataxis	_	lang=fr|ComposedUDPOS=VERB
+13	controlie	controler	VERB	VINF	VerbForm=Inf	12	xcomp	_	lang=fr|ComposedUDPOS=VERB
+14	la	la	DET	DET	_	15	det	_	lang=fr|ComposedUDPOS=DET
+15	douane	douane	NOUN	NC	_	13	obj	_	lang=fr|ComposedUDPOS=NOUN
+16	sahitou	merci	INTJ	I	_	13	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+
+# sent_id = M2S45
+# text = album wrah album fih probleme wra probleme
+# trad_fr = Album apr√®s album c'est en fait probl√®me apr√®s probl√®me
+1	album	Album	NOUN	NC	_	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN
+2	wrah	apr√®s	ADP	P	AdpType=Prep	3	case	_	lang=ar_dz|ComposedUDPOS=ADP
+3	album	album	NOUN	NC	_	1	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+4	fih	avec lui	PRON	P+PRO	AdpType=Prep	5	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+5	probleme	probl√®me	NOUN	NC	_	1	nmod	_	lang=fr|ComposedUDPOS=NOUN
+6	wra	apr√®s	ADP	P	AdpType=Prep	7	case	_	lang=ar_dz|ComposedUDPOS=ADP
+7	probleme	probl√®me	NOUN	NC	_	5	nmod	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = 9369
+# text = aller ga3 m3ana algerie 3-0 zambia
+# trad_fr = Aller tous avec moi Algerie 3-0 Zambie
+1	aller	Aller	INTJ	I	_	4	discourse	_	lang=fr|ComposedUDPOS=INTJ
+2	ga3	tous	ADV	ADV	_	3	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+3	m3ana	avec moi	PRON	P+PRO	AdpType=Prep	4	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+4	algerie	Algerie	PROPN	NPP	_	0	root	_	lang=fr|ComposedUDPOS=PROPN
+5	3-0	3-0	NOUN	NC	_	4	nmod	_	lang=fr|ComposedUDPOS=NOUN
+6	zambia	Zambie	PROPN	NPP	_	5	nmod	_	lang=fr|ComposedUDPOS=PROPN
+
+# sent_id = 70
+# text = amina2003alg@yahoofr
+# trad_fr = amina2003alg@yahoofr
+1	amina2003alg@yahoofr	amina2003alg@yahoofr	PROPN	NPP	_	0	root	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = M3S78
+# text = lyoum ana howa li ra7 nekaser les tabous
+# trad_fr = aujourd'hui c'est moi qui vais briser les tabous
+1	lyoum	le jour	NOUN	DET+NC	_	2	nmod	_	lang=ar_dz|ComposedUDPOS=DET+NOUN
+2	ana	moi	PRON	CLS-SUJ	_	5	acl:relcl	_	lang=ar_dz|ComposedUDPOS=PRON
+3	howa	lui	PRON	PRO	_	2	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+4	li	qui	PRON	PROREL	PronType=Rel	5	nsubj	_	lang=ar_dz|ComposedUDPOS=PRON
+5	ra7	vais	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+6	nekaser	briser	VERB	V	_	5	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+7	les	les	DET	DET	_	8	det	_	lang=fr|ComposedUDPOS=DET
+8	tabous	tabous	NOUN	NC	_	6	obj	_	lang=fr|ComposedUDPOS=NOUN
+
+# sent_id = 4449
+# text = yakhi tmaskhir ndiro parabole colectife atgambri ya doula atgambri fi 3ode tchoufo halle nase kifah 3aychine m3a nar ou halle zawali ou machakelle lablade djayinne tgololna barabolle ou klimatizor chkonne dakhalhom les parabole ou klimatizor ou dok afham ya faheme
+# trad_fr = alala se moquer qu'on fait nous parabole collectif  oh l'√©tat  dans recommencer vous voyez ambiance gens comment ceux qui avec l'enfer et ambiance  et probl√®mes le pays qui arrive vous nous dites parabole et climatisation qui il les font entrer les parabole et climatisation et maintenant les conaisseurs oh comprendront
+1	yakhi	alala	INTJ	I	_	2	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+2	tmaskhir	se moquer	VERB	V	_	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	ndiro	nous faisons	VERB	V1mp	Gender=Masc|Number=Plur|Person=1	2	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+4	parabole	parabole	NOUN	NC	_	3	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+5	colectife	collectif	ADJ	ADJ	_	4	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+6	atgambri	trouver_excuse	VERB	V	_	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+7	ya	oh	INTJ	VOC	_	8	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+8	doula	√©tat	NOUN	NC	_	6	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+9	atgambri	trouver_excuse	VERB	V	_	6	ccomp	_	lang=ar_dz|ComposedUDPOS=VERB
+10	fi	dans	ADP	P	AdpType=Prep	11	case	_	lang=ar_dz|ComposedUDPOS=ADP
+11	3ode	au_lieu_de	NOUN	NC	_	9	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+12	tchoufo	vous cherchez	VERB	V2mp	Gender=Masc|Number=Plur|Person=2	9	ccomp	_	lang=ar_dz|ComposedUDPOS=VERB
+13	halle	situation	NOUN	NC	_	12	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+14	nase	gens	NOUN	NC	_	13	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+15	kifah	comment	ADV	ADVWH	_	16	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+16	3aychine	vivant	ADJ	ADJ	_	14	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+17	m3a	avec	ADP	P	AdpType=Prep	18	case	_	lang=ar_dz|ComposedUDPOS=ADP
+18	nar	feu	NOUN	NC	_	16	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+19	ou	et	CCONJ	CC	_	20	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+20	halle	situation	NOUN	NC	_	13	conj:coord	_	lang=ar_dz|ComposedUDPOS=NOUN
+21	zawali	pauvre	NOUN	NC	_	20	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+22	ou	et	CCONJ	CC	_	23	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+23	machakelle	probl√®mes	NOUN	NC	_	25	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN
+24	lablade	le pays	NOUN	DET+NC	_	23	nmod	_	lang=ar_dz|ComposedUDPOS=DET+NOUN
+25	djayinne	vous venez	VERB	V2mp	Gender=Masc|Number=Plur|Person=2	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+26	tgololna	vous dire nous	VERB	V2mp+CLO	Gender=Masc|Number=Plur|Person=2	25	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+27	barabolle	parabole	NOUN	NC	_	26	obj	_	lang=fr|ComposedUDPOS=NOUN
+28	ou	et	CCONJ	CC	_	29	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+29	klimatizor	climatiseur	NOUN	NC	_	27	conj:coord	_	lang=fr|ComposedUDPOS=NOUN
+30	chkonne	qui	ADV	ADVWH	_	31	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+31	dakhalhom	faire_entrer eux	VERB	V+CLO-OBJ	_	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB+PRON
+32	les	les	DET	DET	_	33	det	_	lang=fr|ComposedUDPOS=DET
+33	parabole	parabole	NOUN	NC	_	31	obj	_	lang=fr|ComposedUDPOS=NOUN
+34	ou	et	CCONJ	CC	_	35	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+35	klimatizor	climatiseur	NOUN	NC	_	33	conj:coord	_	lang=ar_dz|ComposedUDPOS=NOUN
+36	ou	et	CCONJ	CC	_	38	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+37	dok	maintenant	ADV	ADV	_	38	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+38	afham	comprends	VERB	VIMP	Mood=Imp	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+39	ya	oh	INTJ	VOC	_	2	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+
+# sent_id = 252
+# text = zizou est tjs le grandcette fois si il parle aussi des grands '''m3ak '' m3ak yal khadra diri hala ''
+# trad_fr = Zineddine Zidane  est toujours aussi grand cette fois ci il parle aussi des grands """""""" avec toi """""""" avec toi oh les verts faites la f√™te """""""
+1	zizou	Zineddine Zidane	PROPN	NPP	_	2	nsubj	_	lang=fr|ComposedUDPOS=PROPN
+2	est	est	VERB	V	_	0	root	_	lang=fr|ComposedUDPOS=VERB
+3	tjs	toujours	ADV	ADV	_	5	advmod	_	lang=fr|ComposedUDPOS=ADV
+4	le	le	DET	DET	_	5	det	_	lang=fr|ComposedUDPOS=DET
+5-6	grandcette	_	_	_	_	_	_	_	lang=fr
+5	grand	grand	ADJ	ADJ	_	2	obj	_	SpaceAfter=No|lang=fr|ComposedUDPOS=ADJ
+6	cette	cette	DET	DET	_	7	det	_	lang=fr|ComposedUDPOS=DET
+7	fois	fois	NOUN	NC	_	10	dep	_	lang=fr|ComposedUDPOS=NOUN
+8	si	ci	ADV	ADV	_	10	advmod	_	lang=fr|ComposedUDPOS=ADV
+9	il	il	PRON	PRO	_	10	nsubj	_	lang=fr|ComposedUDPOS=PRON
+10	parle	parle	VERB	V3ms	Gender=Masc|Number=Sing|Person=3	2	parataxis	_	lang=fr|ComposedUDPOS=VERB
+11	aussi	aussi	ADV	ADV	_	13	advmod	_	lang=fr|ComposedUDPOS=ADV
+12	des	des	DET	DET	_	13	det	_	lang=fr|ComposedUDPOS=DET
+13	grands	grands	ADJ	ADJ	_	10	obj	_	lang=fr|ComposedUDPOS=ADJ
+14	'''m3ak	avec toi	PRON	P+PRO	AdpType=Prep	10	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+15	''	''	PUNCT	PONCT	_	10	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+16	m3ak	avec toi	PRON	P+PRO	AdpType=Prep	19	nsubj	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+17-18	yal	_	_	_	_	_	_	_	lang=ar_dz
+17	y	oh	INTJ	VOC	_	19	discourse	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=INTJ
+18	al	les	DET	DET	_	19	det	_	lang=ar_dz|ComposedUDPOS=DET
+19	khadra	verts	NOUN	NC	_	20	nsubj	_	lang=ar_dz|ComposedUDPOS=NOUN
+20	diri	fais	VERB	VIMP	Mood=Imp	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+21	hala	f√™te	NOUN	NC	_	20	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+22	''	''	PUNCT	PONCT	_	20	punct	_	lang=ar_dz|ComposedUDPOS=PUNCT
+
+# sent_id = 1127
+# text = matkhafouche les fennecs ta3na inchalah nfarhou elouma el 3arabia wa el djazairia
+# trad_fr = vous n'avez pas peur les fennecs √† nous j'esp√®re que nous serons hereux le peuple l' arabe et l' Alg√©rie
+1	matkhafouche	vous n'avez pas peur	VERB	PART-NEG+V	Polarity=Neg	0	root	_	lang=ar_dz|ComposedUDPOS=PART+VERB
+2	les	les	DET	DET	_	3	det	_	lang=fr|ComposedUDPOS=DET
+3	fennecs	fennecs	NOUN	NC	_	1	obj	_	lang=fr|ComposedUDPOS=NOUN
+4	ta3na	de nous	PRON	P+PRO	AdpType=Prep	1	obl	_	lang=ar_dz|ComposedUDPOS=ADP+PRON
+5	inchalah	inchaAllah	INTJ	I	_	6	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+6	nfarhou	nous ferons plaisir	VERB	V3mp	Gender=Masc|Number=Plur|Person=3	1	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+7-8	elouma	_	_	_	_	_	_	_	lang=ar_dz
+7	el	le	DET	DET	_	8	det	_	SpaceAfter=No|lang=ar_dz|ComposedUDPOS=DET
+8	ouma	peuple	NOUN	NC	_	6	obj	_	lang=ar_dz|ComposedUDPOS=NOUN
+9	el	l'	DET	DET	_	10	det	_	lang=ar_dz|ComposedUDPOS=DET
+10	3arabia	arabe	ADJ	ADJ	_	8	amod	_	lang=ar_dz|ComposedUDPOS=ADJ
+11	wa	et	CCONJ	CC	_	13	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+12	el	l'	DET	DET	_	13	det	_	lang=ar_dz|ComposedUDPOS=DET
+13	djazairia	Alg√©rie	PROPN	NPP	_	10	conj:coord	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = M2S12
+# text = jamais lachite n7ab haroune rachid
+# trad_fr = je n'ai jamais l√¢ch√© j'aime Haroun Rachid
+1	jamais	jamais	ADV	ADV	_	2	advmod	_	lang=fr|ComposedUDPOS=ADV
+2	lachite	l√¢ch√©	VERB	VPP	VerbForm=Part	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	n7ab	je aime	VERB	V1ms	Gender=Masc|Number=Sing|Person=1	2	xcomp	_	lang=ar_dz|ComposedUDPOS=VERB
+4	haroune	Haroun	PROPN	NPP	_	3	obj	_	lang=ar_dz|ComposedUDPOS=PROPN
+5	rachid	Rachid	PROPN	NPP	_	4	flat	_	lang=ar_dz|ComposedUDPOS=PROPN
+
+# sent_id = 4594
+# text = pardon ya chourok amir el3ar et non amir ray talaf
+# trad_fr = pardon oh Chrouk √©mir la honte et non √©mir d√©cision mauvais
+1	pardon	pardon	INTJ	I	_	3	discourse	_	lang=fr|ComposedUDPOS=INTJ
+2	ya	oh	INTJ	VOC	_	3	discourse	_	lang=ar_dz|ComposedUDPOS=INTJ
+3	chourok	Chourouk	PROPN	NPP	_	4	vocative	_	lang=ar_dz|ComposedUDPOS=PROPN
+4	amir	prince	NOUN	NC	_	0	root	_	lang=ar_dz|ComposedUDPOS=NOUN
+5	el3ar	la honte	NOUN	DET+NC	_	4	nmod	_	lang=ar_dz|ComposedUDPOS=DET+NOUN
+6	et	et	CCONJ	CC	_	8	cc	_	lang=fr|ComposedUDPOS=CCONJ
+7	non	non	INTJ	I	_	8	discourse	_	lang=fr|ComposedUDPOS=INTJ
+8	amir	prince	NOUN	NC	_	4	conj:coord	_	lang=ar_dz|ComposedUDPOS=NOUN
+9	ray	opinion	NOUN	NC	_	8	nmod	_	lang=ar_dz|ComposedUDPOS=NOUN
+
+# sent_id = M3S42
+# text = mala taherab m dar w tro7 l trotoire ti7 fi batard yedaha tol l les bars
+# trad_fr = Alors elle s'enfuit de la maison et va dans la rue elle tombe sur un batard qui l'emm√®ne directement dans les bars
+1	mala	Alors	ADV	ADV	_	2	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+2	taherab	elle enfuit	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	0	root	_	lang=ar_dz|ComposedUDPOS=VERB
+3	m	de	ADP	P	AdpType=Prep	4	case	_	lang=ar_dz|ComposedUDPOS=ADP
+4	dar	maison	NOUN	NC	_	2	obl	_	lang=ar_dz|ComposedUDPOS=NOUN
+5	w	et	CCONJ	CC	_	6	cc	_	lang=ar_dz|ComposedUDPOS=CCONJ
+6	tro7	va	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	2	conj:coord	_	lang=ar_dz|ComposedUDPOS=VERB
+7	l	dans	ADP	P	AdpType=Prep	8	case	_	lang=ar_dz|ComposedUDPOS=ADP
+8	trotoire	trottoir	NOUN	NC	_	6	obl	_	lang=fr|ComposedUDPOS=NOUN
+9	ti7	tombe	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+10	fi	sur	ADP	P	AdpType=Prep	11	case	_	lang=ar_dz|ComposedUDPOS=ADP
+11	batard	batard	NOUN	NC	_	9	obl	_	lang=fr|ComposedUDPOS=NOUN
+12	yedaha	emm√®ne elle	VERB	V3fs	Gender=Fem|Number=Plur|Person=3	2	parataxis	_	lang=ar_dz|ComposedUDPOS=VERB
+13	tol	directement	ADV	ADV	_	12	advmod	_	lang=ar_dz|ComposedUDPOS=ADV
+14	l	√†	ADP	P	AdpType=Prep	16	case	_	lang=ar_dz|ComposedUDPOS=ADP
+15	les	les	DET	DET	_	16	det	_	lang=fr|ComposedUDPOS=DET
+16	bars	bars	NOUN	NC	_	12	obl	_	lang=fr|ComposedUDPOS=NOUN
+
