@@ -4,31 +4,21 @@ def parse_corpus(xml_file):
     tree = ET.parse(xml_file)
     root = tree.getroot()
     
-    corpus_data = []
-
+    X = []  # Initialize list for words
+    y = []  # Initialize list for POS tags
     
     for word in root.findall('LE'):
-        word_data = {
-            'word': word.get('word'),
-            'msa': word.get('msa'),
-            'ma': word.get('ma'),
-            'pos': word.get('pos'),
-            'transitivity': word.get('transitivity'),
-            'root': word.get('root'),
-            'origin': word.get('origin'),
-            'suffix': word.get('suffix'),
-            'prefix': word.get('prefix'),
-            'negation': word.get('negation'),
-            'tense': word.get('tense'),
-            'number': word.get('number'),
-            'gender': word.get('gender'),
-            'pers': word.get('pers')
-        }
-        corpus_data.append(word_data)
+        word_text = word.get('word')
+        pos_tag = word.get('pos')
+        
+        # Ignore words with missing POS tags
+        if word_text and pos_tag:
+            X.append(word_text)
+            y.append(pos_tag)
     
-    return corpus_data
+    return X, y
 
 # Example usage:
-corpus_file = 'test.xml'
-parsed_corpus = parse_corpus(corpus_file)
-print("Succesfully Pre Processed")
+corpus_file = 'morv.xml'
+X_train, y_train = parse_corpus(corpus_file)
+print("Successfully Preprocessed")
