@@ -1,6 +1,6 @@
 from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import MultiLabelBinarizer
-from Test import sent2features, vectorizer, y_train, X_train_vectorized, sent2features
+from StochasticTrain import sent2features, vectorizer, y_train, X_train_vectorized, sent2features
 from sklearn.linear_model import SGDClassifier
 
 # Load the trained model and vectorizer
