@@ -1,6 +1,6 @@
 from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import MultiLabelBinarizer
-from training import sent2features, vectorizer, y_train, X_train_vectorized, sent2features
+from StochasticTrain.Test import sent2features, vectorizer, y_train, X_train_vectorized, sent2features
 from sklearn.linear_model import SGDClassifier
 
 # Load the trained model and vectorizer
@@ -15,11 +15,12 @@ def read_custom_sentences(input_sentences):
     return sentences
 
 # Prepare test sentences
-input_sentences = [
-    ["7atoh", "f", "sachie", "o", "b3et", "tayech", "l", "al", "be7ar"],
-    ["walah", "yrid", "messi", "rah", "yal3ab", "m3a", "ziani"],
+input_sentences = [["ta7et", "jrada", "f", "l", "kass"]
+    ,
     # Add more sentences as needed
 ]
+#, ["kount", "qader", "ndirha", "be", "ssah", "ana", "ma", "derthach"]
+#["7atoh", "f", "tomobil", "o", "siftoh", "miyet", "l", "al", "be7ar"]
 
 sentences = read_custom_sentences(input_sentences)
 
@@ -33,7 +34,10 @@ y_pred = classifier.predict(X_test_vectorized)
 print(y_pred)
 
 # Assuming you have the actual POS tags for comparison
-actual_tags = [["VERB", "ADP", "NOUN", "CCONJ", "VERB", "ADJ", "ADP", "DET", "NOUN"], ["INTJ", "VERB", "NPP", "VERB", "VERB", "ADP", "NPP"]]
+actual_tags = [["VERB", "NOUN", "ADP", "DET", "NOUN"]]
+
+#, ["VERB", "ADJ", "VERB", "ADP", "NOUN", "PRON", "PART", "VERB"]
+#["VERB", "ADP", "NOUN", "CCONJ", "VERB", "ADJ", "ADP", "DET", "NOUN"]
 
 
 for i in range(len(sentences)):
