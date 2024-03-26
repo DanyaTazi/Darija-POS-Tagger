@@ -12,10 +12,10 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 # Initialize and train CRF
 model = CRF()
-model.fit([X_train], [y_train])  # Note: Wrap X_train and y_train with lists to form a sequence
+model.fit([X_train], [y_train])  # form a sequence
 
 # Predict POS tags for the test data
-predicted_tags = model.predict([X_test])  # Note: Wrap X_test with a list to form a sequence
+predicted_tags = model.predict([X_test])  
 
 # Evaluate the performance of the model
-print(metrics.flat_accuracy_score([y_test], predicted_tags))  # Note: Wrap y_test with a list to form a sequence
+print(metrics.flat_accuracy_score([y_test], predicted_tags))  

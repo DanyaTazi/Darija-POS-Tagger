@@ -3,9 +3,9 @@ def parse_corpus(text_file):
     y = []  # Initialize list for POS tags
 
     with open(text_file, 'r', encoding='utf-8') as file:
-        first_line_skipped = False  # Flag to indicate if the first line has been skipped
+        first_line_skipped = False  # Flag if first line has been skipped
         for line in file:
-            if not first_line_skipped:  # Skip the first line
+            if not first_line_skipped:  # Skip first line
                 first_line_skipped = True
                 continue
             

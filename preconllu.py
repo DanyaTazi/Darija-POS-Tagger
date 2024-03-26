@@ -36,11 +36,11 @@ def parse_corpus(test_file):
                 # Ensure that the line has enough elements
                 if len(parts) >= 2:
                     word = parts[1]  # Extract word
-                    pos_tag = parts[3]  # Extract POS tag (assuming it's in column 4)
+                    pos_tag = parts[3]  # Extract POS tag (column 4)
                     X.append(word)  # Append word to X
                     Y.append(pos_tag)  # Append POS tag to Y
                 else:
-                    print(f"Issue with line: {line}")  # Debugging message
-                    # Add error handling as needed
+                    print(f"Issue with line: {line}") 
+                    
     return X, Y
 

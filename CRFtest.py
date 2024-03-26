@@ -18,7 +18,7 @@ model = CRF()
 model.fit([Xtrain], [Ytrain]) 
 
 # Predict POS tags for the test data
-predicted_tags = model.predict([Xtest])  # No need to wrap X_test with a list
+predicted_tags = model.predict([Xtest])  
 
 # Evaluate the performance of the model
-print(metrics.flat_accuracy_score([Ytest], predicted_tags))  # No need to wrap y_test with a list
+print(metrics.flat_accuracy_score([Ytest], predicted_tags))  

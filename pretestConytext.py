@@ -20,7 +20,7 @@ def parse_corpus_with_context(text_file):
                     'next_word': next_word,
                 }
                 X.append(features)
-                y.append(parts[3])  # Ensure this index is correct
+                y.append(parts[3])  
                 prev_word = word
                 # Update next word for the next iteration
                 next_word = None if parts[0][-1] == '.' else parts[1]  # Skip compound tokens          
