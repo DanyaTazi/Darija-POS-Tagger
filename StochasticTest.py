@@ -15,12 +15,11 @@ def read_custom_sentences(input_sentences):
     return sentences
 
 # Prepare test sentences
-input_sentences = [["ta7et", "jrada", "f", "l", "kass"]
-    ,
-    # Add more sentences as needed
+input_sentences = [["ta7et", "jrada", "f", "l", "kass"],
+                   ["kount", "qader", "ndirha", "be", "ssah", "ana", "ma", "derthach"],
+                   ["7atoh", "ftomobil", "o", "siftoh", "miyet", "lbe7ar"]   
 ]
-#, ["kount", "qader", "ndirha", "be", "ssah", "ana", "ma", "derthach"]
-#["7atoh", "f", "tomobil", "o", "siftoh", "miyet", "l", "al", "be7ar"]
+
 
 sentences = read_custom_sentences(input_sentences)
 
@@ -33,11 +32,11 @@ print(X_test_vectorized)
 y_pred = classifier.predict(X_test_vectorized)
 print(y_pred)
 
-# Assuming you have the actual POS tags for comparison
-actual_tags = [["VERB", "NOUN", "ADP", "DET", "NOUN"]]
 
-#, ["VERB", "ADJ", "VERB", "ADP", "NOUN", "PRON", "PART", "VERB"]
-#["VERB", "ADP", "NOUN", "CCONJ", "VERB", "ADJ", "ADP", "DET", "NOUN"]
+actual_tags = [["VERB", "NOUN", "ADP", "DET", "NOUN"], 
+               ["VERB", "ADJ", "VERB", "ADP", "NOUN", "PRON", "PART", "VERB"],
+               ["VERB", "NOUN", "CCONJ", "VERB", "ADJ", "NOUN"]]
+
 
 
 for i in range(len(sentences)):

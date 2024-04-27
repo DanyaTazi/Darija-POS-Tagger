@@ -1,0 +1,2115 @@
+bik	_	VERB	_
+
+3alikum	_	VERB	_
+Jibli	_	VERB	_
+3afak	_	DET	_
+
+atbghih	_	VERB	_
+fl	_	VERB	_
+
+3afak	_	DET	_
+
+Wakha	_	DET	_
+o	_	DET	_
+oula	_	CONJ	_
+
+Na9es	_	VERB	_
+o	_	DET	_
+wash	_	VERB	_
+
+Ayeh	_	DET	_
+3endna	_	VERB	_
+
+Dirli	_	VERB	_
+
+fromage	_	NOUN	_
+
+Wakha	_	DET	_
+l’fromage	_	NOUN	_
+
+N3am	_	DET	_
+a	_	VERB	_
+
+Sba7	_	NOUN	_
+lkhir	_	NOUN	_
+a	_	VERB	_
+
+3afak	_	DET	_
+o	_	DET	_
+
+3endna	_	VERB	_
+dial	_	VERB	_
+
+expresso	_	NOUN	_
+9ahwa	_	NOUN	_
+ness	_	NOUN	_
+
+Momkin	_	VERB	_
+te3tini	_	VERB	_
+
+3la	_	VERB	_
+o	_	DET	_
+
+l	_	DET	_
+restaurant	_	NOUN	_
+taliani	_	NOUN	_
+
+mzian	_	VERB	_
+ra	_	VERB	_
+khasani	_	VERB	_
+
+katdn	_	VERB	_
+ikono	_	VERB	_
+kaydiro	_	VERB	_
+
+daba	_	VERB	_
+nchofo	_	VERB	_
+
+mar7ba	_	DET	_
+bikom	_	VERB	_
+3ndna	_	VERB	_
+
+salam	_	DET	_
+bjouj	_	VERB	_
+bina	_	VERB	_
+anakhdo	_	VERB	_
+
+ayeh	_	VERB	_
+kayna	_	VERB	_
+yalah	_	DET	_
+khrjna	_	VERB	_
+
+mzian	_	VERB	_
+an	_	VERB	_
+nakhdo	_	VERB	_
+
+atwjd	_	VERB	_
+
+tfdlo	_	VERB	_
+l9hwa	_	NOUN	_
+
+choukran	_	NOUN	_
+7na	_	NOUN	_
+jdad	_	NOUN	_
+fhad	_	DET	_
+
+kayn	_	VERB	_
+l	_	DET	_
+
+kaybano	_	VERB	_
+n9do	_	VERB	_
+nmchiw	_	VERB	_
+
+stmt3o	_	VERB	_
+bw9tkom	_	VERB	_
+hna	_	VERB	_
+3lmoni	_	VERB	_
+
+
+ach	_	NOUN	_
+lyoum?	_	NOUN	_
+
+9ahwa	_	NOUN	_
+
+tebghi?	_	VERB	_
+
+kayn	_	VERB	_
+
+3tini	_	VERB	_
+
+kas	_	NOUN	_
+oula	_	DET	_
+
+atbghi	_	VERB	_
+khora	_	VERB	_
+
+atay	_	NOUN	_
+
+fl	_	VERB	_
+oula	_	DET	_
+f	_	VERB	_
+
+bena3na3	_	VERB	_
+oula	_	DET	_
+
+bjouj	_	VERB	_
+
+b'sukar	_	VERB	_
+oula	_	DET	_
+bla	_	VERB	_
+
+hiya	_	NOUN	_
+shi	_	NOUN	_
+
+
+kayn	_	VERB	_
+dyal	_	VERB	_
+
+3tini	_	VERB	_
+dyal	_	VERB	_
+
+b'l7lib	_	VERB	_
+oula	_	CONJ	_
+b	_	VERB	_
+
+bsukar	_	VERB	_
+oula	_	DET	_
+bla	_	VERB	_
+
+atbghi	_	VERB	_
+
+
+mer7ba	_	DET	_
+fl	_	VERB	_
+kayn	_	VERB	_
+
+3tini	_	VERB	_
+
+men	_	VERB	_
+tebghi	_	VERB	_
+
+jouj	_	NOUN	_
+bidat	_	NOUN	_
+
+bl	_	VERB	_
+oula	_	DET	_
+bla	_	VERB	_
+
+zid	_	VERB	_
+fiha	_	VERB	_
+shwiya	_	VERB	_
+dyal	_	VERB	_
+
+marche	_	VERB	_
+atbghi	_	VERB	_
+
+Sme7li	_	VERB	_
+a	_	VERB	_
+fin	_	VERB	_
+
+we7da	_	DET	_
+
+Mnin	_	VERB	_
+ndouz	_	VERB	_
+
+nichan	_	NOUN	_
+
+O	_	DET	_
+menbe3d	_	VERB	_
+
+wa7ed	_	DET	_
+l’me7laba	_	NOUN	_
+
+Wach	_	DET	_
+
+9bel	_	VERB	_
+ma	_	CONJ	_
+twesel	_	VERB	_
+
+Mashi	_	VERB	_
+kayn	_	VERB	_
+
+La	_	DET	_
+rah	_	VERB	_
+fdher	_	VERB	_
+
+Ah	_	DET	_
+safi	_	DET	_
+3reftha	_	VERB	_
+fin	_	VERB	_
+
+Makayn	_	VERB	_
+ta	_	DEP	_
+
+Amine	_	DET	_
+
+Khoya	_	NOUN	_
+wa7ed	_	NOUN	_
+d9i9a	_	NOUN	_
+
+Mer7ba	_	DET	_
+sowel	_	VERB	_
+
+yalah	_	DET	_
+7etni	_	VERB	_
+o	_	DET	_
+
+kina	_	VERB	_
+l	_	DET	_
+
+machi	_	VERB	_
+chuia	_	VERB	_
+
+walakin	_	DET	_
+dyor	_	NOUN	_
+rkhass	_	NOUN	_
+
+ch7al	_	VERB	_
+Ta9riban	_	VERB	_
+
+seb3alaf	_	NOUN	_
+ryal	_	NOUN	_
+l	_	DET	_
+
+fin	_	VERB	_
+jat	_	VERB	_
+
+centre	_	NOUN	_
+
+
+sara7a	_	VERB	_
+machi	_	VERB	_
+bzaf	_	VERB	_
+walakin	_	DET	_
+
+wakha	_	DET	_
+werini	_	VERB	_
+mnin	_	VERB	_
+nemchi	_	VERB	_
+
+ghadi	_	VERB	_
+temchi	_	VERB	_
+men	_	VERB	_
+hna	_	VERB	_
+
+lay7arm	_	VERB	_
+
+o	_	DET	_
+
+ana	_	NOUN	_
+daba	_	VERB	_
+
+ana	_	NOUN	_
+9rib	_	NOUN	_
+
+wslti	_	VERB	_
+3la	_	VERB	_
+l	_	DET	_
+
+tfdl.	_	DET	_
+
+salam	_	DET	_
+3afak	_	DET	_
+t9dr	_	VERB	_
+
+m3lom	_	DET	_
+sir	_	VERB	_
+nichan	_	VERB	_
+m3a	_	VERB	_
+
+bsaf	_	VERB	_
+
+a	_	VERB	_
+khoya	_	NOUN	_
+
+Salam	_	DET	_
+
+Wakha	_	DET	_
+tfedlo	_	VERB	_
+hna	_	VERB	_
+
+Salam	_	DET	_
+ch7eb	_	VERB	_
+
+Chnu	_	NOUN	_
+twajen	_	NOUN	_
+
+Kayn	_	VERB	_
+dial	_	VERB	_
+
+Wakha	_	DET	_
+chnu	_	NOUN	_
+
+Kikoun	_	VERB	_
+fih	_	VERB	_
+
+3tini	_	VERB	_
+wa7ed	_	NOUN	_
+tajine	_	NOUN	_
+
+Mer7ba	_	DET	_
+o	_	DET	_
+
+Ana	_	NOUN	_
+jib	_	VERB	_
+lia	_	NOUN	_
+
+Mer7ba	_	DET	_
+a	_	VERB	_
+
+3tini	_	VERB	_
+chi	_	DET	_
+
+Hiya	_	NOUN	_
+lowla	_	NOUN	_
+
+ghir	_	VERB	_
+chi	_	DET	_
+
+Atbghiw	_	VERB	_
+tsherbou	_	VERB	_
+chi	_	DET	_
+
+dial	_	VERB	_
+
+Ça	_	NOUN	_
+
+Mer7ba	_	DET	_
+a	_	VERB	_
+
+3ndkom	_	VERB	_
+fl	_	VERB	_
+
+Kin	_	VERB	_
+
+dial	_	VERB	_
+
+Kin	_	VERB	_
+
+3tini	_	VERB	_
+3afak	_	DET	_
+
+Mer7ba	_	DET	_
+
+Salam	_	DET	_
+
+wa	_	DET	_
+
+7eb	_	VERB	_
+a	_	VERB	_
+
+3endek	_	VERB	_
+fl	_	VERB	_
+
+Kin	_	VERB	_
+
+dial	_	VERB	_
+
+Kin	_	VERB	_
+dial	_	VERB	_
+
+3tini	_	VERB	_
+3afak	_	DET	_
+dial	_	VERB	_
+
+dial	_	VERB	_
+
+sandwich	_	NOUN	_
+thon	_	NOUN	_
+sandwich	_	NOUN	_
+
+dial	_	VERB	_
+
+Kin	_	VERB	_
+
+dial	_	VERB	_
+
+Kin	_	VERB	_
+
+3tini	_	VERB	_
+3afak	_	DET	_
+
+Salam	_	DET	_
+aji	_	VERB	_
+tfedel	_	VERB	_
+
+Bismillah	_	DET	_
+
+Yallah	_	DET	_
+nebdaw	_	VERB	_
+men	_	VERB	_
+
+fin	_	VERB	_
+hiya	_	VERB	_
+
+Raha	_	VERB	_
+w	_	DET	_
+
+Bota	_	NOUN	_
+do	_	NOUN	_
+
+Bota	_	NOUN	_
+dyla	_	VERB	_
+lgaz	_	NOUN	_
+
+Wakha	_	DET	_
+
+lcouzina	_	NOUN	_
+salon	_	NOUN	_
+
+Tbarkellah	_	DET	_
+
+dayrin	_	VERB	_
+3la	_	VERB	_
+
+
+mshiti	_	VERB	_
+9baltek	_	VERB	_
+
+Fin	_	VERB	_
+jaw	_	VERB	_
+
+Kaynin	_	VERB	_
+7da	_	VERB	_
+
+Kayn	_	VERB	_
+shi	_	DET	_
+
+Kayna	_	VERB	_
+a	_	DET	_
+kaTel	_	VERB	_
+
+Dar	_	NOUN	_
+tilifoun	_	NOUN	_
+
+Salam	_	DET	_
+
+Wa	_	DET	_
+kifach	_	VERB	_
+
+Bghit	_	VERB	_
+nchri	_	VERB	_
+
+3endna	_	VERB	_
+tlata	_	NOUN	_
+
+Kidayra	_	VERB	_
+
+Fiha	_	VERB	_
+
+jouj	_	NOUN	_
+byouta	_	NOUN	_
+toilette	_	NOUN	_
+
+Fiha	_	VERB	_
+dial	_	VERB	_
+
+Bghit	_	VERB	_
+nchri	_	VERB	_
+
+Mer7ba	_	DET	_
+
+Salam	_	DET	_
+
+7eb	_	VERB	_
+
+Bghit	_	VERB	_
+bash	_	VERB	_
+nsaweb	_	VERB	_
+
+lmel7a	_	NOUN	_
+o	_	DET	_
+libzar	_	NOUN	_
+
+3endi	_	VERB	_
+iLa	_	VERB	_
+
+Wash	_	VERB	_
+tebghi	_	VERB	_
+
+Ayeh	_	DET	_
+shmen	_	DET	_
+khassani	_	VERB	_
+
+libzar	_	NOUN	_
+skinjbir	_	NOUN	_
+l’khar9oum	_	NOUN	_
+
+Achmen	_	VERB	_
+zitoun	_	NOUN	_
+tidar	_	VERB	_
+
+Aktariya	_	VERB	_
+tidirou	_	VERB	_
+had	_	DET	_
+
+3tini	_	VERB	_
+ness	_	NOUN	_
+kilo	_	NOUN	_
+
+nadi	_	VERB	_
+
+Ayeh	_	DET	_
+hak	_	VERB	_
+a	_	VERB	_
+
+Shoukran	_	DET	_
+
+Allahi3awen	_	DET	_
+
+Salam	_	DET	_
+
+Wa	_	DET	_
+
+3afak	_	DET	_
+3endkom	_	VERB	_
+
+Kanbi3o	_	VERB	_
+o	_	DET	_
+
+3endkoum	_	VERB	_
+
+3endna	_	VERB	_
+,	_	DET	_
+
+3tini	_	VERB	_
+
+Haka	_	VERB	_
+tfedel	_	DET	_
+
+salamu	_	DET	_
+
+7eb	_	VERB	_
+
+3aTriya	_	NOUN	_
+tajine	_	NOUN	_
+
+merhba.	_	DET	_
+Kayn	_	VERB	_
+
+
+Menghir	_	VERB	_
+
+3tini	_	VERB	_
+se7ter	_	NOUN	_
+
+newzen	_	VERB	_
+
+dir	_	VERB	_
+shi	_	DET	_
+
+tfedel	_	DET	_
+Wash	_	VERB	_
+tebghi	_	VERB	_
+chi	_	DET	_
+
+djaj	_	NOUN	_
+
+libzar	_	NOUN	_
+skinjbir	_	NOUN	_
+l’khar9oum	_	NOUN	_
+
+3tini	_	VERB	_
+
+sh7al	_	NOUN	_
+lik	_	NOUN	_
+
+dir	_	VERB	_
+shi	_	DET	_
+
+tfedel	_	DET	_
+Wash	_	VERB	_
+tebghi	_	VERB	_
+chi	_	DET	_
+
+Salam,	_	DET	_
+kidayr?	_	DET	_
+
+al7amdoullilah	_	DET	_
+
+Ljew	_	NOUN	_
+lyouma	_	NOUN	_
+zwin	_	NOUN	_
+
+Ayeh	_	DET	_
+sma	_	NOUN	_
+safiya	_	NOUN	_
+o	_	DET	_
+
+3endek	_	VERB	_
+dak	_	DET	_
+
+Iwa	_	DET	_
+ma3endek	_	VERB	_
+
+3endak	_	DET	_
+had	_	DET	_
+l3shiya	_	NOUN	_
+
+li	_	VERB	_
+fekertini	_	VERB	_
+iwa	_	DET	_
+
+Insha’Allah	_	DET	_
+
+salam	_	DET	_
+
+Dial	_	VERB	_
+shmen	_	DET	_
+tebghi	_	VERB	_
+
+
+
+Shmen	_	DET	_
+dyal	_	VERB	_
+
+
+ghadi	_	VERB	_
+ikoun	_	VERB	_
+
+
+Shmen	_	DET	_
+nhar	_	NOUN	_
+simana	_	NOUN	_
+
+Tnin	_	NOUN	_
+
+ghadi	_	VERB	_
+ikoun	_	VERB	_
+o	_	DET	_
+
+
+Shmen	_	DET	_
+dyal	_	VERB	_
+
+
+Ljew	_	NOUN	_
+skhon	_	NOUN	_
+
+Tanja	_	NOUN	_
+
+Shmen	_	DET	_
+dyal	_	VERB	_
+
+
+rih	_	NOUN	_
+mjhed	_	NOUN	_
+
+
+Shmen	_	DET	_
+dyal	_	VERB	_
+
+
+walakin	_	DET	_
+shwiya	_	VERB	_
+
+
+Shmen	_	DET	_
+nhar	_	NOUN	_
+simana	_	NOUN	_
+
+
+walakin	_	DET	_
+t9der	_	VERB	_
+
+Ifrane	_	NOUN	_
+
+Shmen	_	DET	_
+dyal	_	VERB	_
+
+jem3a	_	NOUN	_
+
+ghaykoun	_	VERB	_
+
+bik	_	VERB	_
+
+3alikum	_	VERB	_
+Jibli	_	VERB	_
+3afak	_	DET	_
+
+atbghih	_	VERB	_
+fl	_	VERB	_
+
+3afak	_	DET	_
+
+Wakha	_	DET	_
+o	_	DET	_
+oula	_	CONJ	_
+
+Na9es	_	VERB	_
+o	_	DET	_
+wash	_	VERB	_
+
+Ayeh	_	DET	_
+3endna	_	VERB	_
+
+Dirli	_	VERB	_
+
+fromage	_	NOUN	_
+
+Wakha	_	DET	_
+l’fromage	_	NOUN	_
+
+N3am	_	DET	_
+a	_	VERB	_
+
+Sba7	_	NOUN	_
+lkhir	_	NOUN	_
+a	_	VERB	_
+
+3afak	_	DET	_
+o	_	DET	_
+
+3endna	_	VERB	_
+dial	_	VERB	_
+
+expresso	_	NOUN	_
+9ahwa	_	NOUN	_
+ness	_	NOUN	_
+
+Momkin	_	VERB	_
+te3tini	_	VERB	_
+
+3la	_	VERB	_
+o	_	DET	_
+
+l	_	DET	_
+restaurant	_	NOUN	_
+taliani	_	NOUN	_
+
+mzian	_	VERB	_
+ra	_	VERB	_
+khasani	_	VERB	_
+
+katdn	_	VERB	_
+ikono	_	VERB	_
+kaydiro	_	VERB	_
+
+daba	_	VERB	_
+nchofo	_	VERB	_
+
+mar7ba	_	DET	_
+bikom	_	VERB	_
+3ndna	_	VERB	_
+
+salam	_	DET	_
+bjouj	_	VERB	_
+bina	_	VERB	_
+anakhdo	_	VERB	_
+
+ayeh	_	VERB	_
+kayna	_	VERB	_
+yalah	_	DET	_
+khrjna	_	VERB	_
+
+mzian	_	VERB	_
+an	_	VERB	_
+nakhdo	_	VERB	_
+
+atwjd	_	VERB	_
+
+tfdlo	_	VERB	_
+l9hwa	_	NOUN	_
+
+choukran	_	NOUN	_
+7na	_	NOUN	_
+jdad	_	NOUN	_
+fhad	_	DET	_
+
+kayn	_	VERB	_
+l	_	DET	_
+
+kaybano	_	VERB	_
+n9do	_	VERB	_
+nmchiw	_	VERB	_
+
+stmt3o	_	VERB	_
+bw9tkom	_	VERB	_
+hna	_	VERB	_
+3lmoni	_	VERB	_
+
+
+ach	_	NOUN	_
+lyoum?	_	NOUN	_
+
+9ahwa	_	NOUN	_
+
+tebghi?	_	VERB	_
+
+kayn	_	VERB	_
+
+3tini	_	VERB	_
+
+kas	_	NOUN	_
+oula	_	DET	_
+
+atbghi	_	VERB	_
+khora	_	VERB	_
+
+atay	_	NOUN	_
+
+fl	_	VERB	_
+oula	_	DET	_
+f	_	VERB	_
+
+bena3na3	_	VERB	_
+oula	_	DET	_
+
+bjouj	_	VERB	_
+
+b'sukar	_	VERB	_
+oula	_	DET	_
+bla	_	VERB	_
+
+hiya	_	NOUN	_
+shi	_	NOUN	_
+
+
+kayn	_	VERB	_
+dyal	_	VERB	_
+
+3tini	_	VERB	_
+dyal	_	VERB	_
+
+b'l7lib	_	VERB	_
+oula	_	CONJ	_
+b	_	VERB	_
+
+bsukar	_	VERB	_
+oula	_	DET	_
+bla	_	VERB	_
+
+atbghi	_	VERB	_
+
+
+mer7ba	_	DET	_
+fl	_	VERB	_
+kayn	_	VERB	_
+
+3tini	_	VERB	_
+
+men	_	VERB	_
+tebghi	_	VERB	_
+
+jouj	_	NOUN	_
+bidat	_	NOUN	_
+
+bl	_	VERB	_
+oula	_	DET	_
+bla	_	VERB	_
+
+zid	_	VERB	_
+fiha	_	VERB	_
+shwiya	_	VERB	_
+dyal	_	VERB	_
+
+marche	_	VERB	_
+atbghi	_	VERB	_
+
+Sme7li	_	VERB	_
+a	_	VERB	_
+fin	_	VERB	_
+
+we7da	_	DET	_
+
+Mnin	_	VERB	_
+ndouz	_	VERB	_
+
+nichan	_	NOUN	_
+
+O	_	DET	_
+menbe3d	_	VERB	_
+
+wa7ed	_	DET	_
+l’me7laba	_	NOUN	_
+
+Wach	_	DET	_
+
+9bel	_	VERB	_
+ma	_	CONJ	_
+twesel	_	VERB	_
+
+Mashi	_	VERB	_
+kayn	_	VERB	_
+
+La	_	DET	_
+rah	_	VERB	_
+fdher	_	VERB	_
+
+Ah	_	DET	_
+safi	_	DET	_
+3reftha	_	VERB	_
+fin	_	VERB	_
+
+Makayn	_	VERB	_
+ta	_	DEP	_
+
+Amine	_	DET	_
+
+Khoya	_	NOUN	_
+wa7ed	_	NOUN	_
+d9i9a	_	NOUN	_
+
+Mer7ba	_	DET	_
+sowel	_	VERB	_
+
+yalah	_	DET	_
+7etni	_	VERB	_
+o	_	DET	_
+
+kina	_	VERB	_
+l	_	DET	_
+
+machi	_	VERB	_
+chuia	_	VERB	_
+
+walakin	_	DET	_
+dyor	_	NOUN	_
+rkhass	_	NOUN	_
+
+ch7al	_	VERB	_
+Ta9riban	_	VERB	_
+
+seb3alaf	_	NOUN	_
+ryal	_	NOUN	_
+l	_	DET	_
+
+fin	_	VERB	_
+jat	_	VERB	_
+
+centre	_	NOUN	_
+
+
+sara7a	_	VERB	_
+machi	_	VERB	_
+bzaf	_	VERB	_
+walakin	_	DET	_
+
+wakha	_	DET	_
+werini	_	VERB	_
+mnin	_	VERB	_
+nemchi	_	VERB	_
+
+ghadi	_	VERB	_
+temchi	_	VERB	_
+men	_	VERB	_
+hna	_	VERB	_
+
+lay7arm	_	VERB	_
+
+o	_	DET	_
+
+ana	_	NOUN	_
+daba	_	VERB	_
+
+ana	_	NOUN	_
+9rib	_	NOUN	_
+
+wslti	_	VERB	_
+3la	_	VERB	_
+l	_	DET	_
+
+tfdl.	_	DET	_
+
+salam	_	DET	_
+3afak	_	DET	_
+t9dr	_	VERB	_
+
+m3lom	_	DET	_
+sir	_	VERB	_
+nichan	_	VERB	_
+m3a	_	VERB	_
+
+bsaf	_	VERB	_
+
+a	_	VERB	_
+khoya	_	NOUN	_
+
+Salam	_	DET	_
+
+Wakha	_	DET	_
+tfedlo	_	VERB	_
+hna	_	VERB	_
+
+Salam	_	DET	_
+ch7eb	_	VERB	_
+
+Chnu	_	NOUN	_
+twajen	_	NOUN	_
+
+Kayn	_	VERB	_
+dial	_	VERB	_
+
+Wakha	_	DET	_
+chnu	_	NOUN	_
+
+Kikoun	_	VERB	_
+fih	_	VERB	_
+
+3tini	_	VERB	_
+wa7ed	_	NOUN	_
+tajine	_	NOUN	_
+
+Mer7ba	_	DET	_
+o	_	DET	_
+
+Ana	_	NOUN	_
+jib	_	VERB	_
+lia	_	NOUN	_
+
+Mer7ba	_	DET	_
+a	_	VERB	_
+
+3tini	_	VERB	_
+chi	_	DET	_
+
+Hiya	_	NOUN	_
+lowla	_	NOUN	_
+
+ghir	_	VERB	_
+chi	_	DET	_
+
+Atbghiw	_	VERB	_
+tsherbou	_	VERB	_
+chi	_	DET	_
+
+dial	_	VERB	_
+
+Ça	_	NOUN	_
+
+Mer7ba	_	DET	_
+a	_	VERB	_
+
+3ndkom	_	VERB	_
+fl	_	VERB	_
+
+Kin	_	VERB	_
+
+dial	_	VERB	_
+
+Kin	_	VERB	_
+
+3tini	_	VERB	_
+3afak	_	DET	_
+
+Mer7ba	_	DET	_
+
+Salam	_	DET	_
+
+wa	_	DET	_
+
+7eb	_	VERB	_
+a	_	VERB	_
+
+3endek	_	VERB	_
+fl	_	VERB	_
+
+Kin	_	VERB	_
+
+dial	_	VERB	_
+
+Kin	_	VERB	_
+dial	_	VERB	_
+
+3tini	_	VERB	_
+3afak	_	DET	_
+dial	_	VERB	_
+
+dial	_	VERB	_
+
+sandwich	_	NOUN	_
+thon	_	NOUN	_
+sandwich	_	NOUN	_
+
+dial	_	VERB	_
+
+Kin	_	VERB	_
+
+dial	_	VERB	_
+
+Kin	_	VERB	_
+
+3tini	_	VERB	_
+3afak	_	DET	_
+
+Salam	_	DET	_
+aji	_	VERB	_
+tfedel	_	VERB	_
+
+Bismillah	_	DET	_
+
+Yallah	_	DET	_
+nebdaw	_	VERB	_
+men	_	VERB	_
+
+fin	_	VERB	_
+hiya	_	VERB	_
+
+Raha	_	VERB	_
+w	_	DET	_
+
+Bota	_	NOUN	_
+do	_	NOUN	_
+
+Bota	_	NOUN	_
+dyla	_	VERB	_
+lgaz	_	NOUN	_
+
+Wakha	_	DET	_
+
+lcouzina	_	NOUN	_
+salon	_	NOUN	_
+
+Tbarkellah	_	DET	_
+
+dayrin	_	VERB	_
+3la	_	VERB	_
+
+
+mshiti	_	VERB	_
+9baltek	_	VERB	_
+
+Fin	_	VERB	_
+jaw	_	VERB	_
+
+Kaynin	_	VERB	_
+7da	_	VERB	_
+
+Kayn	_	VERB	_
+shi	_	DET	_
+
+Kayna	_	VERB	_
+a	_	DET	_
+kaTel	_	VERB	_
+
+Dar	_	NOUN	_
+tilifoun	_	NOUN	_
+
+Salam	_	DET	_
+
+Wa	_	DET	_
+kifach	_	VERB	_
+
+Bghit	_	VERB	_
+nchri	_	VERB	_
+
+3endna	_	VERB	_
+tlata	_	NOUN	_
+
+Kidayra	_	VERB	_
+
+Fiha	_	VERB	_
+
+jouj	_	NOUN	_
+byouta	_	NOUN	_
+toilette	_	NOUN	_
+
+Fiha	_	VERB	_
+dial	_	VERB	_
+
+Bghit	_	VERB	_
+nchri	_	VERB	_
+
+Mer7ba	_	DET	_
+
+Salam	_	DET	_
+
+7eb	_	VERB	_
+
+Bghit	_	VERB	_
+bash	_	VERB	_
+nsaweb	_	VERB	_
+
+lmel7a	_	NOUN	_
+o	_	DET	_
+libzar	_	NOUN	_
+
+3endi	_	VERB	_
+iLa	_	VERB	_
+
+Wash	_	VERB	_
+tebghi	_	VERB	_
+
+Ayeh	_	DET	_
+shmen	_	DET	_
+khassani	_	VERB	_
+
+libzar	_	NOUN	_
+skinjbir	_	NOUN	_
+l’khar9oum	_	NOUN	_
+
+Achmen	_	VERB	_
+zitoun	_	NOUN	_
+tidar	_	VERB	_
+
+Aktariya	_	VERB	_
+tidirou	_	VERB	_
+had	_	DET	_
+
+3tini	_	VERB	_
+ness	_	NOUN	_
+kilo	_	NOUN	_
+
+nadi	_	VERB	_
+
+Ayeh	_	DET	_
+hak	_	VERB	_
+a	_	VERB	_
+
+Shoukran	_	DET	_
+
+Allahi3awen	_	DET	_
+
+Salam	_	DET	_
+
+Wa	_	DET	_
+
+3afak	_	DET	_
+3endkom	_	VERB	_
+
+Kanbi3o	_	VERB	_
+o	_	DET	_
+
+3endkoum	_	VERB	_
+
+3endna	_	VERB	_
+,	_	DET	_
+
+3tini	_	VERB	_
+
+Haka	_	VERB	_
+tfedel	_	DET	_
+
+salamu	_	DET	_
+
+7eb	_	VERB	_
+
+3aTriya	_	NOUN	_
+tajine	_	NOUN	_
+
+merhba.	_	DET	_
+Kayn	_	VERB	_
+
+
+Menghir	_	VERB	_
+
+3tini	_	VERB	_
+se7ter	_	NOUN	_
+
+newzen	_	VERB	_
+
+dir	_	VERB	_
+shi	_	DET	_
+
+tfedel	_	DET	_
+Wash	_	VERB	_
+tebghi	_	VERB	_
+chi	_	DET	_
+
+djaj	_	NOUN	_
+
+libzar	_	NOUN	_
+skinjbir	_	NOUN	_
+l’khar9oum	_	NOUN	_
+
+3tini	_	VERB	_
+
+sh7al	_	NOUN	_
+lik	_	NOUN	_
+
+dir	_	VERB	_
+shi	_	DET	_
+
+tfedel	_	DET	_
+Wash	_	VERB	_
+tebghi	_	VERB	_
+chi	_	DET	_
+
+Salam,	_	DET	_
+kidayr?	_	DET	_
+
+al7amdoullilah	_	DET	_
+
+
+Ayeh	_	DET	_
+sma	_	NOUN	_
+safiya	_	NOUN	_
+o	_	DET	_
+
+3endek	_	VERB	_
+dak	_	DET	_
+
+Iwa	_	DET	_
+ma3endek	_	VERB	_
+
+3endak	_	DET	_
+had	_	DET	_
+l3shiya	_	NOUN	_
+
+li	_	VERB	_
+fekertini	_	VERB	_
+iwa	_	DET	_
+
+Insha’Allah	_	DET	_
+
+salam	_	DET	_
+
+Dial	_	VERB	_
+shmen	_	DET	_
+tebghi	_	VERB	_
+
+Casablanca,	_	NOUN	_
+Rbat	_	NOUN	_
+Merrakech	_	NOUN	_
+Tanja	_	NOUN	_
+
+
+Shmen	_	DET	_
+dyal	_	VERB	_
+
+
+ghadi	_	VERB	_
+ikoun	_	VERB	_
+
+
+Shmen	_	DET	_
+nhar	_	NOUN	_
+simana	_	NOUN	_
+
+Tnin	_	NOUN	_
+
+ghadi	_	VERB	_
+ikoun	_	VERB	_
+o	_	DET	_
+
+
+Shmen	_	DET	_
+dyal	_	VERB	_
+
+
+Ljew	_	NOUN	_
+skhon	_	NOUN	_
+
+Tanja	_	NOUN	_
+
+Shmen	_	DET	_
+dyal	_	VERB	_
+
+
+rih	_	NOUN	_
+mjhed	_	NOUN	_
+
+
+Shmen	_	DET	_
+dyal	_	VERB	_
+
+
+walakin	_	DET	_
+shwiya	_	VERB	_
+
+
+Shmen	_	DET	_
+nhar	_	NOUN	_
+simana	_	NOUN	_
+
+
+walakin	_	DET	_
+t9der	_	VERB	_
+
+Ifrane	_	NOUN	_
+
+Shmen	_	DET	_
+dyal	_	VERB	_
+
+jem3a	_	NOUN	_
+
+ghaykoun	_	VERB	_
+
+bik	_	VERB	_
+
+3alikum	_	VERB	_
+Jibli	_	VERB	_
+3afak	_	DET	_
+
+atbghih	_	VERB	_
+fl	_	VERB	_
+
+3afak	_	DET	_
+
+Wakha	_	DET	_
+o	_	DET	_
+oula	_	CONJ	_
+
+Na9es	_	VERB	_
+o	_	DET	_
+wash	_	VERB	_
+
+Ayeh	_	DET	_
+3endna	_	VERB	_
+
+Dirli	_	VERB	_
+
+fromage	_	NOUN	_
+
+Wakha	_	DET	_
+l’fromage	_	NOUN	_
+
+N3am	_	DET	_
+a	_	VERB	_
+
+Sba7	_	NOUN	_
+lkhir	_	NOUN	_
+a	_	VERB	_
+
+3afak	_	DET	_
+o	_	DET	_
+
+3endna	_	VERB	_
+dial	_	VERB	_
+
+expresso	_	NOUN	_
+9ahwa	_	NOUN	_
+ness	_	NOUN	_
+
+Momkin	_	VERB	_
+te3tini	_	VERB	_
+
+3la	_	VERB	_
+o	_	DET	_
+
+l	_	DET	_
+restaurant	_	NOUN	_
+taliani	_	NOUN	_
+
+mzian	_	VERB	_
+ra	_	VERB	_
+khasani	_	VERB	_
+
+katdn	_	VERB	_
+ikono	_	VERB	_
+kaydiro	_	VERB	_
+
+daba	_	VERB	_
+nchofo	_	VERB	_
+
+mar7ba	_	DET	_
+bikom	_	VERB	_
+3ndna	_	VERB	_
+
+salam	_	DET	_
+bjouj	_	VERB	_
+bina	_	VERB	_
+anakhdo	_	VERB	_
+
+ayeh	_	VERB	_
+kayna	_	VERB	_
+yalah	_	DET	_
+khrjna	_	VERB	_
+
+mzian	_	VERB	_
+an	_	VERB	_
+nakhdo	_	VERB	_
+
+atwjd	_	VERB	_
+
+tfdlo	_	VERB	_
+l9hwa	_	NOUN	_
+
+choukran	_	NOUN	_
+7na	_	NOUN	_
+jdad	_	NOUN	_
+fhad	_	DET	_
+
+kayn	_	VERB	_
+l	_	DET	_
+
+kaybano	_	VERB	_
+n9do	_	VERB	_
+nmchiw	_	VERB	_
+
+stmt3o	_	VERB	_
+bw9tkom	_	VERB	_
+hna	_	VERB	_
+3lmoni	_	VERB	_
+
+
+ach	_	NOUN	_
+lyoum?	_	NOUN	_
+
+9ahwa	_	NOUN	_
+
+tebghi?	_	VERB	_
+
+kayn	_	VERB	_
+
+3tini	_	VERB	_
+
+kas	_	NOUN	_
+oula	_	DET	_
+
+atbghi	_	VERB	_
+khora	_	VERB	_
+
+atay	_	NOUN	_
+
+fl	_	VERB	_
+oula	_	DET	_
+f	_	VERB	_
+
+bena3na3	_	VERB	_
+oula	_	DET	_
+
+bjouj	_	VERB	_
+
+b'sukar	_	VERB	_
+oula	_	DET	_
+bla	_	VERB	_
+
+hiya	_	NOUN	_
+shi	_	NOUN	_
+
+
+kayn	_	VERB	_
+dyal	_	VERB	_
+
+3tini	_	VERB	_
+dyal	_	VERB	_
+
+b'l7lib	_	VERB	_
+oula	_	CONJ	_
+b	_	VERB	_
+
+bsukar	_	VERB	_
+oula	_	DET	_
+bla	_	VERB	_
+
+atbghi	_	VERB	_
+
+
+mer7ba	_	DET	_
+fl	_	VERB	_
+kayn	_	VERB	_
+
+3tini	_	VERB	_
+
+men	_	VERB	_
+tebghi	_	VERB	_
+
+jouj	_	NOUN	_
+bidat	_	NOUN	_
+
+bl	_	VERB	_
+oula	_	DET	_
+bla	_	VERB	_
+
+zid	_	VERB	_
+fiha	_	VERB	_
+shwiya	_	VERB	_
+dyal	_	VERB	_
+
+marche	_	VERB	_
+atbghi	_	VERB	_
+
+Sme7li	_	VERB	_
+a	_	VERB	_
+fin	_	VERB	_
+
+we7da	_	DET	_
+
+Mnin	_	VERB	_
+ndouz	_	VERB	_
+
+nichan	_	NOUN	_
+
+O	_	DET	_
+menbe3d	_	VERB	_
+
+wa7ed	_	DET	_
+l’me7laba	_	NOUN	_
+
+Wach	_	DET	_
+
+9bel	_	VERB	_
+ma	_	CONJ	_
+twesel	_	VERB	_
+
+Mashi	_	VERB	_
+kayn	_	VERB	_
+
+La	_	DET	_
+rah	_	VERB	_
+fdher	_	VERB	_
+
+Ah	_	DET	_
+safi	_	DET	_
+3reftha	_	VERB	_
+fin	_	VERB	_
+
+Makayn	_	VERB	_
+ta	_	DEP	_
+
+Amine	_	DET	_
+
+Khoya	_	NOUN	_
+wa7ed	_	NOUN	_
+d9i9a	_	NOUN	_
+
+Mer7ba	_	DET	_
+sowel	_	VERB	_
+
+yalah	_	DET	_
+7etni	_	VERB	_
+o	_	DET	_
+
+kina	_	VERB	_
+l	_	DET	_
+
+machi	_	VERB	_
+chuia	_	VERB	_
+
+walakin	_	DET	_
+dyor	_	NOUN	_
+rkhass	_	NOUN	_
+
+ch7al	_	VERB	_
+Ta9riban	_	VERB	_
+
+seb3alaf	_	NOUN	_
+ryal	_	NOUN	_
+l	_	DET	_
+
+fin	_	VERB	_
+jat	_	VERB	_
+
+centre	_	NOUN	_
+
+
+sara7a	_	VERB	_
+machi	_	VERB	_
+bzaf	_	VERB	_
+walakin	_	DET	_
+
+wakha	_	DET	_
+werini	_	VERB	_
+mnin	_	VERB	_
+nemchi	_	VERB	_
+
+ghadi	_	VERB	_
+temchi	_	VERB	_
+men	_	VERB	_
+hna	_	VERB	_
+
+lay7arm	_	VERB	_
+
+o	_	DET	_
+
+ana	_	NOUN	_
+daba	_	VERB	_
+
+ana	_	NOUN	_
+9rib	_	NOUN	_
+
+wslti	_	VERB	_
+3la	_	VERB	_
+l	_	DET	_
+
+tfdl.	_	DET	_
+
+salam	_	DET	_
+3afak	_	DET	_
+t9dr	_	VERB	_
+
+m3lom	_	DET	_
+sir	_	VERB	_
+nichan	_	VERB	_
+m3a	_	VERB	_
+
+bsaf	_	VERB	_
+
+a	_	VERB	_
+khoya	_	NOUN	_
+
+Salam	_	DET	_
+
+Wakha	_	DET	_
+tfedlo	_	VERB	_
+hna	_	VERB	_
+
+Salam	_	DET	_
+ch7eb	_	VERB	_
+
+Chnu	_	NOUN	_
+twajen	_	NOUN	_
+
+Kayn	_	VERB	_
+dial	_	VERB	_
+
+Wakha	_	DET	_
+chnu	_	NOUN	_
+
+Kikoun	_	VERB	_
+fih	_	VERB	_
+
+3tini	_	VERB	_
+wa7ed	_	NOUN	_
+tajine	_	NOUN	_
+
+Mer7ba	_	DET	_
+o	_	DET	_
+
+Ana	_	NOUN	_
+jib	_	VERB	_
+lia	_	NOUN	_
+
+Mer7ba	_	DET	_
+a	_	VERB	_
+
+3tini	_	VERB	_
+chi	_	DET	_
+
+Hiya	_	NOUN	_
+lowla	_	NOUN	_
+
+ghir	_	VERB	_
+chi	_	DET	_
+
+Atbghiw	_	VERB	_
+tsherbou	_	VERB	_
+chi	_	DET	_
+
+dial	_	VERB	_
+
+Ça	_	NOUN	_
+
+Mer7ba	_	DET	_
+a	_	VERB	_
+
+3ndkom	_	VERB	_
+fl	_	VERB	_
+
+Kin	_	VERB	_
+
+dial	_	VERB	_
+
+Kin	_	VERB	_
+
+3tini	_	VERB	_
+3afak	_	DET	_
+
+Mer7ba	_	DET	_
+
+Salam	_	DET	_
+
+wa	_	DET	_
+
+7eb	_	VERB	_
+a	_	VERB	_
+
+3endek	_	VERB	_
+fl	_	VERB	_
+
+Kin	_	VERB	_
+
+dial	_	VERB	_
+
+Kin	_	VERB	_
+dial	_	VERB	_
+
+3tini	_	VERB	_
+3afak	_	DET	_
+dial	_	VERB	_
+
+dial	_	VERB	_
+
+sandwich	_	NOUN	_
+thon	_	NOUN	_
+sandwich	_	NOUN	_
+
+dial	_	VERB	_
+
+Kin	_	VERB	_
+
+dial	_	VERB	_
+
+Kin	_	VERB	_
+
+3tini	_	VERB	_
+3afak	_	DET	_
+
+Salam	_	DET	_
+aji	_	VERB	_
+tfedel	_	VERB	_
+
+Bismillah	_	DET	_
+
+Yallah	_	DET	_
+nebdaw	_	VERB	_
+men	_	VERB	_
+
+fin	_	VERB	_
+hiya	_	VERB	_
+
+Raha	_	VERB	_
+w	_	DET	_
+
+Bota	_	NOUN	_
+do	_	NOUN	_
+
+Bota	_	NOUN	_
+dyla	_	VERB	_
+lgaz	_	NOUN	_
+
+Wakha	_	DET	_
+
+lcouzina	_	NOUN	_
+salon	_	NOUN	_
+
+Tbarkellah	_	DET	_
+
+dayrin	_	VERB	_
+3la	_	VERB	_
+
+
+mshiti	_	VERB	_
+9baltek	_	VERB	_
+
+Fin	_	VERB	_
+jaw	_	VERB	_
+
+Kaynin	_	VERB	_
+7da	_	VERB	_
+
+Kayn	_	VERB	_
+shi	_	DET	_
+
+Kayna	_	VERB	_
+a	_	DET	_
+kaTel	_	VERB	_
+
+Dar	_	NOUN	_
+tilifoun	_	NOUN	_
+
+Salam	_	DET	_
+
+Wa	_	DET	_
+kifach	_	VERB	_
+
+Bghit	_	VERB	_
+nchri	_	VERB	_
+
+3endna	_	VERB	_
+tlata	_	NOUN	_
+
+Kidayra	_	VERB	_
+
+bit	_	NOUN	_
+wa7ed	_	NOUN	_
+toilette	_	NOUN	_
+
+jouj	_	NOUN	_
+byouta	_	NOUN	_
+toilette	_	NOUN	_
+
+Fiha	_	VERB	_
+dial	_	VERB	_
+
+Bghit	_	VERB	_
+nchri	_	VERB	_
+
+Mer7ba	_	DET	_
+
+Salam	_	DET	_
+
+7eb	_	VERB	_
+
+Bghit	_	VERB	_
+bash	_	VERB	_
+nsaweb	_	VERB	_
+
+lmel7a	_	NOUN	_
+o	_	DET	_
+libzar	_	NOUN	_
+
+3endi	_	VERB	_
+iLa	_	VERB	_
+
+Wash	_	VERB	_
+tebghi	_	VERB	_
+
+Ayeh	_	DET	_
+shmen	_	DET	_
+khassani	_	VERB	_
+
+libzar	_	NOUN	_
+skinjbir	_	NOUN	_
+l’khar9oum	_	NOUN	_
+
+Achmen	_	VERB	_
+zitoun	_	NOUN	_
+tidar	_	VERB	_
+
+Aktariya	_	VERB	_
+tidirou	_	VERB	_
+had	_	DET	_
+
+3tini	_	VERB	_
+ness	_	NOUN	_
+kilo	_	NOUN	_
+
+nadi	_	VERB	_
+
+Ayeh	_	DET	_
+hak	_	VERB	_
+a	_	VERB	_
+
+Shoukran	_	DET	_
+
+Allahi3awen	_	DET	_
+
+Salam	_	DET	_
+
+Wa	_	DET	_
+
+3afak	_	DET	_
+3endkom	_	VERB	_
+
+Kanbi3o	_	VERB	_
+o	_	DET	_
+
+3endkoum	_	VERB	_
+
+3endna	_	VERB	_
+,	_	DET	_
+
+3tini	_	VERB	_
+
+Haka	_	VERB	_
+tfedel	_	DET	_
+
+salamu	_	DET	_
+
+7eb	_	VERB	_
+
+3aTriya	_	NOUN	_
+tajine	_	NOUN	_
+
+merhba.	_	DET	_
+Kayn	_	VERB	_
+
+
+Menghir	_	VERB	_
+
+3tini	_	VERB	_
+se7ter	_	NOUN	_
+
+newzen	_	VERB	_
+
+dir	_	VERB	_
+shi	_	DET	_
+
+tfedel	_	DET	_
+Wash	_	VERB	_
+tebghi	_	VERB	_
+chi	_	DET	_
+
+djaj	_	NOUN	_
+
+libzar	_	NOUN	_
+skinjbir	_	NOUN	_
+l’khar9oum	_	NOUN	_
+
+3tini	_	VERB	_
+
+sh7al	_	NOUN	_
+lik	_	NOUN	_
+
+dir	_	VERB	_
+shi	_	DET	_
+
+tfedel	_	DET	_
+Wash	_	VERB	_
+tebghi	_	VERB	_
+chi	_	DET	_
+
+Salam,	_	DET	_
+kidayr?	_	DET	_
+
+al7amdoullilah	_	DET	_
+
+Ljew	_	NOUN	_
+lyouma	_	NOUN	_
+zwin	_	NOUN	_
+
+Ayeh	_	DET	_
+sma	_	NOUN	_
+safiya	_	NOUN	_
+o	_	DET	_
+
+3endek	_	VERB	_
+dak	_	DET	_
+
+Iwa	_	DET	_
+ma3endek	_	VERB	_
+
+3endak	_	DET	_
+had	_	DET	_
+l3shiya	_	NOUN	_
+
+li	_	VERB	_
+fekertini	_	VERB	_
+iwa	_	DET	_
+
+Insha’Allah	_	DET	_
+
+salam	_	DET	_
+
+Dial	_	VERB	_
+shmen	_	DET	_
+tebghi	_	VERB	_
+
+Casablanca,	_	NOUN	_
+Rbat	_	NOUN	_
+Merrakech	_	NOUN	_
+Tanja	_	NOUN	_
+
+
+Shmen	_	DET	_
+dyal	_	VERB	_
+
+
+ghadi	_	VERB	_
+ikoun	_	VERB	_
+
+
+Shmen	_	DET	_
+nhar	_	NOUN	_
+simana	_	NOUN	_
+
+Tnin	_	NOUN	_
+
+ghadi	_	VERB	_
+ikoun	_	VERB	_
+o	_	DET	_
+
+
+Shmen	_	DET	_
+dyal	_	VERB	_
+
+
+Ljew	_	NOUN	_
+skhon	_	NOUN	_
+
+Tanja	_	NOUN	_
+
+Shmen	_	DET	_
+dyal	_	VERB	_
+
+
+rih	_	NOUN	_
+mjhed	_	NOUN	_
+
+
+Shmen	_	DET	_
+dyal	_	VERB	_
+
+
+walakin	_	DET	_
+shwiya	_	VERB	_
+
+
+Shmen	_	DET	_
+dyal	_	VERB	_
+
+
+walakin	_	DET	_
+t9der	_	VERB	_
+
+Ifrane	_	NOUN	_
+
+Shmen	_	DET	_
+dyal	_	VERB	_
+
+jem3a	_	NOUN	_
+
+ghaykoun	_	VERB	_
+
