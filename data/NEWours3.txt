@@ -29,7 +29,7 @@
 2	atbghih	tu le voudrais	VERB	_	_
 3	fl	dans	NOFLEX	_	_
 4	kass	tasse	NOUN	_	_
-5	oula	ou	CONJ	_	_
+5	oula	ou	NOFLEX	_	_
 6	berrad	verre	NOUN	_	_
 
 # sent_id = a.4
@@ -44,7 +44,7 @@
 1	Wakha	D'accord	NOFLEX	_	_
 2	o	et	NOFLEX	_	_
 3	b’sukar	avec sucre	NOFLEX	_	_
-4	oula	ou	CONJ	_	_
+4	oula	ou	NOFLEX	_	_
 5	bla	sans	NOFLEX	_	_
 6	sukar	sucre	NOUN	_	_
 
@@ -283,7 +283,7 @@
 4	w	et	NOFLEX	_	_
 5	l	les	NOUN	_	_
 6	patisserie.	pâtisseries.	NOUN	_	_
-7	Ila	Si	CONJ	_	_
+7	Ila	Si	NOFLEX	_	_
 8	khsatkom	vous avez besoin	VERB	_	_
 9	chi	quelque	NOUN	_	_
 10	haja	chose	NOUN	_	_
@@ -312,7 +312,7 @@
 5	9rib	près	NOFLEX	_	_
 6	lhna	d'ici	NOFLEX	_	_
 7	w	et	NOFLEX	_	_
-8	ila	si	CONJ	_	_
+8	ila	si	NOFLEX	_	_
 9	knto	vous etiez	VERB	_	_
 10	katbghiw	aimez	VERB	_	_
 11	lktoba	les livres	NOUN	_	_
@@ -343,7 +343,7 @@
 2	bw9tkom	votre	NOFLEX	_	_
 3	hna	temps	NOFLEX	_	_
 4	3lmoni	appelez-moi	VERB	_	_
-5	ila	Si	CONJ	_	_
+5	ila	Si	NOFLEX	_	_
 6	5satkom	vous avez besoin	VERB	_	_
 7	chi	quelque	NOUN	_	_
 8	haja	chose	NOUN	_
@@ -484,7 +484,7 @@
 # text = b'l7lib oula b limoun?
 # trad_fr = Avec du lait ou avec du citron ?
 1	b'l7lib	Avec lait	NOFLEX	_
-2	oula	ou	CONJ	_
+2	oula	ou	NOFLEX	_
 3	b	Avec	NOFLEX	_
 4	limoun	citron 	NOUN	_
 
@@ -609,7 +609,7 @@
 2	temchi	tout droit	VERB	_
 3	nichan	avant	NOUN	_
 4	9bel	avant	NOFLEX	_
-5	ma	que	CONJ	_
+5	ma	que	NOFLEX	_
 6	twessel	arriver	VERB	_
 7	l’rass	la rue	NOUN	_
 8	zen9a	Zen9a	NOUN	_
@@ -652,7 +652,7 @@
 # text = 9bel ma twesel l’banka, raha mabin l’pisri o l’mesbana.
 # trad_fr = Avant d'arriver à la banque, c'est entre le boucher et le boulanger.
 1	9bel	Avant	NOFLEX	_
-2	ma	que	CONJ	_
+2	ma	que	NOFLEX	_
 3	twesel	arriver	VERB	_
 4	l’banka	la banque	NOUN	_
 5	raha	c'est	VERB	_
@@ -780,7 +780,7 @@
 3	dyor	cour	NOUN	_
 4	rkhass	spéciale	NOUN	_
 5	temak	est	NOFLEX	_
-6	Ila	Si	CONJ	_
+6	Ila	Si	NOFLEX	_
 7	bghiti	vous voulez	VERB	_
 8	kina	Nous avons	VERB	_
 9	wa7ed	un	NOFLEX	_
@@ -1091,9 +1091,9 @@
 9	tzid	ajouter	VERB	_
 10	fih	y	NOFLEX	_
 11	l7am	viande	NOUN	_
-12	ola	ou	CONJ	_
+12	ola	ou	NOFLEX	_
 13	djaj	poulet	NOUN	_
-14	ila	si	CONJ	_
+14	ila	si	NOFLEX	_
 15	bghiti	tu veux	VERB	_
 
 # sent_id = a.9

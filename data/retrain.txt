@@ -2113,3 +2113,740 @@ jem3a	_	NOUN	_
 
 ghaykoun	_	VERB	_
 
+Marhba	_	NOFLEX	_
+bik	_	NOFLEX	_
+
+Salamu	_		_
+3alikum	_	NOFLEX	_
+Jibli	_	VERB	_
+3afak	_	NOFLEX	_
+
+atbghih	_	VERB	_
+fl	_	NOFLEX	_
+
+3afak	_	NOFLEX	_
+
+Wakha	_	NOFLEX	_
+o	_	NOFLEX	_
+b’sukar	_	NOFLEX	_
+oula	_	CONJ	_
+
+Na9es	_	NOFLEX	_
+o	_	NOFLEX	_
+wash	_	NOFLEX	_
+
+Ayeh	_	NOFLEX	_
+3endna	_	VERB	_
+
+Dirli	_	VERB	_
+wahed	_	NOFLEX	_
+
+Atbghiha	_	VERB	_
+bl	_	NOFLEX	_
+
+Wakha	_	NOFLEX	_
+fiha	_	NOFLEX	_
+l’fromage	_	NOUN	_
+
+N3am	_	NOFLEX	_
+a	_	NOFLEX	_
+wahed	_	NOFLEX	_
+
+Sba7	_	NOUN	_
+lkhir	_	NOUN	_
+a	_	NOFLEX	_
+
+3afak	_	NOFLEX	_
+o	_	NOFLEX	_
+
+3endna	_	VERB	_
+dial	_	NOFLEX	_
+
+expresso	_	NOUN	_
+9ahwa	_	NOUN	_
+ness	_	NOUN	_
+
+Momkin	_	NOFLEX	_
+te3tini	_	VERB	_
+
+3la	_	NOFLEX	_
+o	_	NOFLEX	_
+
+l	_	NOUN	_
+restaurant	_	NOUN	_
+taliani	_	NOUN	_
+
+mzian	_	NOFLEX	_
+ra	_	VERB	_
+khasani	_	VERB	_
+
+katdn	_	VERB	_
+ikono	_	VERB	_
+kaydiro	_	VERB	_
+
+daba	_	NOFLEX	_
+nchofo	_	VERB	_
+
+mar7ba	_	NOFLEX	_
+bikom	_	NOFLEX	_
+3ndna	_	NOFLEX	_
+
+salam	_	NOFLEX	_
+bjouj	_	VERB	_
+bina	_	NOFLEX	_
+anakhdo	_	VERB	_
+
+ayeh	_	NOFLEX	_
+kayna	_	VERB	_
+yalah	_	NOFLEX	_
+khrjna	_	VERB	_
+
+mzian	_	NOFLEX	_
+an	_	VERB	_
+nakhdo	_	VERB	_
+
+atwjd	_	VERB	_
+
+tfdlo	_	NOFLEX	_
+ha	_	NOFLEX	_
+l9hwa	_	NOUN	_
+
+
+kayn	_	VERB	_
+wa7d	_	NOFLEX	_
+
+kaybano	_	VERB	_
+n9do	_	VERB	_
+nmchiw	_	VERB	_
+
+stmt3o	_	VERB	_
+bw9tkom	_	NOFLEX	_
+hna	_	NOFLEX	_
+3lmoni	_	VERB	_
+
+salam	_	NOFLEX	_
+
+ach	_	NOUN	_
+lyoum?	_	NOUN	_
+
+9ahwa	_	NOUN	_
+
+tebghi?	_	VERB	_
+
+kayn	_	VERB	_
+
+3tini	_	VERB	_
+
+fl	_	NOFLEX	_
+kas	_	NOUN	_
+oula	_	NOFLEX	_
+f	_	NOFLEX	_
+
+atbghi	_	VERB	_
+khora	_	NOFLEX	_
+
+atay	_	NOUN	_
+
+fl	_	NOFLEX	_
+oula	_	NOFLEX	_
+f	_	NOFLEX	_
+
+bena3na3	_	NOFLEX	_
+oula	_	NOFLEX	_
+
+bjouj	_	NOFLEX	_
+
+b'sukar	_	NOFLEX	_
+oula	_	NOFLEX	_
+bla	_	NOFLEX	_
+
+hiya	_	NOUN	_
+louwla,	_	NOFLEX	_
+shi	_	NOUN	_
+
+
+kayn	_	VERB	_
+dyal	_	NOFLEX	_
+
+3tini	_	VERB	_
+dyal	_	NOFLEX	_
+
+b'l7lib	_	NOFLEX	_
+oula	_	CONJ	_
+b	_	NOFLEX	_
+
+bsukar	_	NOFLEX	_
+oula	_	NOFLEX	_
+bla	_	NOFLEX	_
+
+atbghi	_	VERB	_
+
+ftour	_	NOUN	_
+
+mer7ba	_	NOFLEX	_
+fl	_	NOFLEX	_
+kayn	_	VERB	_
+
+3tini	_	VERB	_
+wahed	_	NOFLEX	_
+
+men	_	NOFLEX	_
+tebghi	_	VERB	_
+
+jouj	_	NOFLEX	_
+bidat	_	NOUN	_
+
+bl	_	NOFLEX	_
+oula	_	NOFLEX	_
+bla	_	NOFLEX	_
+
+zid	_	VERB	_
+fiha	_	NOFLEX	_
+shwiya	_	NOFLEX	_
+dyal	_	NOFLEX	_
+
+marche	_	VERB	_
+atbghi	_	VERB	_
+
+Sme7li	_	VERB	_
+a	_	NOFLEX	_
+fin	_	NOFLEX	_
+
+
+Mnin	_	NOFLEX	_
+ndouz	_	VERB	_
+
+nichan	_	NOUN	_
+9bel	_	NOFLEX	_
+
+O	_	NOFLEX	_
+menbe3d	_	NOFLEX	_
+
+Bash	_	NOFLEX	_
+wa7ed	_	NOUN	_
+l’me7laba	_	NOUN	_
+
+Wach	_	NOFLEX	_
+
+9bel	_	NOFLEX	_
+ma	_	CONJ	_
+twesel	_	VERB	_
+
+Mashi	_	NOFLEX	_
+kayn	_	VERB	_
+wa7ed	_	NOFLEX	_
+
+La	_	NOFLEX	_
+rah	_	VERB	_
+fdher	_	NOFLEX	_
+
+Ah	_	NOFLEX	_
+safi	_	NOFLEX	_
+3reftha	_	VERB	_
+fin	_	NOFLEX	_
+
+Makayn	_	NOFLEX	_
+ta	_	DEP	_
+llah	_	NOFLEX	_
+
+Amine	_	NOFLEX	_
+
+Khoya	_	NOUN	_
+wa7ed	_	NOFLEX	_
+d9i9a	_	NOUN	_
+
+Mer7ba	_	NOFLEX	_
+sowel	_	VERB	_
+
+yalah	_	NOFLEX	_
+7etni	_	VERB	_
+o	_	NOFLEX	_
+
+kina	_	VERB	_
+wa7ed	_	NOFLEX	_
+
+machi	_	NOFLEX	_
+chuia	_	NOFLEX	_
+
+chuia	_	NOFLEX	_
+walakin	_	NOFLEX	_
+dyor	_	NOUN	_
+rkhass	_	NOUN	_
+
+ch7al	_	NOFLEX	_
+Ta9riban	_	NOFLEX	_
+
+chi	_	NOFLEX	_
+seb3alaf	_	NOFLEX	_
+ryal	_	NOUN	_
+l	_	NOUN	_
+
+fin	_	NOFLEX	_
+jat	_	VERB	_
+
+f	_	NOFLEX	_
+centre	_	NOUN	_
+7daha	_	NOFLEX	_
+
+
+sara7a	_	NOFLEX	_
+machi	_	NOFLEX	_
+bzaf	_	NOFLEX	_
+walakin	_	NOFLEX	_
+
+wakha	_	NOFLEX	_
+werini	_	VERB	_
+mnin	_	NOFLEX	_
+nemchi	_	VERB	_
+
+ghadi	_	VERB	_
+temchi	_	VERB	_
+men	_	NOFLEX	_
+hna	_	NOFLEX	_
+
+lay7arm	_	VERB	_
+
+o	_	NOFLEX	_
+
+Salam	_	NOFLEX	_
+ana	_	NOUN	_
+daba	_	NOFLEX	_
+
+ana	_	NOUN	_
+9rib	_	NOUN	_
+lik	_	NOFLEX	_
+wa7d	_	NOFLEX	_
+
+wslti	_	VERB	_
+3la	_	NOFLEX	_
+
+tfdl.	_	NOFLEX	_
+
+salam	_	NOFLEX	_
+3afak	_	NOFLEX	_
+t9dr	_	VERB	_
+
+m3lom	_	NOFLEX	_
+sir	_	VERB	_
+nichan	_	NOFLEX	_
+m3a	_	NOFLEX	_
+
+bsaf	_	NOFLEX	_
+
+Salam	_	NOFLEX	_
+a	_	NOFLEX	_
+khoya	_	NOUN	_
+
+Salam	_	NOFLEX	_
+reb3a	_	NOFLEX	_
+
+Wakha	_	NOFLEX	_
+tfedlo	_	VERB	_
+hna	_	NOFLEX	_
+
+Salam	_	NOFLEX	_
+ch7eb	_	NOFLEX	_
+
+Chnu	_	NOUN	_
+f	_	NOFLEX	_
+twajen	_	NOUN	_
+
+Kayn	_	VERB	_
+dial	_	NOFLEX	_
+
+Wakha	_	NOFLEX	_
+chnu	_	NOUN	_
+f	_	NOFLEX	_
+
+Kikoun	_	VERB	_
+fih	_	NOFLEX	_
+
+3tini	_	VERB	_
+wa7ed	_	NOFLEX	_
+tajine	_	NOUN	_
+
+Mer7ba	_	NOFLEX	_
+o	_	NOFLEX	_
+
+Ana	_	NOUN	_
+jib	_	VERB	_
+lia	_	NOUN	_
+
+Mer7ba	_	NOFLEX	_
+a	_	NOFLEX	_
+
+3tini	_	VERB	_
+
+Hiya	_	NOUN	_
+lowla	_	NOUN	_
+
+ghir	_	NOFLEX	_
+
+Atbghiw	_	VERB	_
+tsherbou	_	VERB	_
+
+dial	_	NOFLEX	_
+
+Ça	_	NOUN	_
+
+Mer7ba	_	NOFLEX	_
+a	_	NOFLEX	_
+
+3ndkom	_	VERB	_
+fl	_	NOFLEX	_
+
+Kin	_	VERB	_
+
+dial	_	NOFLEX	_
+
+Kin	_	VERB	_
+
+3tini	_	VERB	_
+3afak	_	NOFLEX	_
+
+Mer7ba	_	NOFLEX	_
+
+Salam	_	NOFLEX	_
+
+wa	_	NOFLEX	_
+
+7eb	_	VERB	_
+a	_	NOFLEX	_
+
+3endek	_	VERB	_
+fl	_	NOFLEX	_
+
+Kin	_	VERB	_
+
+dial	_	NOFLEX	_
+
+Kin	_	VERB	_
+dial	_	NOFLEX	_
+
+3tini	_	VERB	_
+3afak	_	NOFLEX	_
+dial	_	NOFLEX	_
+
+dial	_	NOFLEX	_
+
+sandwich	_	NOUN	_
+thon	_	NOUN	_
+sandwich	_	NOUN	_
+
+dial	_	NOFLEX	_
+
+Kin	_	VERB	_
+
+dial	_	NOFLEX	_
+
+Kin	_	VERB	_
+
+3tini	_	VERB	_
+3afak	_	NOFLEX	_
+
+Salam	_	NOFLEX	_
+aji	_	VERB	_
+tfedel	_	VERB	_
+
+Bismillah	_	NOFLEX	_
+
+Yallah	_	NOFLEX	_
+nebdaw	_	VERB	_
+men	_	NOFLEX	_
+
+fin	_	NOFLEX	_
+hiya	_	VERB	_
+
+Raha	_	NOFLEX	_
+w	_	NOFLEX	_
+
+Bota	_	NOUN	_
+b	_	NOFLEX	_
+do	_	NOUN	_
+
+Bota	_	NOUN	_
+dyla	_	NOFLEX	_
+lgaz	_	NOUN	_
+
+Wakha	_	NOFLEX	_
+mzyan	_	NOFLEX	_
+
+9balt	_	NOFLEX	_
+lcouzina	_	NOUN	_
+salon	_	NOUN	_
+
+Tbarkellah	_	NOFLEX	_
+
+Ayeh	_	NOFLEX	_
+dayrin	_	VERB	_
+3la	_	NOFLEX	_
+
+
+Ila	_	NOFLEX	_
+mshiti	_	VERB	_
+9baltek	_	NOFLEX	_
+
+Fin	_	NOFLEX	_
+jaw	_	VERB	_
+
+Kaynin	_	VERB	_
+7da	_	NOFLEX	_
+
+Kayn	_	VERB	_
+
+Kayna	_	VERB	_
+kaTel	_	VERB	_
+
+Dar	_	NOUN	_
+tilifoun	_	NOUN	_
+binatna	_	NOFLEX	_
+
+Salam	_	NOFLEX	_
+
+Wa	_	NOFLEX	_
+kifach	_	NOFLEX	_
+
+Bghit	_	VERB	_
+nchri	_	VERB	_
+
+Mer7ba	_	NOFLEX	_
+3endna	_	VERB	_
+tlata	_	NOFLEX	_
+
+Kidayra	_	VERB	_
+
+Fiha	_	VERB	_
+wa7ed	_	NOFLEX	_
+
+jouj	_	NOFLEX	_
+byouta	_	NOUN	_
+toilette	_	NOUN	_
+
+Fiha	_	VERB	_
+tlata	_	NOFLEX	_
+dial	_	NOFLEX	_
+
+Bghit	_	VERB	_
+nchri	_	VERB	_
+
+Mer7ba	_	NOFLEX	_
+
+Salam	_	NOFLEX	_
+
+7eb	_	VERB	_
+
+Bghit	_	VERB	_
+bash	_	NOFLEX	_
+nsaweb	_	VERB	_
+
+Menghir	_	NOFLEX	_
+lmel7a	_	NOUN	_
+o	_	NOFLEX	_
+libzar	_	NOUN	_
+
+3endi	_	VERB	_
+iLa	_	NOFLEX	_
+
+Wash	_	VERB	_
+tebghi	_	VERB	_
+chi	_	NOUN	_
+
+Ayeh	_	NOFLEX	_
+khassani	_	VERB	_
+
+libzar	_	NOUN	_
+skinjbir	_	NOUN	_
+l’khar9oum	_	NOUN	_
+
+Achmen	_	NOFLEX	_
+zitoun	_	NOUN	_
+tidar	_	VERB	_
+
+Aktariya	_	NOFLEX	_
+tidirou	_	VERB	_
+
+3tini	_	VERB	_
+ness	_	NOUN	_
+kilo	_	NOUN	_
+
+Wach	_	NOFLEX	_
+nadi	_	VERB	_
+
+Ayeh	_	NOFLEX	_
+hak	_	NOFLEX	_
+a	_	NOFLEX	_
+
+Shoukran	_	NOFLEX	_
+
+Allahi3awen	_	NOFLEX	_
+
+Salam	_	NOFLEX	_
+
+Wa	_	NOFLEX	_
+
+3afak	_	NOFLEX	_
+3endkom	_	VERB	_
+
+Kanbi3o	_	VERB	_
+o	_	NOFLEX	_
+
+3endkoum	_	VERB	_
+
+3endna	_	VERB	_
+,	_	NOFLEX	_
+
+3tini	_	VERB	_
+
+Haka	_	NOFLEX	_
+tfedel	_	NOFLEX	_
+
+salamu	_	NOFLEX	_
+
+7eb	_	VERB	_
+
+3aTriya	_	NOUN	_
+dyal	_	NOFLEX	_
+tajine	_	NOUN	_
+
+merhba.	_	NOFLEX	_
+Kayn	_	VERB	_
+
+
+Menghir	_	NOFLEX	_
+
+3tini	_	VERB	_
+se7ter	_	NOUN	_
+
+newzen	_	VERB	_
+
+dir	_	VERB	_
+
+tfedel	_	NOFLEX	_
+Wash	_	VERB	_
+tebghi	_	VERB	_
+
+djaj	_	NOUN	_
+
+libzar	_	NOUN	_
+skinjbir	_	NOUN	_
+l’khar9oum	_	NOUN	_
+
+3tini	_	VERB	_
+
+sh7al	_	NOUN	_
+lik	_	NOUN	_
+
+dir	_	VERB	_
+
+tfedel	_	NOFLEX	_
+Wash	_	VERB	_
+tebghi	_	VERB	_
+
+Salam,	_	NOFLEX	_
+kidayr?	_	NOFLEX	_
+
+al7amdoullilah	_	NOFLEX	_
+
+Ljew	_	NOUN	_
+lyouma	_	NOUN	_
+zwin	_	NOUN	_
+
+Ayeh	_	NOFLEX	_
+sma	_	NOUN	_
+safiya	_	NOUN	_
+o	_	NOFLEX	_
+
+3endek	_	VERB	_
+
+Iwa	_	NOFLEX	_
+ma3endek	_	VERB	_
+
+3endak	_	NOFLEX	_
+had	_	NOUN	_
+l3shiya	_	NOUN	_
+
+li	_	NOFLEX	_
+fekertini	_	VERB	_
+iwa	_	NOFLEX	_
+
+Insha’Allah	_	NOFLEX	_
+
+salam	_	NOFLEX	_
+
+Dial	_	NOFLEX	_
+tebghi	_	VERB	_
+
+Casablanca,	_	NOFLEX	_
+Rbat	_	NOFLEX	_
+Merrakech	_	NOFLEX	_
+Tanja	_	NOFLEX	_
+
+Casa	_	NOFLEX	_
+
+dyal	_	NOFLEX	_
+
+Tnin	_	NOFLEX	_
+
+Tnin	_	NOFLEX	_
+ghadi	_	VERB	_
+ikoun	_	NOFLEX	_
+
+Rbat	_	NOFLEX	_
+
+Shmen	_	NOUN	_
+nhar	_	NOUN	_
+dyal	_	NOFLEX	_
+simana	_	NOUN	_
+
+Tnin	_	NOFLEX	_
+
+ghadi	_	VERB	_
+ikoun	_	NOFLEX	_
+o	_	NOFLEX	_
+
+Merrakech	_	NOFLEX	_
+
+dyal	_	NOFLEX	_
+
+khmis	_	NOFLEX	_
+
+Ljew	_	NOUN	_
+ikoun	_	NOFLEX	_
+skhon	_	NOUN	_
+
+Tanja	_	NOFLEX	_
+
+dyal	_	NOFLEX	_
+
+
+ikoun	_	NOFLEX	_
+rih	_	NOUN	_
+mjhed	_	NOUN	_
+
+Fes	_	NOFLEX	_
+
+dyal	_	NOFLEX	_
+
+Tlat	_	NOFLEX	_
+
+walakin	_	NOFLEX	_
+shwiya	_	NOFLEX	_
+
+Meknes	_	NOFLEX	_
+
+dyal	_	NOFLEX	_
+
+sebt	_	NOFLEX	_
+
+walakin	_	NOFLEX	_
+t9der	_	VERB	_
+
+Ifrane	_	NOFLEX	_
+
+dyal	_	NOFLEX	_
+
+jem3a	_	NOFLEX	_
+
+jem3a	_	NOFLEX	_
+ghaykoun	_	NOFLEX	_
+
