@@ -61,7 +61,10 @@ def read_conllu_file(file_path):
 # test_data = read_text_file('AllTopicsTags.txt')        # . accuracy
 
 train_data = read_text_file('NEWtrainALG3.txt')             #algerian new 3 tags on ours 3 new
-test_data = read_text_file('NEWours3.txt')                  #  accuracy 
+test_data = read_text_file('NEWours3.txt')                  #  66 accuracy (98 weighted)
+
+#train_data = read_text_file('NEWours3.txt')             #our corpus new 3 tags on our marche 3 new
+#test_data = read_text_file('NEWmarche3.txt')            # .77 accuracy macro (96 weighted)
 
 # Step 3: Word Indexing ----------------------------------------------------------------------------
 word2idx = {}

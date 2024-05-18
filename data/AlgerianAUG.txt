@@ -20943,8 +20943,7 @@ kayn	_	VERB	_
 3tini	_	VERB	_
 wahed	_	NOFLEX	_
 
-men	_	NOFLEX	_
-tebghi	_	VERB	_
+sh7al	_	NOUN	_
 
 dirliya	_	VERB	_
 bidat	_	NOUN	_
@@ -21186,8 +21185,9 @@ Chnu	_	NOUN	_
 lkhater	_	NOUN	_
 sidi	_	NOUN	_
 
+chnu	_	NOUN	_
 3endek	_	VERB	_
-fl	_	NOFLEX	_
+menu	_	NOUN	_
 
 twajen,	_	NOUN	_
 sandwichat,	_	NOUN	_
@@ -21282,10 +21282,7 @@ shi	_	NOUN	_
 balcon	_	NOUN	_
 
 Kayna	_	VERB	_
-a	_	NOUN	_
-sidi	_	NOUN	_
 kaTel	_	VERB	_
-jerda	_	NOUN	_
 
 Dar	_	NOUN	_
 tilifoun	_	NOUN	_
@@ -21407,8 +21404,6 @@ newzen	_	VERB	_
 dir	_	VERB	_
 
 tfedel	_	NOFLEX	_
-Wash	_	VERB	_
-tebghi	_	VERB	_
 
 djaj	_	NOUN	_
 
@@ -21461,7 +21456,8 @@ Insha’Allah	_	NOFLEX	_
 salam	_	NOFLEX	_
 
 Dial	_	NOFLEX	_
-tebghi	_	VERB	_
+shmen	_	NOUN	_
+mdina	_	NOUN	_
 
 Casablanca,	_	NOFLEX	_
 Rbat	_	NOFLEX	_

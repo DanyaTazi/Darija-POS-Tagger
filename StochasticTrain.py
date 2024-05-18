@@ -20,7 +20,7 @@ def read_conllu_file(file_path):
             elif not line.startswith('#'):
                 columns = line.strip().split('\t')
                 if len(columns) == 10: 
-                    current_sentence.append((columns[1], columns[3]))  # Form and UPOS
+                    current_sentence.append((columns[1], columns[3]))  # form and UPOS
     if current_sentence: 
         sentences.append(current_sentence)
     return sentences

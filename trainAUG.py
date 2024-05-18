@@ -20,7 +20,7 @@ def read_conllu_file(file_path):
             elif not line.startswith('#'):
                 columns = line.strip().split('\t')
                 if len(columns) == 10:  
-                    current_sentence.append((columns[1], columns[3]))  # Form and UPOS
+                    current_sentence.append((columns[1], columns[3]))  # form and UPOS
     if current_sentence: 
         sentences.append(current_sentence)
     return sentences
@@ -69,10 +69,10 @@ def read_text_file(file_path):
 # test_data = read_text_file('NEWmarche3.txt')            # .78 accuracy
 
 # train_data = read_text_file('NEWtrainALG3.txt')             #algerian new 3 tags on algerian 3 new
-# test_data = read_text_file('NEWtestALG3.txt')             # .77 accuracy (bit worse also than noun det verb)
+# test_data = read_text_file('NEWtestALG3.txt')             # .77 accuracy 
 
 # train_data = read_text_file('NEWtrainALG3.txt')             #algerian new 3 tags on ours 3 new
-# test_data = read_text_file('NEWours3.txt')                  # .6 accuracy (bit worse also than noun det verb)
+# test_data = read_text_file('NEWours3.txt')                  # .6 accuracy 
 
 train_data = read_text_file('AlgerianAUG.txt')             #algerian new 3 tags on ours 3 new
 test_data = read_text_file('NEWours3.txt')                  # .6 accuracy 

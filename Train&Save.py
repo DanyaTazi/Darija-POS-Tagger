@@ -1,3 +1,5 @@
+#just a test for saving and loading the same model so that the accuracy doesnt fluctuate
+
 import os
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.linear_model import SGDClassifier
@@ -20,9 +22,9 @@ def read_conllu_file(file_path):
                     current_sentence = []
             elif not line.startswith('#'):
                 columns = line.strip().split('\t')
-                if len(columns) == 10:  # Assuming standard CoNLL-U format with 10 columns
-                    current_sentence.append((columns[1], columns[3]))  # Form and UPOS
-    if current_sentence:  # Append the last sentence
+                if len(columns) == 10: 
+                    current_sentence.append((columns[1], columns[3]))  # form and UPOS
+    if current_sentence: 
         sentences.append(current_sentence)
     return sentences
 
@@ -40,11 +42,11 @@ def read_text_file(file_path):
                     current_sentence = []
             elif not line.startswith('#'):
                 columns = line.split('\t')
-                if len(columns) >= 4:  # At least four columns should be present
+                if len(columns) >= 4: 
                     darija_word = columns[1]
                     pos_tag = columns[3]
-                    current_sentence.append((darija_word, pos_tag))  # Darija word and POS tag
-    if current_sentence:  # Append the last sentence
+                    current_sentence.append((darija_word, pos_tag)) 
+    if current_sentence: 
         sentences.append(current_sentence)
     return sentences
 
