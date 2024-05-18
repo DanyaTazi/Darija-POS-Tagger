@@ -1,0 +1,2395 @@
+
+# sent_id = a.1
+# text = Marhba bik
+# trad_fr = Bienvenue
+1	Marhba	Bienvenue	NOFLEX	_	_
+2	bik	à toi	NOFLEX	_	_
+
+# sent_id = a.2
+# text = Salamu 3alikum. Jibli 3afak wahed 9ahwa ke7la fl kas o wahed atay bena3na3
+# trad_fr = Bonjour. S'il vous plaît, apportez-moi un café noir dans une tasse et un thé à la menthe.
+1	Salamu	Bonjour		_	_
+2	3alikum	à vous	NOFLEX	_	_
+3	Jibli	apporte	VERB	_	_
+4	3afak	s'il vous plaît	NOFLEX	_
+5	wahed	un	NOFLEX	_	_
+6	9ahwa	café	NOUN	_	_
+7	ke7la	noir	NOUN	_	_
+8	fl	dans	NOFLEX	_	_
+9	kas	tasse	NOUN	_	_
+10	o	et	NOFLEX	_	_
+11	wahed	un	NOFLEX	_	_
+12	atay	thé	NOUN	_	_
+13	bena3na3	menthe	NOFLEX	_
+
+# sent_id = a.3
+# text = Atay atbghih fl kass oula berrad
+# trad_fr = Je veux du thé dans la tasse ou dans le verre
+1	Atay	thé	NOUN	_	_
+2	atbghih	tu le voudrais	VERB	_	_
+3	fl	dans	NOFLEX	_	_
+4	kass	tasse	NOUN	_	_
+5	oula	ou	NOFLEX	_	_
+6	berrad	verre	NOUN	_	_
+
+# sent_id = a.4
+# text = Berrad 3afak
+# trad_fr = Un verre, s'il vous plaît
+1	Berrad	verre	NOUN	_	_
+2	3afak	s'il vous plaît	NOFLEX	_	_
+
+# sent_id = a.5
+# text = Wakha, o b’sukar oula bla sukar?
+# trad_fr = D'accord, avec sucre ou sans sucre ?
+1	Wakha	D'accord	NOFLEX	_	_
+2	o	et	NOFLEX	_	_
+3	b’sukar	avec sucre	NOFLEX	_	_
+4	oula	ou	NOFLEX	_	_
+5	bla	sans	NOFLEX	_	_
+6	sukar	sucre	NOUN	_	_
+
+# sent_id = a.6
+# text = Na9es sukar, o wash katdiro ftour?
+# trad_fr = Moins de sucre, et qu'est-ce que vous avez pour le petit dejeuner?
+1	Na9es	Moins	NOFLEX	_	_
+2	sukar	sucre	NOUN	_	_
+3	o	et	NOFLEX	_	_
+4	wash	qu'est-ce que	NOFLEX	_
+5	katdiro	faire	VERB	V	_
+6	fTour	de plus	NOFLEX	ADV	_
+
+# sent_id = a.7
+# text = Ayeh, 3endna msemen, 7archa, ptit pain, omlette o l’lkhli3
+# trad_fr = Oui, nous avons des msemen, de l'harsha, du petit pain, de l'omelette et du lait
+1	Ayeh	Oui	NOFLEX	_
+2	3endna	nous avons	VERB	_
+3	msemen	msemen	NOUN	_
+4	7archa	harsha	NOUN	_
+5	ptit	petit	NOUN	_
+6	pain	pain	NOUN	_
+7	omlette	omelette	NOUN	_
+8	o	et	NOFLEX	_
+9	l’lkhli3	lait	NOUN	_
+
+# sent_id = a.8
+# text = Dirli wahed omlette
+# trad_fr = Fais-moi une omelette
+1	Dirli	Fais-moi	VERB	_
+2	wahed	une	NOFLEX	_
+3	omlette	omelette	NOUN	NC	_
+
+# sent_id = a.9
+# text = Atbghiha bl fromage?
+# trad_fr = Je veux avec du fromage ?
+1	Atbghiha	Je veux	VERB	_
+2	bl	avec	NOFLEX	_
+3	fromage	fromage	NOUN	_
+
+# sent_id = a.10
+# text = Wakha zidli fiha l’fromage.
+# trad_fr = D'accord, ajoutez du fromage dedans.
+1	Wakha	D'accord	NOFLEX	_
+2	zidli	ajoutez	VERB	_
+3	fiha	dedans	NOFLEX	_
+4	l’fromage	fromage	NOUN	_
+
+# sent_id = a.11
+# text = N3am a sidi, wahed 3echra d9aye9 iwjed lik.
+# trad_fr = Oui monsieur, dix minutes et ca serra pret.
+1	N3am	Oui	NOFLEX	_
+2	a	à	NOFLEX	_
+3	sidi	monsieur	NOUN	_
+4	wahed	une	NOFLEX	_
+5	3echra	dix	NOFLEX	_
+6	d9aye9	minutes	NOUN	_
+7	iwjed	sera pret	VERB	_
+8	lik	pour vous	NOFLEX	_
+
+
+# sent_id = b.1
+# text = Sba7 lkhir a sidi, chnu 7eb lkhater.
+# trad_fr = Bonjour monsieur, comment puis-je vous aidez ?
+1	Sba7	Bonjour	NOUN	_
+2	lkhir	monsieur	NOUN	_
+3	a	à	NOFLEX	_
+4	sidi	monsieur	NOUN	_
+5	chnu	comment	NOUN	_
+6	7eb	l'amour	NOUN	_
+7	lkhater	allez-vous	NOUN	_
+
+# sent_id = b.2
+# text = 3afak chnu 3wasser o 9hawi li 3ndkom.
+# trad_fr = S'il vous plaît, qu'est-ce que vous avez comme boissons et cafe ?
+1	3afak	s'il vous plaît	NOFLEX	_
+2	chnu	qu'est-ce que	NOUN	_
+3	l3wasser	boissons/boissons fraîches	NOUN	_
+4	o	et	NOFLEX	_
+5	l9hawi	cafes fraîches	NOUN	_
+6	li	que	NOUN	_
+7	3ndkom	vous avez	VERB	_
+
+# sent_id = b.3
+# text = 3endna 3asser dial limoun, dial tfa7, dial banane, dial avocat, dial l7amed, o panache.
+# trad_fr = Nous avons du soda au citron, au pamplemousse, à la banane, à l'avocat, au citron, et panaché.
+1	3endna	nous avons	VERB	_
+2	3asser	soda	NOUN	_
+3	dial	de	NOFLEX	_
+4	limoun	orange	NOUN	_
+5	dial	de	NOFLEX	_
+6	tfa7	pomme	NOUN	_
+7	dial	de	NOFLEX	_
+8	banane	banane	NOUN	_
+9	dial	de	NOFLEX	_
+10	avocat	avocat	NOUN	_
+11	dial	de	NOFLEX	_
+12	l7amed	citron	NOUN	_
+13	o	et	NOFLEX	_
+14	panache	panaché	NOUN	_
+
+# sent_id = b.4
+# text = Kin expresso, 9ahwa ness ness, o 9ahwa Ka7la
+# trad_fr = Nous avons de l'expresso, du café au lait, et du café noir
+1	Kin	Nous avons	VERB	_
+2	expresso	expresso	NOUN	_
+3	9ahwa	café	NOUN	_
+4	ness	au lait	NOUN	_
+5	ness	au lait	NOUN	_
+6	o	et	NOFLEX	_
+7	9ahwa	café	NOUN	_
+8	Ka7la	noir	NOUN	_
+
+# sent_id = b.5
+# text = Momkin te3tini expresso.
+# trad_fr = Pouvez-vous me donner _.
+1	Momkin	Pouvez-vous	NOFLEX	_
+2	te3tini	donner	VERB	_
+3	expresso	expresso	NOUN	_
+
+# sent_id = b.6
+# text = 3la rass o l3in.
+# trad_fr = Sur la tête et les yeux.
+1	3la	sur	NOFLEX	P	_
+2	rass	tête	NOUN	NC	_
+3	o	et	NOFLEX	CC	_
+4	l3in	yeux	NOUN	NC	_
+
+# sent_id = c.1
+# text = l restaurant taliani kan 3amr. Chban lik fchi 9hwa ?
+# trad_fr = Le restaurant italien est ouvert depuis longtemps. Que voulez-vous dans une boisson chaude ?
+1	l	Le	NOUN	_	_
+2	restaurant	restaurant	NOUN	_	_
+3	taliani	italien	NOUN	_	_
+4	kan	est	VERB	_	_
+5	3amr.	ouvert	NOUN	_	_
+6	Chban	Qu'est-ce que vous voulez	NOFLEX	_	_
+7	lik	pour vous	NOFLEX	_	_
+8	fchi	dans un	NOFLEX	_	_
+9	9hwa	boisson	NOUN	_	_
+
+# sent_id = c.2
+# text = mzian ! ra khasani l9hwa.
+# trad_fr = Bien ! Je vais prendre un café.
+1	mzian	Bien	NOFLEX	_	_
+2	ra	je vais	VERB	_	_
+3	khasani	je vais prendre	VERB	_	_
+4	l9hwa.	le café.	NOUN	_	_
+
+# sent_id = c.3
+# text = katdn ikono kaydiri patisserie tahia ?
+# trad_fr = Est-ce que ce café fait aussi des pâtisseries ?
+1	katdn	tu pense	VERB	_	_
+2	ikono	ce café	VERB	_	_
+3	kaydiro	fait	VERB	_	_
+4	patisserie	pâtisseries	NOUN	_	_
+5	tahia	également	NOFLEX	_	_
+
+# sent_id = c.4
+# text = daba nchofo !
+# trad_fr = Alors voyons !
+1	daba	maintenant	NOFLEX	_	_
+2	nchofo	voir	VERB	_	_
+
+# sent_id = c.5
+# text = mar7ba bikom 3ndna fl9hwa ! chnou tbghiw ?
+# trad_fr = Bienvenue chez nous pour le café ! Que voulez-vous ?
+1	mar7ba	Bienvenue	NOFLEX	_	_
+2	bikom	a vous	NOFLEX	_
+3	3ndna	chez nous	NOFLEX	_	_
+4	fl9hwa	au café	NOUN	_	_
+6	chnou	Quoi	NOUN	_	_
+7	tbghiw	veux-vous	VERB	_	_
+
+# sent_id = c.6
+# text = salam ! bjouj bina anakhdo 9hwa. Wach 3ndkom patisserie ?
+# trad_fr = Salut ! Nous venons prendre un café. Est-ce que vous avez des pâtisseries ?
+1	salam	Salut	NOFLEX	_	_
+2	bjouj	nous venons	VERB	_	_
+3	bina	avec nous	NOFLEX	_	_
+4	anakhdo	prendre	VERB	_	_
+5	9hwa.	du café.	NOUN	_	_
+6	Wach	Est-ce que	NOFLEX	_	_
+7	3ndkom	avez-vous	VERB	_	_
+8	patisserie	une pâtisserie	NOUN	_	_
+
+# sent_id = c.7
+# text = ayeh kayna ! yalah khrjna croissant mn l fran w muffins tahoma.
+# trad_fr = Oui, nous en avons ! Allons-y prendre des croissants français et des muffins maison.
+1	ayeh	Oui	NOFLEX	_	_
+2	kayna	nous avons	VERB	_	_
+3	yalah	Allons-y	NOFLEX	_	_
+4	khrjna	prendre	VERB	_	_
+5	croissant	croissants	NOUN	_	_
+6	mn	de	NOFLEX	_	_
+7	l	le	NOUN	_	_
+8	fran	four	NOUN	_	_
+9	w	et	NOFLEX	_	_
+10	muffins	muffins	NOUN	_	_
+11	tahoma	aussi	NOFLEX	_	_
+
+# sent_id = c.8
+# text = mzian ! an nakhdo croissant dial chklat w muffin dial tout
+# trad_fr = D'accord ! Nous prendrons des croissants au chocolat et des muffins de votre choix ?
+1	mzian	Bien	NOFLEX	_	_
+2	an	allons	VERB	_	_
+3	nakhdo	prendrons	VERB	_	_
+4	croissant	croissants	NOUN	_	_
+5	dial	au	NOFLEX	_	_
+6	chklat	chocolat	NOUN	_	_
+7	w	et	NOFLEX	_	_
+8	muffin	muffin	NOUN	_	_
+9	dial	de	NOFLEX	_	_
+10	tout	baie	NOUN	_	_
+
+# sent_id = c.9
+# text = ikhtiar zwin ! l9hwa atwjd db chwia, anjib likom les patisseries.
+# trad_fr = Un excellent choix ! Le café sera prêt dans un moment, je vais vous apporter les pâtisseries.
+1	ikhtiar	choix	NOUN	_	_
+2	zwin	Excellent	NOUN	_	_
+3	l9hwa	Le café	NOUN	_	_
+4	atwjd	sera prêt	VERB	_	_
+5	daba	maintenant	NOFLEX	_	_
+6	chwia,	un moment	NOFLEX	_	_
+7	anjib	je vais apporter	VERB	_	_
+8	likom	vous	NOFLEX	_	_
+9	les	les	NOUN	_	_
+10	patisseries.	pâtisseries.	NOUN	_	_
+
+# sent_id = c.10
+# text = tfdlo ! ha l9hwa w l patisserie. Ila khsatkom chi haja goloha lia.
+# trad_fr = Voilà ! Voici le café et les pâtisseries. Si vous avez besoin de quelque chose, dites-le-moi.
+1	tfdlo	De rien	NOFLEX	_	_
+2	ha	Voilà	NOFLEX	_	_
+3	l9hwa	le café	NOUN	_	_
+4	w	et	NOFLEX	_	_
+5	l	les	NOUN	_	_
+6	patisserie.	pâtisseries.	NOUN	_	_
+7	Ila	Si	NOFLEX	_	_
+8	khsatkom	vous avez besoin	VERB	_	_
+9	chi	quelque	NOUN	_	_
+10	haja	chose	NOUN	_	_
+11	goloha	dites-le	VERB	_	_
+12	lia	moi	NOUN	_
+
+# sent_id = c.11
+# text = choukran ! 7na jdad fhad jiha, fin tns7na njrbo ?
+# trad_fr = Merci ! Nous sommes nouveaux dans ce quartier, où recommanderiez-vous de visiter ?
+1	choukran	Merci	NOUN	_	__
+2	7na	Nous	NOUN	_	_
+3	jdad	nouveaux	NOUN	_	_
+4	fhad	dans ce	NOUN	_	_
+5	jiha,	quartier,	NOUN	_	_
+6	fin	où	NOFLEX	_	_
+7	tns7na	recommaderiez	VERB	_	_
+8	njrbo	visiter	NOFLEX	VERB	_
+
+# sent_id = c.12
+# text = kayn wa7d l park 9rib lhna, w ila knto katbgiw lktoba , kayn wa7d lma7al kayb3ihom gir hna 9rib.
+# trad_fr = Il y a un parc près d'ici, et si vous aimez lire, il y a une bibliothèque pas loin d'ici.
+1	kayn	Il y a	VERB	_	_
+2	wa7d	un	NOFLEX	_	_
+3	l	le	NOUN	_	_
+4	park	parc	NOUN	_	_
+5	9rib	près	NOFLEX	_	_
+6	lhna	d'ici	NOFLEX	_	_
+7	w	et	NOFLEX	_	_
+8	ila	si	NOFLEX	_	_
+9	knto	vous etiez	VERB	_	_
+10	katbghiw	aimez	VERB	_	_
+11	lktoba	les livres	NOUN	_	_
+12	kayn	Il y a	VERB	_	_
+13	wa7d	un	NOFLEX	_	_
+14	lma7al	bibliothèque	NOUN	_	_
+15	kaybi3hom	Il les vend	VERB	_	_
+16	ghir	juste	NOFLEX	_	_
+17	hna	ici	NOFLEX	_	_
+18	9rib	près	NOUN	_
+
+# sent_id = c.13
+# text = kaybano zwinin ! n9do nmchiw lihom moura had lglsa.
+# trad_fr = Ils ont l'air bien ! Nous irons les voir après cette pause.
+1	kaybano	ils ont l'air	VERB	_	_
+2	zwinin	bien	NOUN	_	_
+3	n9do	on peut	VERB	_	_
+4	nmchiw	partir	VERB	_	_
+5	lihom	les	NOUN	_	_
+6	moura	après	NOFLEX	_	_
+7	had	cette	NOUN	_	_
+8	lglsa	pause	NOUN	_
+
+# sent_id = c.14
+# text = stmt3o bw9tkom hna, 3lmoni ila 5satkom chi haja.
+# trad_fr = Prenez votre temps ici, appelez-moi si vous avez besoin de quelque chose.
+1	stmt3o	Prenez	VERB	_	_
+2	bw9tkom	votre	NOFLEX	_	_
+3	hna	temps	NOFLEX	_	_
+4	3lmoni	appelez-moi	VERB	_	_
+5	ila	Si	NOFLEX	_	_
+6	5satkom	vous avez besoin	VERB	_	_
+7	chi	quelque	NOUN	_	_
+8	haja	chose	NOUN	_
+
+# sent_id = d.1
+# text = salam
+# trad_fr = Bonjour
+1	salam	Bonjour	NOFLEX	_	_
+
+# sent_id = d.2
+# text = ach tbghiw lyoum?
+# trad_fr = Qu'est-ce que vous voulez aujourd'hui ?
+1	ach	Qu'est-ce que	NOUN	_	_
+2	tbghiw	vous voulez	VERB	_	_
+3	lyoum?	aujourd'hui ?	NOUN	_
+
+# sent_id = d.3
+# text = 9ahwa
+# trad_fr = Du café
+1	9ahwa	café	NOUN	_	_
+
+# sent_id = d.4
+# text = shmen 9ahwa tebghi?
+# trad_fr = Quel genre de café voulez-vous ?
+1	shmen	Quel genre de	NOUN	_	_
+2	9ahwa	café	NOUN	_
+3	tebghi?	voulez-vous ?	VERB	_
+
+# sent_id = d.5
+# text = kayn: 9as7a, khfifa, Twila, ness ness oula cafe creme
+# trad_fr = Il y a : noir, léger, long, serré ou café crème.
+1	kayn	Il y a	VERB	_	_
+2	9as7a	noir	NOUN	_	_
+3	khfifa	léger	NOUN	_	_
+4	Twila	long	NOUN	_	_
+5	ness	moitié	NOUN	_	_
+6	ness	moitié	NOUN	_
+7	oula	ou	NOFLEX	_
+8	cafe	crème	NOUN	_
+
+# sent_id = d.6
+# text = 3tini 9ahwa 9as7a
+# trad_fr = Donnez-moi un café noir.
+1	3tini	Donnez-moi	VERB	_	_
+2	9ahwa	café	NOUN	_
+3	9as7a.	noir.	NOUN	_
+
+# sent_id = d.7
+# text = fl kas oula f la tasse?
+# trad_fr = Dans une tasse ou dans une tasse à café ?
+1	fl	Dans	NOFLEX	_	_
+2	kas	tasse	NOUN	_
+3	oula	ou	NOFLEX	_
+4	f	Dans	NOFLEX	_
+5	la	le	NOUN	_
+6	tasse?	tasse ?	NOUN	_
+
+# sent_id = d.8
+# text = atbghi shi 7aja khora?
+# trad_fr = Vous voulez autre chose ?
+1	atbghi	Vous voulez	VERB	_	_
+2	shi	autre	NOUN	_	_
+3	7aja	chose	NOUN	_
+4	khora	autre	NOFLEX	_
+
+# sent_id = d.9
+# text = atay
+# trad_fr = Du thé
+1	atay	thé	NOUN	_
+
+# sent_id = d.10
+# text = fl kass oula fl berrad?
+# trad_fr = Dans une tasse ou dans une tasse à thé ?
+1	fl	Dans	NOFLEX	_	_
+2	kass	tasse	NOUN	_
+3	oula	ou	NOFLEX	_
+4	f	Dans	NOFLEX	_
+5	berrad	berrad	NOUN	_
+
+# sent_id = d.11
+# text = bena3na3 oula shiba?
+# trad_fr = Avec ou sans sucre ?
+1	bena3na3	a la menthe	NOFLEX	_
+2	oula	ou	NOFLEX	_
+3	shiba?	armoise	NOUN	_
+
+# sent_id = d.12
+# text = bjouj
+# trad_fr = Avec du sucre
+1	bjouj	les deux	NOFLEX	_
+
+# sent_id = d.13
+# text = b'sukar oula bla sukar?
+# trad_fr = Avec du sucre ou sans sucre ?
+1	b'sukar	avec sucre	NOFLEX	_
+2	oula	ou	NOFLEX	_
+3	bla	sans	NOFLEX	_
+4	sukar?	sucre ?	NOUN	_
+
+# sent_id = d.14
+# text = hiya louwla, atbghi shi 7aja khora?
+# trad_fr = C'est tout, voulez-vous autre chose ?
+1	hiya	C'est	NOUN	_	_
+2	louwla,	tout,	NOFLEX	_
+3	atbghi	voulez-vous	VERB	_
+4	shi	autre	NOUN	_
+5	7aja	chose	NOUN	_
+6	khora?	autre ?	NOUN	_
+
+# sent_id = d.15
+# text = 3asir
+# trad_fr = Jus
+1	3asir	Jus	NOUN	_
+
+# sent_id = d.16
+# text = kayn 3asir dyal tefah, banane, limoun, l'avocat, fraise, oula panache
+# trad_fr = Il y a du jus de pomme, de banane, de citron, d'avocat, de fraise ou un mélange.
+1	kayn	Il y a	VERB	_	_
+2	3asir	jus	NOUN	_
+3	dyal	de	NOFLEX	_
+4	tefah	pomme	NOUN	_
+5	banane	banane	NOUN	_
+6	limoun	citron	NOUN	_
+7	l'avocat	avocat	NOUN	_
+8	fraise	fraise	NOUN	_
+9	oula	ou	NOFLEX	_
+10	panache	mélange	NOUN	_
+
+# sent_id = d.17
+# text = 3tini 3asir dyal l'fraise
+# trad_fr = Donnez-moi du jus de fraise
+1	3tini	Donnez-moi	VERB	_	_
+2	3asir	jus	NOUN	_
+3	dyal	de	NOFLEX	_
+4	l'fraise	fraise	NOUN	_
+
+# sent_id = d.18
+# text = b'l7lib oula b limoun?
+# trad_fr = Avec du lait ou avec du citron ?
+1	b'l7lib	Avec lait	NOFLEX	_
+2	oula	ou	NOFLEX	_
+3	b	Avec	NOFLEX	_
+4	limoun	citron 	NOUN	_
+
+# sent_id = d.19
+# text = bsukar oula bla sukar
+# trad_fr = Avec sucre ou sans sucre
+1	bsukar	avec sucre	NOFLEX	_
+2	oula	ou	NOFLEX	_
+3	bla	sans	NOFLEX	_
+4	sukar	sucre	NOUN	_
+
+# sent_id = d.20
+# text = atbghi shi 7aja khora?
+# trad_fr = Vous voulez autre chose ?
+1	atbghi	Vous voulez	VERB	_	_
+2	shi	autre	NOUN	_	_
+3	7aja	chose	NOUN	_
+4	khora	autre	NOUN	_
+
+# sent_id = d.21
+# text = ftour
+# trad_fr = Petit déjeuner
+1	ftour	petit déjeuner	NOUN	_
+
+# sent_id = d.22
+# text = mer7ba, fl ftour kayn msemen, 7archa, beghrir, petit pain, omlette oula khli3
+# trad_fr = Bienvenue, au petit déjeuner, il y a des crêpes, des baghrirs, des petits pains, des omelettes ou des haricots.
+1	mer7ba	Bienvenue	NOFLEX	_	_
+2	fl	Dans	NOFLEX	_	_
+3	ftour	petit déjeuner	NOUN	_
+4	kayn	il y a	VERB	_	_
+5	msemen	crêpes	NOUN	_
+6	7archa	baghrirs	NOUN	_
+7	beghrir	baghrirs	NOUN	_
+8	petit	petits	NOUN	_
+9	pain	pains	NOUN	_
+10	omlette	omelette	NOUN	_
+11	oula	ou	NOFLEX	_
+12	khli3	haricots	NOUN	_
+
+# sent_id = d.23
+# text = 3tini wahed omlette
+# trad_fr = Donnez-moi une omelette
+1	3tini	Donnez-moi	VERB	_	_
+2	wahed	un	NOFLEX	_	_
+3	omlette	omelette	NOUN	_
+
+# sent_id = d.24
+# text = sh7al men bida tebghi fiha
+# trad_fr = Combien de fromage voulez-vous dedans ?
+1	sh7al	Combien de	NOUN	_	_
+2	men	de	NOFLEX	_	_
+3	bida	fromage	NOUN	_
+4	tebghi	voulez-vous	VERB	_
+5	fiha	dedans	NOFLEX	_
+
+# sent_id = d.25
+# text = dirliya jouj bidat
+# trad_fr = Faites-moi deux oeufs
+1	dirliya	Faites-moi	VERB	_	_
+2	jouj	deux	NOFLEX	_	_
+3	bidat	oeuf	NOUN	_
+
+# sent_id = d.26
+# text = bl fromage oula bla fromage
+# trad_fr = Avec du fromage ou sans fromage
+1	bl	Avec	NOFLEX	_	_
+2	fromage	fromage	NOUN	_
+3	oula	ou	NOFLEX	_
+4	bla	sans	NOFLEX	_
+5	fromage	fromage	NOUN	_
+
+# sent_id = d.27
+# text = zid fiha shwiya dyal lfromage
+# trad_fr = Ajoutez un peu de fromage dedans
+1	zid	Ajoutez	VERB	_	_
+2	fiha	dedans	NOFLEX	_	_
+3	shwiya	peu	NOFLEX	_
+4	dyal	de	NOFLEX	_
+5	lfromage	fromage	NOUN	_
+
+# sent_id = d.28
+# text = ca marche. atbghi 7aja khora?
+# trad_fr = D'accord. Vous voulez autre chose ?
+1	ca	D'accord	NOUN	_	_
+2	marche	marche	VERB	_
+3	atbghi	Vous voulez	VERB	_
+4	7aja	chose	NOUN	_
+5	khora	autre	NOUN	_
+
+# sent_id = a.1
+# text = Sme7li a khoya, fin jat a9rab pharmacie?
+# trad_fr = Excuse-moi mon frère, où est la pharmacie la plus proche ?
+1	Sme7li	Excuse-moi	VERB	_
+2	a	à	NOFLEX	_
+3	khoya	frère	NOUN	_
+4	fin	où	NOFLEX	_
+5	jat	est	VERB	_
+6	a9rab	plus proche	NOUN	_
+7	pharmacie	pharmacie	NOUN	_
+
+# sent_id = a.2
+# text = A9rab we7da hiya pharmacie shifaa.
+# trad_fr = La pharmacie Shifaa est la plus proche.
+1	A9rab	plus proche	NOUN	_
+2	we7da	une	NOUN	_
+3	hiya	c'est	NOUN	_
+4	pharmacie	pharmacie	NOUN	_
+5	shifaa	Shifaa	NOFLEX	_	_
+
+# sent_id = a.3
+# text = Mnin ndouz liha 3afak?
+# trad_fr = Où dois-je tourner s'il vous plaît ?
+1	Mnin	Où	NOFLEX	_
+2	ndouz	dois-je tourner	VERB	_
+3	liha	pour elle	NOUN	_
+
+# sent_id = a.4
+# text = Ghadi temchi nichan, 9bel ma twessel l’rass zen9a, ghadi tjeber do l’7mer, dour m3ah 3la limen.
+# trad_fr = Vous allez tout droit, avant d'arriver à la rue Zen9a, vous allez tourner à gauche de la mer, continuez avec elle sur la droite.
+1	Ghadi	Vous allez	VERB	_
+2	temchi	tout droit	VERB	_
+3	nichan	avant	NOUN	_
+4	9bel	avant	NOFLEX	_
+5	ma	que	NOFLEX	_
+6	twessel	arriver	VERB	_
+7	l’rass	la rue	NOUN	_
+8	zen9a	Zen9a	NOUN	_
+9	ghadi	vous allez	VERB	_
+10	tjeber	tourner	VERB	_
+11	do	à gauche	NOUN	_
+12	l’7mer	rouge	NOUN	_
+13	dour	continuez	VERB	_
+14	m3ah	avec	NOFLEX	_
+15	3la	sur	NOFLEX	_
+16	limen	la droite	NOUN	_
+
+# sent_id = a.5
+# text = O menbe3d?
+# trad_fr = Et ensuite ?
+1	O	Et	NOFLEX	_
+2	menbe3d	ensuite	NOFLEX	_
+
+# sent_id = a.6
+# text = Bash tbanlik wa7ed l’me7laba 9baltek, dor 3liha 3la liser.
+# trad_fr = Pour obtenir une clé devant vous, tournez-la à droite.
+1	Bash	Pour	NOFLEX	_
+2	tbanlik	voir	VERB	_
+3	wa7ed	une	NOUN	_
+4	l’me7laba	clé	NOUN	_
+5	9baltek	devant vous	NOFLEX	_
+6	dor	tournez	VERB	_
+7	3liha	la	NOFLEX	_
+8	3la	à	NOFLEX	_
+9	liser	droite	NOUN	_
+
+# sent_id = a.7
+# text = Wach fTri9 l’banka?
+# trad_fr = Est-ce que la banque est loin ?
+1	Wach	Est-ce que	NOFLEX	_
+2	fTri9	loin	NOUN	_
+3	l’banka	la banque	NOUN	_
+
+# sent_id = a.8
+# text = 9bel ma twesel l’banka, raha mabin l’pisri o l’mesbana.
+# trad_fr = Avant d'arriver à la banque, c'est entre le boucher et le boulanger.
+1	9bel	Avant	NOFLEX	_
+2	ma	que	NOFLEX	_
+3	twesel	arriver	VERB	_
+4	l’banka	la banque	NOUN	_
+5	raha	c'est	VERB	_
+6	mabin	entre	NOFLEX	P	_
+7	l’pisri	le boucher	NOUN	_
+8	o	et	NOFLEX	_
+9	l’mesbana	le boulanger	NOUN	_
+
+# sent_id = a.9
+# text = Mashi kayn wa7ed l’7emmam temak?
+# trad_fr = Il n'y a pas une mosquée sur votre chemin ?
+1	Mashi	Il n'y a pas	NOFLEX	_
+2	kayn	une	VERB	_
+3	wa7ed	un	NOFLEX	_
+4	l’7emmam	mosquée	NOUN	_
+5	temak	la-bas	NOFLEX	_
+
+# sent_id = a.10
+# text = La, rah fdher dyalha.
+# trad_fr = Non, son entrée est à l'arrière.
+1	La	Non	NOFLEX	_
+2	rah	son	VERB	_
+3	fdher	entrée	NOFLEX	_
+4	dyalha	est à l'arrière	NOUN	_
+
+# sent_id = a.11
+# text = Ah safi 3reftha fin jat, llah ir7am lik l’walidin
+# trad_fr = Ah, enfin j'ai su où elle est, que Dieu ait pitié de vos parents.
+1	Ah	Ah	NOFLEX	_
+2	safi	enfin	NOFLEX	_
+3	3reftha	j'ai su	VERB	_
+4	fin	où	NOFLEX	_
+5	jat	elle est	VERB	_
+6	llah	Dieu	NOFLEX	_
+7	ir7am	pitié	VERB	_
+8	lik	pour toi	NOUN	_
+9	l’walidin	parents	NOUN	_
+
+# sent_id = a.12
+# text = Makayn ta moushkil, llah ishafi.
+# trad_fr = Il n'y a pas de problème, que Dieu te guérisse.
+1	Makayn	Il n'y a	NOFLEX	_
+2	ta	aucun	DEP	_
+3	moushkil	problème	NOUN	_
+4	llah	Dieu	NOFLEX	_
+5	ishafi	guérisse	VERB	_
+
+# sent_id = a.13
+# text = Amine.
+# trad_fr = Amen.
+1	Amine	Amen	NOFLEX	_
+
+# sent_id = b.1
+# text = Khoya wa7ed d9i9a. layjazik bl khir, ana machi men hna o bghit nsowlek 3la tri9.
+# trad_fr = Mon frère, une assise. Que Dieu te récompense de bien, je ne suis pas d'ici et je veux te demander le chemin.
+1	Khoya	Mon frère	NOUN	_
+2	wa7ed	un	NOFLEX	_
+3	d9i9a	minute	NOUN	_
+4	layjazik	Que Dieu te récompense	NOFLEX	_
+5	bl	avec	NOFLEX	_
+6	khir	bien	NOUN	_
+7	ana	je	NOUN	_
+8	machi	pas	NOFLEX	_
+9	men	de	NOFLEX	_
+10	hna	ici	NOFLEX	_
+11	o	et	NOFLEX	_
+12	bghit	je veux	VERB	_
+13	nsowlek	demander	VERB	_
+14	3la	sur	NOFLEX	_
+15	tri9	chemin	NOUN	_
+
+# sent_id = b.2
+# text = Mer7ba, sowel?
+# trad_fr = Bienvenue, demandez ?
+1	Mer7ba	Bienvenue	NOFLEX	_
+2	sowel	demandez	VERB	_
+
+# sent_id = b.3
+# text = yalah 7etni lcar o bghit chi blassa fiha dyor dial lekra.
+# trad_fr = Allez, montrez-moi la carte et donnez-moi une place avec une vue sur la cour intérieure.
+1	yalah	Allez	NOFLEX	_
+2	7etni	montrez-moi	VERB	_
+3	lcar	la carte	NOUN	_
+4	o	et	NOFLEX	_
+5	bghit	je veux	VERB	_
+6	chi	une	NOUN	_
+7	blassa	place	NOUN	_
+8	fiha	avec	NOFLEX	_
+9	dyor	maisons	NOUN	_
+10	dial	de	NOFLEX	_
+11	lekra	location	NOUN	_
+
+# sent_id = b.4
+# text = kina wa7ed l mra katkri dyor 9riba men hna. chi khemssa o khmssin d9i9a 3la rjlik.
+# trad_fr = Nous étions une fois en train de parler de la cour ici. Il y a cinquante-cinq places assises près de vous.
+1	kina	Nous étions	VERB	_
+2	wa7ed	un	NOFLEX	_
+3	l	le	NOUN	_
+4	mra	femme	NOUN	_
+5	katkri	parler	VERB	_
+6	dyor	cour	NOUN	_
+7	9riba	pres	NOFLEX	_
+8	men	de	NOFLEX	_
+9	hna	ici	NOFLEX	_
+10	chi	environ	NOFLEX	_
+11	khemssa	cinq	NOFLEX	_
+12	o	et	NOFLEX	_
+13	khmssin	cinquante	NOFLEX	_
+14	d9i9a	assise	NOUN	_
+15	3la	sur	NOFLEX	_
+16	rjlik	vous	NOUN	_
+
+# sent_id = b.5
+# text = machi b3ida chuia?
+# trad_fr = Pas très loin, n'est-ce pas ?
+1	machi	pas	NOFLEX	_
+2	b3ida	loin	NOUN	_
+3	chuia	un peu	NOFLEX	_
+
+# sent_id = b.6
+# text = chuia, walakin dyor rkhass temak. Ila bghiti kina wa7ed dar ghir hnaya walakin ghalya chuia.
+# trad_fr = Un peu, mais la cour est spéciale. Si vous voulez, nous avons une maison juste ici mais un peu chère.
+1	chuia	un peu	NOFLEX	_
+2	walakin	mais	NOFLEX	_
+3	dyor	cour	NOUN	_
+4	rkhass	spéciale	NOUN	_
+5	temak	est	NOFLEX	_
+6	Ila	Si	NOFLEX	_
+7	bghiti	vous voulez	VERB	_
+8	kina	Nous avons	VERB	_
+9	wa7ed	un	NOFLEX	_
+10	dar	maison	NOUN	_
+11	ghir	juste	NOFLEX	_
+12	hnaya	ici	NOFLEX	_
+13	walakin	mais	NOFLEX	_
+14	ghalya	chère	NOUN	_
+15	chuia	un peu	NOFLEX	_
+
+# sent_id = b.7
+# text = ch7al Ta9riban?
+# trad_fr = Combien à peu près ?
+1	ch7al	Combien	NOFLEX	_
+2	Ta9riban	à peu près	NOFLEX	_
+
+# sent_id = b.8
+# text = chi seb3alaf ryal l lila.
+# trad_fr = Environ mille dirhams par nuit.
+1	chi	Environ	NOFLEX	_
+2	seb3alaf	sept-mille	NOFLEX	_
+3	ryal	dirhams	NOUN	_
+4	l	la	NOUN	_
+5	lila	nuit	NOUN	_
+
+# sent_id = b.9
+# text = floss mojoda. fin jat had dar o chnu 7daha?
+# trad_fr = Des toilettes disponibles. Où est cette porte et qu'est-ce qu'elle a ?
+1	floss	argents	NOUN	_
+2	mojoda	disponibles	NOUN	_
+3	fin	Où	NOFLEX	_
+4	jat	est	VERB	_
+5	had	cette	NOUN	_
+6	dar	porte	NOUN	_
+7	o	et	NOFLEX	_
+8	chnu	qu'est-ce que	NOUN	_
+9	7daha	à côté	NOFLEX	_
+
+# sent_id = b.10
+# text = jat f centre, 7daha blaka dial tobiss o comissaria,o 9issariya o swi9a.
+# trad_fr = Elle est au centre, elle a à côté une pharmacie et un commissariat, une poste et une police.
+1	jat	est	VERB	_
+2	f	au	NOFLEX	_
+3	centre	centre	NOUN	_
+4	7daha	à côté	NOFLEX	_
+5	blaka	signe	NOUN	_
+6	dial	de	NOFLEX	_
+7	tobiss	pharmacie	NOUN	_
+8	o	et	NOFLEX	CC	_
+9	comissaria	commissariat	NOUN	_
+10	o	et	NOFLEX	_
+11	9issariya	poste	NOUN	_
+12	o	et	NOFLEX	_
+13	swi9a	police	NOUN	_
+
+# sent_id = b.11
+# text = hiya blassa cha3biya.
+# trad_fr = C'est une place publique.
+1	hiya	c'est	NOUN	_
+2	blassa	place	NOUN	_
+3	cha3biya	publique	NOUN	_
+
+# sent_id = b.12
+# text = sara7a machi bzaf, walakin calme bzaf.
+# trad_fr = En fait, ce n'est pas beaucoup, mais c'est très calme.
+1	sara7a	En fait	NOFLEX	_
+2	machi	pas	NOFLEX	_
+3	bzaf	beaucoup	NOFLEX	_
+4	walakin	mais	NOFLEX	_
+5	calme	calme	NOUN	_
+6	bzaf	très	NOFLEX	_
+
+# sent_id = b.13
+# text = wakha werini mnin nemchi liha 3afak.
+# trad_fr = Ok, montre-moi où aller s'il te plaît.
+1	wakha	Ok	NOFLEX	_
+2	werini	montre-moi	VERB	_
+3	mnin	où	NOFLEX	_
+4	nemchi	aller	VERB	_
+5	liha	s'il te plaît	NOUN	_
+
+# sent_id = b.14
+# text = ghadi temchi men hna nichan tal rass derb, ghadi dor 3la lisser, o tzid chuia o dor m3a awal dawra 3la limen. B9a ghadi towala tal rond-point. Adouz men lkharja talta o ghadi tl9aha f chouka.
+# trad_fr = Vous allez partir d'ici directement à la rue derb, vous allez tourner à gauche sur la droite, puis un peu et tourner avec le premier tour sur la droite. Après, vous allez atteindre le rond-point. Sortez de la sortie gauche et vous la trouverez dans le coin.
+1	ghadi	Vous allez	VERB	_
+2	temchi	partir	VERB	_
+3	men	de	NOFLEX	_
+4	hna	ici	NOFLEX	_
+5	nichan	directement	NOFLEX	_
+6	tal	à la	NOFLEX	_
+7	rass	rue	NOUN	_
+8	derb	derb	NOUN	_
+9	ghadi	vous allez	VERB	_
+10	dor	tourner	VERB	_
+11	3la	à droite	NOFLEX	_
+12	lisser	la droite	NOUN	_
+13	o	et	NOFLEX	_
+14	tzid	avancer	VERB	_
+15	chuia	un peu	NOFLEX	_
+16	dor	tourner	VERB	_
+17	m3a	avec	NOFLEX	_
+18	awal	premier	NOUN	_
+19	dawra	tour	NOUN	_
+20	3la	sur	NOFLEX	_
+21	limen	la droite	NOUN	_
+22	B9a	Après	VERB	_
+23	ghadi	vous allez	VERB	_
+24	towala	tout droit	NOFLEX	_
+25	tal	jusqu'a	NOFLEX	_
+26	Adouz	Sortez	VERB	_
+27	men	de	NOFLEX	_
+28	lkharja	sortie	NOUN	_
+29	talta	troisieme	NOUN	_
+30	o	et	NOFLEX	_
+31	ghadi	vous allez	VERB	_
+32	tl9aha	trouver	VERB	_
+33	f	dans	NOFLEX	_
+34	chouka	coin	NOUN	_
+
+# sent_id = b.15
+# text = lay7arm lik lwalidin.
+# trad_fr = Saluez vos parents.
+1	lay7arm	Saluez	VERB	_
+2	lik	pour toi	NOUN	_
+3	lwalidin	parents	NOUN	_
+
+# sent_id = b.16
+# text = waladina o walidik.
+# trad_fr = Nos parents et les votres.
+1	waladina	père	NOUN	_
+2	o	et	NOFLEX	_
+3	walidik	mère	NOUN	_
+
+# sent_id = c.1
+# text = Salam ana db f y w bghit nmchi l x. w9tach tkon 3ndi ?
+# trad_fr = Salut, je suis en à Y et je veux aller à X. Quelle heure vas-tu arriver?
+1	Salam	Salut	NOFLEX	_
+2	ana	je	NOUN	_
+3	daba	en train de	NOFLEX	_
+4	f	à	NOFLEX	_
+5	y	y	NOFLEX	_
+6	w	et	NOFLEX	_
+7	bghit	je veux	VERB	_
+8	nmchi	aller	VERB	_
+9	l	à	NOFLEX	_
+10	x	x	NOFLEX	_
+11	w9tach	Quelle heure	NOFLEX	_
+12	tkon	tu seras	VERB	_
+13	3ndi	chez moi	NOFLEX	_
+
+# sent_id = c.2
+# text = ana 9rib lik wa7d 9sm w nkon 3ndk.
+# trad_fr = Je suis près de toi dans environ 5 minutes et je serai là.
+1	ana	Je	NOUN	_
+2	9rib	près	NOUN	_
+3	lik	de toi	NOFLEX	_
+4	wa7d	environ	NOFLEX	_
+5	9sm	minutes	NOUN	_
+6	w	et	NOFLEX	_
+7	nkon	serai	VERB	_
+8	3ndk.	chez toi	NOFLEX	_
+
+# sent_id = c.3
+# text = wslti. 3la 7ssab l conteur jatk 25dh.
+# trad_fr = D'accord, selon le compteur, il est 25 heures.
+1	wslti	t'es arrvié	VERB	_
+2	3la	selon	NOFLEX	_
+3	7ssab	compteur	NOUN	_
+4	l	le	NOUN	_
+5	conteur	compteur	NOUN	_
+6	jatk	il est	VERB	_
+7	25dh	25dh	NOFLEX	_
+
+# sent_id = c.4
+# text = tfdl.
+# trad_fr = S'il vous plaît.
+1	tfdl.	S'il vous plaît.	NOFLEX	_
+
+# sent_id = c.5
+# text = salam ! 3afak wach t9dr tn3t lia restaurant taliani jdid ?
+# trad_fr = Salut ! S'il vous plaît, pouvez-vous me dire si vous pouvez réserver pour le nouveau restaurant italien ?
+1	salam	Salut!	NOFLEX	_
+2	3afak	S'il vous plaît	NOFLEX	_
+3	wach	est-ce que	NOUN	_
+4	t9dr	pouvez-vous	VERB	_
+5	tn3t	réserver	VERB	_
+6	lia	pour moi	NOFLEX	_
+7	restaurant	restaurant	NOUN	_
+8	taliani	italien	NOUN	_
+9	jdid	neuf	NOUN	_
+
+# sent_id = c.6
+# text = m3lom ! sir nichan m3a chari3, dor 3la lisr dial lpoto dial do, w ghatl9ah 3la limn dialk.
+# trad_fr = Bien sûr ! Veuillez juste avec patience, cherchez la liste des plats du menu du jour, et elle sera sur votre écran.
+1	m3lom	bien sûr	NOFLEX	_
+2	sir	Veuillez	VERB	_
+3	nichan	juste	NOFLEX	_
+4	m3a	avec	NOFLEX	_
+5	chari3	rue	NOUN	_
+6	dor	tourne	VERB	_
+7	3la	sur	NOFLEX	_
+8	lisr	gauche	NOUN	_
+9	dial	des	NOFLEX	_
+10	lpoto	plats	NOUN	_
+11	dial	de	NOFLEX	_
+12	do	lumiere	NOUN	_
+12	w	et	NOFLEX	_
+13	ghatl9ah	tu le trouveras	VERB	_
+14	3la	sur	NOFLEX	_
+15	limn	droite	NOUN	_
+16	dialk	votre	NOUN	_
+
+# sent_id = c.7
+# text = choukran bsaf!
+# trad_fr = Merci beaucoup !
+1	choukran	Merci	NOUN	_
+2	bsaf	beaucoup	NOFLEX	_
+
+# sent_id = a.1
+# text = Salam a khoya, sh7al ntouma?
+# trad_fr = Bonjour mon frère, combien êtes vous?
+1	Salam	Salam	NOFLEX	_
+2	a	à	NOFLEX	_
+3	khoya	frère	NOUN	_
+4	sh7al	combien	NOFLEX	_
+5	ntouma	vous	NOUN	_
+
+# sent_id = a.2
+# text = Salam, 7na reb3a
+# trad_fr = Bonjour, nous sommes quatre
+1	Salam	Salam	NOFLEX	_
+2	7na	nous	NOUN	_
+3	reb3a	quatre	NOFLEX	_
+
+# sent_id = a.3
+# text = Wakha, tfedlo hna. D9i9a o ana m3akom 
+# trad_fr = D'accord, venez ici. Asseyez-vous et je suis avec vous
+1	Wakha	D'accord	NOFLEX	_
+2	tfedlo	venez	VERB	_
+3	hna	ici	NOFLEX	_
+4	D9i9a	minute	NOUN	_
+5	o	et	NOFLEX	_
+6	ana	je	NOUN	_
+7	m3akom	avec vous	NOUN	_
+
+# sent_id = a.4
+# text = Salam, ch7eb lkhater?
+# trad_fr = Bonjour, comment allez-vous ?
+1	Salam	Salam	NOFLEX	_
+2	ch7eb	comment	NOFLEX	_
+3	lkhater	allez-vous	NOUN	_
+
+# sent_id = a.5
+# text = Chnu 3ndkom f twajen?
+# trad_fr = Qu'avez-vous dans les plats ?
+1	Chnu	Qu'est ce que	NOUN	_
+2	3ndkom	vous avez	VERB	_
+3	f	dans	NOFLEX	_
+4	twajen	plats	NOUN	_
+
+# sent_id = a.6
+# text = Kayn tajin dial khodra, dial bgri, djaj, ghenmi, o kayn ta dial l7out, l7em bl bar9o9, o kayn kefta b maticha.
+# trad_fr = Il y a du tajine de légumes, d'aubergine, de poulet, d'agneau, et il y en a aussi du poisson, du pigeon au citron et du kefta à la tomate.
+1	Kayn	Il y a	VERB	_
+2	tajin	tajine	NOUN	_
+3	dial	de	NOFLEX	_
+4	khodra	légumes	NOUN	_
+5	dial	de	NOFLEX	_
+6	bgri	aubergine	NOUN	_
+7	djaj	poulet	NOUN	_
+8	ghenmi	agneau	NOUN	_
+9	o	et	NOFLEX	_
+10	kayn	Il y en a	VERB	_
+11	ta	aussi	NOFLEX	_
+12	dial	de	NOFLEX	_
+13	l7out	poisson	NOUN	_
+14	l7em	pigeon	NOUN	_
+15	bl	au	NOFLEX	_
+16	bar9o9	citron	NOUN	_
+17	o	et	NOFLEX	_
+18	kayn	Il y a	VERB	_
+19	kefta	kefta	NOUN	_
+20	b	à la	NOFLEX	_
+21	maticha	tomate	NOUN	_
+
+# sent_id = a.7
+# text = Wakha chnu kikoun f tajine dial khodra
+# trad_fr = D'accord, qu'est-ce qui est dans le tajine de légumes ?
+1	Wakha	D'accord	NOFLEX	_
+2	chnu	Qu'est ce que	NOUN	_
+3	kikoun	il y a	VERB	_
+4	f	dans	NOFLEX	_
+5	tajine	tajine	NOUN	_
+6	dial	de	NOFLEX	_
+7	khodra	légumes	NOUN	_
+
+# sent_id = a.8
+# text = Kikoun fih khizo, btata, ger3a, o zitoun. Imkelik tzid fih l7am ola djaj ila bghiti.
+# trad_fr = Qu'y a-t-il dedans ? Des carottes, des pommes de terre, des pois chiches, et des olives. Tu peux y ajouter de la viande ou du poulet si tu veux.
+1	Kikoun	Il y a	VERB	_
+2	fih	en lui	NOFLEX	_
+3	khizo	carottes	NOUN	_
+4	btata	pommes de terre	NOUN	_
+5	ger3a	pois chiches	NOUN	_
+6	o	et	NOFLEX	_
+7	zitoun	olives	NOUN	_
+8	Imkelik	Tu peux	VERB	_
+9	tzid	ajouter	VERB	_
+10	fih	y	NOFLEX	_
+11	l7am	viande	NOUN	_
+12	ola	ou	NOFLEX	_
+13	djaj	poulet	NOUN	_
+14	ila	si	NOFLEX	_
+15	bghiti	tu veux	VERB	_
+
+# sent_id = a.9
+# text = 3tini wa7ed tajine sghir dial djaj laykhlik.
+# trad_fr = Donne-moi un petit tajine de poulet comme tu veux.
+1	3tini	Donne-moi	VERB	_
+2	wa7ed	un	NOFLEX	_
+3	tajine	tajine	NOUN	_
+4	sghir	petit	NOUN	_
+5	dial	de	NOFLEX	_
+6	djaj	poulet	NOUN	_
+7	laykhlik	s'il te plait	NOFLEX	_
+
+# sent_id = a.10
+# text = Mer7ba, o nta asidi ?
+# trad_fr = Bienvenue, comment ça va ?
+1	Mer7ba	Bien sur	NOFLEX	_
+2	o	et	NOFLEX	_
+3	nta	tu	NOUN	_
+4	asidi	monsieur	NOUN	_
+
+# sent_id = a.11
+# text = Ana jib lia tajine dial kefta o zid lia fih jouj bidat
+# trad_fr = Je t'apporte un tajine de kefta et en plus il y a des œufs.
+1	Ana	moi	NOUN	_
+2	jib	apporte	VERB	_
+3	lia	pour moi	NOUN	_
+4	tajine	tajine	NOUN	_
+5	dial	de	NOFLEX	_
+6	kefta	kefta	NOUN	_
+7	o	et	NOFLEX	_
+8	zid	ajoute	VERB	_
+9	lia	pour moi	NOUN	_
+10	fih	dedans	NOFLEX	_
+11	jouj	deux	NOFLEX	_
+12	bidat	oeufs	NOUN	_
+
+# sent_id = a.12
+# text = Mer7ba a sidi.
+# trad_fr = Bien sur monsieur.
+1	Mer7ba	bien sur	NOFLEX	_
+2	a	à	NOFLEX	_
+3	sidi	monsieur	NOUN	_
+
+# sent_id = a.13
+# text = Ana 3tini chi zlafa dial bissara
+# trad_fr = Je voudrais une cuillère pour la soupe.
+1	Ana	moi	NOUN	_
+2	3tini	Donne-moi	VERB	_
+3	chi	un	NOUN	_
+4	zlafa	bol	NOUN	_
+5	dial	de	NOFLEX	_
+6	bissara	soupe	NOUN	_
+
+# sent_id = a.14
+# text = Hiya lowla.
+# trad_fr = Elle est la première.
+1	Hiya	Elle	NOUN	_
+2	lowla	première	NOUN	_
+
+# sent_id = a.15
+# text = Ana ghir chi chlada.
+# trad_fr = Je veux juste une bouteille.
+1	Ana	moi	NOUN	_
+2	ghir	seulement	NOFLEX	_
+3	chi	une	NOUN	_
+4	chlada	salade	NOUN	_
+
+# sent_id = a.16
+# text = Atbghiw tsherbou chi 7aja?
+# trad_fr = Voulez-vous boire quelque chose ?
+1	Atbghiw	Voulez-vous	VERB	_
+2	tsherbou	boire	VERB	_
+3	chi	quelque	NOUN	_
+4	7aja	chose	NOUN	_
+
+# sent_id = a.17
+# text = 9er3a dial ma sghira, o wahed coka kbira.
+# trad_fr = Un verre d'eau petite et un grand coca.
+1	9er3a	une bouteille	NOUN	_
+2	dial	de	NOFLEX	_
+3	ma	eau	NOUN	_
+4	sghira	petite	NOUN	_
+5	o	et	NOFLEX	_
+6	wahed	un	NOFLEX	_
+7	coka	coca	NOUN	_
+8	kbira	grand	NOUN	_
+
+# sent_id = a.18
+# text = Ça marche
+# trad_fr = Ça marche
+1	Ça	ça	NOUN	_
+2	marche	marche	VERB	_
+
+# sent_id = b.1
+# text = Mer7ba bik a sidi, ch7eb lkhater
+# trad_fr = Bienvenue monsieur, comment allez-vous ?
+1	Mer7ba	Bienvenue	NOFLEX	_
+2	bik	à toi	NOUN	_
+3	a	à	NOFLEX	_
+4	sidi	monsieur	NOUN	_
+5	ch7eb	comment	NOFLEX	_
+6	lkhater	allez-vous	NOUN	_
+
+# sent_id = b.2
+# text = Chnu 3ndkom fl menu?
+# trad_fr = Qu'avez-vous au menu ?
+1	Chnu	Qu'est ce que	NOUN	_
+2	3ndkom	vous avez	VERB	_
+3	fl	dans	NOFLEX	_
+4	menu	menu	NOUN	_
+
+# sent_id = b.3
+# text = Kin twajen, sandwichat, tacos, o pizza.
+# trad_fr = Nous avons des sandwichs, des tacos et des pizzas.
+1	Kin	Nous avons	VERB	_
+2	twajen	sandwichs	NOUN	_
+3	sandwichat	sandwichs	NOUN	_
+4	tacos	tacos	NOUN	_
+5	o	et	NOFLEX	_
+6	pizza	pizzas	NOUN	_
+
+# sent_id = b.4
+# text = Chnu anwa3 dial pizza?
+# trad_fr = Quels types de pizza/sandwichs/tacos/sandwichs avez-vous ?
+1	Chnu	Quels	NOUN	_
+2	anwa3	types	NOUN	_
+3	dial	de	NOFLEX	_
+4	pizza/sandwich/tacos/sandwichs	pizza/sandwichs/tacos/sandwichs	NOUN	NC	_
+5	li	que	NOUN	_
+6	kaynin	avez-vous	VERB	_
+
+# sent_id = b.5
+# text = Kin pizza thon, pizza margarita, pizza fruits de mer, pizza peperoni, o pizza kefta.
+# trad_fr = Nous avons de la pizza au thon, pizza margarita, pizza VERB fruits de mer, pizza au pepperoni et pizza à la kefta.
+1	Kin	Nous avons	VERB	_
+2	pizza	pizza	NOUN	_
+3	thon	thon	NOUN	_
+4	pizza	pizza	NOUN	_
+5	margarita	margarita	NOUN	_
+6	pizza	pizza	NOUN	_
+7	fruits	de fruits	NOUN	_
+8	de	de	NOFLEX	_
+9	mer	de mer	NOUN	_
+10	pizza	pizza	NOUN	_
+11	peperoni	pepperoni	NOUN	_
+12	o	et	NOFLEX	_
+13	pizza	pizza	NOUN	_
+14	kefta	kefta	NOUN	_
+
+# sent_id = b.6
+# text = 3tini 3afak pizza kefta.
+# trad_fr = Donne-moi s'il te plaît pizza viande hachée.
+1	3tini	Donne-moi	VERB	_
+2	3afak	s'il te plaît	NOFLEX	_
+3	pizza	pizza	NOUN	_
+4	kefta	viande hachée	NOUN	_
+
+# sent_id = b.7
+# text = Mer7ba.
+# trad_fr = Bienvenue.
+1	Mer7ba	Bien sur	NOFLEX	_
+
+# sent_id = c.1
+# text = Salam
+# trad_fr = Salut
+1	Salam	Salut	NOFLEX	_
+
+# sent_id = c.2
+# text = wa 3alaikum salam
+# trad_fr = Et sur vous soit la paix
+1	wa	Et	NOFLEX	_
+2	3alaikum	sur vous	NOUN	_
+3	salam	la paix	NOUN	_
+
+# sent_id = c.3
+# text = Chnu 7eb lkhater a sidi
+# trad_fr = Qu'est-ce que vous voulez, monsieur ?
+1	Chnu	Qu'est-ce que	NOUN	_
+2	7eb	voulez	VERB	_
+3	lkhater	_	NOUN	_
+4	a	à	NOFLEX	_
+5	sidi	monsieur	NOUN	_
+
+# sent_id = c.4
+# text = chnu 3endek fl menu?
+# trad_fr = Qu'est-ce que vous avez au menu ?
+1	chnu	Qu'est-ce que	NOUN	_
+2	3endek	avez	VERB	_
+3	fl	au	NOFLEX	_
+4	menu	menu	NOUN	_
+
+# sent_id = c.5
+# text = Kin twajen, sandwichat, tacos, o pizza
+# trad_fr = Nous avons des tajines, des sandwichs, des tacos et des pizzas
+1	Kin	Nous avons	VERB	_
+2	twajen,	tajines,	NOUN	_
+3	sandwichat,	sandwichs,	NOUN	_
+4	tacos,	tacos,	NOUN	_
+5	o	et	NOFLEX	_
+6	pizza	pizzas	NOUN	_
+
+# sent_id = c.6
+# text = Chnu anwa3 dial twajen li kaynin?
+# trad_fr = Quels types de tajines avez-vous ?
+1	Chnu	Quels	NOUN	_
+2	anwa3	types	NOUN	_
+3	dial	de	NOFLEX	_
+4	twajen	tajines	NOUN	_
+5	li	que	NOUN	_
+6	kaynin	avez-vous	VERB	_
+
+# sent_id = c.7
+# text = Kin tajine dial l7am o tajine dial djaj.
+# trad_fr = Nous avons du tajine d'agneau et du tajine de poulet.
+1	Kin	Nous avons	VERB	_
+2	tajine	tajine	NOUN	_
+3	dial	de	NOFLEX	_
+4	l7am	agneau	NOUN	_
+5	o	et	NOFLEX	_
+6	tajine	tajine	NOUN	_
+7	dial	de	NOFLEX	_
+8	djaj	poulet	NOUN	_
+
+# sent_id = c.8
+# text = 3tini 3afak tajine dial djaj
+# trad_fr = Donne-moi s'il te plaît un tajine de poulet.
+1	3tini	Donne-moi	VERB	_
+2	3afak	s'il te plaît	NOFLEX	_
+3	tajine	tajine	NOUN	_
+4	dial	de	NOFLEX	_
+5	djaj	poulet	NOUN	_
+
+
+# sent_id = c.9
+# text = Chnu anwa3 dial sandwitchat li kaynin?
+# trad_fr = Quels types de sandwichs avez-vous ?
+1	Chnu	Quels	NOUN	_
+2	anwa3	types	NOUN	_
+3	dial	de	NOFLEX	_
+4	sandwitchat	sandwichs	NOUN	_
+5	li	que	NOUN	_
+6	kaynin	avez-vous	VERB	_
+
+# sent_id = c.10
+# text = Kin sandwich thon, sandwich kefta, o sandwich djaj.
+# trad_fr = Nous avons des sandwichs au thon, au kefta et au poulet.
+1	Kin	Nous avons	VERB	_
+2	sandwich	sandwich	NOUN	_
+3	thon	thon	NOUN	_
+4	sandwich	sandwich	NOUN	_
+5	kefta	viande hachée	NOUN	_
+3	o	et	NOFLEX	_
+4	sandwich	sandwich	NOUN	_
+5	djaj	poulet	NOUN	_
+
+# sent_id = c.11
+# text = Chnu anwa3 dial tacos li kaynin?
+# trad_fr = Quels types de tacos avez-vous ?
+1	Chnu	Quels	NOUN	_
+2	anwa3	types	NOUN	_
+3	dial	de	NOFLEX	_
+4	tacos	tacos	NOUN	_
+5	li	que	NOUN	_
+6	kaynin	avez-vous	VERB	_
+
+# sent_id = c.12
+# text = Kin tacos kefta, tacos djaj, ola tacos mixte
+# trad_fr = Nous avons des tacos au kefta, au poulet, ou mixtes.
+1	Kin	Nous avons	VERB	_
+2	tacos	tacos	NOUN	_
+3	kefta	viande hachée	NOUN	_
+4	tacos	tacos	NOUN	_
+5	djaj	poulet	NOUN	_
+6	ola	ou	NOFLEX	_
+7	tacos	tacos	NOUN	_
+8	mixte	mixtes	NOUN	_
+
+# sent_id = c.13
+# text = Chnu anwa3 dial pizza li kaynin?
+# trad_fr = Quels types de pizza avez-vous ?
+1	Chnu	Quels	NOUN	_
+2	anwa3	types	NOUN	_
+3	dial	de	NOFLEX	_
+4	pizza	pizza	NOUN	_
+5	li	que	NOUN	_
+6	kaynin	avez-vous	VERB	_
+
+# sent_id = c.14
+# text = Kin pizza thon, pizza margarita, pizza fruits de mer, pizza peperoni, o pizza kefta.
+# trad_fr = Nous avons des pizzas au thon, margarita, fruits de mer, pepperoni, ou kefta.
+1	Kin	Nous avons	VERB	_
+2	pizza	pizza	NOUN	_
+3	thon	thon,	NOUN	_
+4	pizza	pizza	NOUN	_
+5	margarita	margarita	NOUN	_
+6	pizza	pizza	NOUN	_
+7	fruits	fruits	NOUN	_
+8	de	de	NOFLEX	_
+9	mer	mer	NOUN	_
+10	pizza	pizza	NOUN	_
+11	peperoni	pepperoni	NOUN	_
+12	o	et	NOFLEX	_
+13	pizza	pizza	NOUN	_
+14	kefta	viande hachée	NOUN	_
+
+# sent_id = c.15
+# text = 3tini 3afak _
+# trad_fr = Donne-moi s'il te plaît une pizza peperoni.
+1	3tini	Donne-moi	VERB	_
+2	3afak	s'il te plaît	NOFLEX	_
+3	pizza	pizza	NOUN	_
+4	peperoni	pepperoni	NOUN	_
+
+# sent_id = a.1
+# text = Salam 3alikum, aji tfedel ldakhel
+# trad_fr = Salut, viens à l'intérieur s'il te plaît
+1	Salam	Salut	NOFLEX	_	_
+2	3alikum	à toi	NOUN	_	_
+3	aji	viens	VERB	_	_
+4	tfedel	entre	VERB	_	_
+5	ldakhel	intérieur	NOUN	_	_
+
+# sent_id = a.2
+# text = Bismillah
+# trad_fr = Au nom de Dieu
+1	Bismillah	Au nom de Dieu	NOFLEX	_	_
+
+# sent_id = a.3
+# text = Yallah nebdaw men lcouzina 3el lisser
+# trad_fr = Allez, commençons de la cuisine vers la gauche
+1	Yallah	Allez	NOFLEX	_	_
+2	nebdaw	començons	VERB	_	_
+3	men	de	NOFLEX	P	_
+4	lcouzina	la cuisine	NOUN	_	_
+5	3el	vers	NOFLEX	_	_
+6	lisser	gauche	NOUN	_	_
+
+# sent_id = a.4
+# text = Couzina was3a, fin hiya blast tellaja?
+# trad_fr = Une cuisine spacieuse, où est la place pour le frigo ?
+1	Couzina	Cuisine	NOUN	_	_
+2	was3a	spacieuse	NOUN	_	_
+3	fin	où	NOFLEX	_	_
+4	hiya	est	VERB	_	_
+5	blast	place	NOUN	_	_
+6	tellaja	frigo	NOUN	_	_
+
+# sent_id = a.5
+# text = Raha morak, w lbota w lferan ha Houma 7da dekhla dyal byt lmakla.
+# trad_fr = Elle est derrière vous, et la cuisinière et le four sont à côté de l'entrée de la salle à manger
+1	Raha	Elle est	NOFLEX	_	_
+2	morak	derrière vous	NOUN	_	_
+3	w	et	NOFLEX	_	_
+4	lbota	cuisinière	NOUN	_	_
+5	w	et	NOFLEX	_	_
+6	lferan	le four	NOUN	_	_
+7	ha	c'est	NOUN	_	_
+8	Houma	ils	NOUN	_	_
+9	7da	à côté	NOFLEX	_	_
+10	dekhla	l'entrée	NOUN	_	_
+11	dyal	de	NOFLEX	_	_
+12	byt	la salle	NOUN	_	_
+13	lmakla	à manger	NOUN	_	_
+
+# sent_id = a.6
+# text = Bota katkhdem b do oula bel gaz?
+# trad_fr = Est-ce que la cuisinière fonctionne à l'électricité ou au gaz ?
+1	Bota	cuisinière	NOUN	_	_
+2	katkhdem	fonctionne	VERB	_	_
+3	b	à	NOFLEX	_	_
+4	do	électricité	NOUN	_	_
+5	oula	ou	NOFLEX	_	_
+6	bel	au	NOFLEX	_	_
+7	gaz	gaz	NOUN	_	_
+
+# sent_id = a.7
+# text = Bota dyla lgaz.
+# trad_fr = la cuisinière fonctionne au gaz.
+1	Bota	cuisinière	NOUN	_	_
+2	dyla	fonctionne	NOFLEX	_	_
+3	lgaz	gaz	NOUN	_	_
+
+# sent_id = a.8
+# text = Wakha mzyan
+# trad_fr = D'accord, très bien
+1	Wakha	D'accord	NOFLEX	_	_
+2	mzyan	bien	NOFLEX	_	_
+
+# sent_id = a.9
+# text = 9balt lcouzina kayn salon beldi
+# trad_fr = Devant la cuisine, il y a un salon traditionnel
+1	9balt	Devant	NOFLEX	_	_
+2	lcouzina	la cuisine	NOUN	_	_
+3	kayn	il y a	VERB	_	_
+4	salon	salon	NOUN	_	_
+5	beldi	traditionnel	NOUN	_	_
+
+# sent_id = a.10
+# text = Tbarkellah. shrajem kebar
+# trad_fr = Félicitations. Les fenêtres sont grandes
+1	Tbarkellah	Félicitations	NOFLEX	_	_
+2	shrajem	fenêtres	NOUN	_	_
+3	kebar	grandes	NOUN	_	_
+
+# sent_id = a.11
+# text = Ayeh, dayrin 3la salon bash tkoun darba fiha shemsh nhar kamel.
+# trad_fr = Oui, ils font le tour du salon pour qu'il soit ensoleillé toute la journée.
+1	Ayeh	Oui	NOFLEX	_	_
+2	dayrin	font le tour	VERB	_	_
+3	3la	sur	NOFLEX	_	_
+4	salon	salon	NOUN	_	_
+5	bash	pour	NOFLEX	_	_
+6	tkoun	qu'il soit	VERB	_	_
+7	darba	ensoleillé	NOUN	_	_
+8	fiha	dedans	NOUN	_	_
+9	shemsh	soleil	NOUN	_	_
+10	nhar	journée	NOUN	_	_
+11	kamel	entière	NOUN	_	_
+
+# sent_id = a.12
+# text = Hadi mezyana
+# trad_fr = C'est joli
+1	Hadi	C'est	NOUN	_	_
+2	mezyana	joli	NOUN	_	_
+
+# sent_id = a.13
+# text = Ila mshiti 9baltek ayban lik salon tani, hada romi w fih blasa dyla telfaza 3la l7it limen. Yallah daba nshoufou lfou9 kidayr
+# trad_fr = Si vous allez avant vous trouverez une autre salon, celui-ci est moderne et dispose d'un emplacement pour la télévision sur le mur de droite. voyons à quoi ressemble l'étage supérieur
+1	Ila	Si	NOFLEX	_	_
+2	mshiti	vous allez	VERB	_	_
+3	9baltek	avant	NOFLEX	_	_
+4	ayban	trouverez	VERB	_	_
+5	lik	vous	NOUN	_	_
+6	salon	salon	NOUN	_	_
+7	tani	autre	NOUN	_	_
+8	hada	celui-ci	NOUN	_	_
+9	romi	moderne	NOUN	_	_
+10	w	et	NOFLEX	_	_
+11	fih	il y a	NOUN	_	_
+12	blasa	place	NOUN	_	_
+13	dyla	pour	NOFLEX	_	_
+14	telfaza	télévision	NOUN	_	_
+15	3la	sur	NOFLEX	_	_
+16	l7it	le mur	NOUN	_	_
+17	limen	droite	NOUN	_	_
+18	Yallah	Allez	NOFLEX	_	_
+19	daba	maintenant	NOFLEX	_	_
+20	nshoufou	voir	VERB	_	_
+21	lfou9	l'étage	NOUN	_	_
+
+# sent_id = a.14
+# text = Fin jaw drouj?
+# trad_fr = Où se trouve l'escalier ?
+1	Fin	Où	NOFLEX	_	_
+2	jaw	se trouve	VERB	_	_
+3	drouj	escalier	NOUN	_	_
+
+# sent_id = a.15
+# text = Kaynin 7da l7emmam li jiht dekhla. Lfou9 3endek tlata byout dn3ass o jouj 7emamat.
+# trad_fr = Ils sont à côté de la salle de bain près de l'entrée. A l'étage vous avez trois chambres et deux salles de bains
+1	Kaynin	Ils sont	VERB	_	_
+2	7da	à côté	NOFLEX	_	_
+3	l7emmam	salle de bain	NOUN	_	_
+4	li	qui	NOUN	_	_
+5	jiht	près	NOFLEX	_	_
+6	dekhla	l'entrée	NOUN	_	_
+7	Lfou9	L'étage	NOUN	_	_
+8	3endek	vous avez	VERB	_	_
+9	tlata	trois	NOFLEX	_	_
+10	byout	chambres	NOUN	_	_
+11	dn3ass	_	NOUN	_	_
+12	o	et	NOFLEX	_	_
+13	jouj	deux	NOFLEX	_	_
+14	7emamat	salles de bains	NOUN	_	_
+
+# sent_id = a.16
+# text = Kayn shi balcon?
+# trad_fr = Y a-t-il un balcon ?
+1	Kayn	Il y a	VERB	_	_
+2	shi	un	NOUN	_	_
+3	balcon	balcon	NOUN	_	_
+
+# sent_id = a.17
+# text = Kayna a sidi, kaTel 3la jerda kamla.
+# trad_fr = Oui monsieur, il donne sur tout le jardin.
+1	Kayna	Il y a	VERB	_	_
+2	a	à	NOUN	_	_
+3	sidi	monsieur	NOUN	_	_
+4	kaTel	couvre	VERB	_	_
+5	3la	sur	NOFLEX	_	_
+6	jerda	jardin	NOUN	_	_
+7	kamla	toute	NOUN	_	_
+
+# sent_id = a.18
+# text = Dar 3ejbatni, tilifoun binatna. Allahisekher, o allahijib tisir.
+# trad_fr = Cette maison me plaît, la connexion téléphonique est entre nous. Que Dieu nous apporte la facilité.
+1	Dar	Maison	NOUN	-	_
+2	3ejbatni	plaît	VERB	_	_
+3	tilifoun	téléphone	NOUN	_	_
+4	binatna	entre nous	NOFLEX	_	_
+5	Allahisekher	_	NOFLEX	_	_
+6	o	et	NOFLEX	_	_
+7	allahijib	_	NOFLEX	_	_
+8	tisir	facilité	NOUN	_	_
+
+# sent_id = b.1
+# text = Salam
+# trad_fr = Salut
+1	Salam	Salut	NOFLEX	_	_
+
+# sent_id = b.2
+# text = Wa 3alaikum salam, kifach n9dar n3awnek?
+# trad_fr = Et sur toi la paix, comment puis-je t'aider ?
+1	Wa	Et	NOFLEX	_	_
+2	3alaikum	sur toi	NOUN	_	_
+3	salam	paix	NOUN	_	_
+4	kifach	comment	NOFLEX	_	_
+5	n9dar	puis-je	VERB	_	_
+6	n3awnek	aider	VERB	_	_
+
+# sent_id = b.3
+# text = Bghit nchri partma
+# trad_fr = Je veux acheter un appartement
+1	Bghit	Je veux	VERB	_	_
+2	nchri	acheter	VERB	_	_
+3	partma	appartement	NOUN	_	_
+
+# sent_id = b.4
+# text = Mer7ba, 3endna tlata dial partmat, we7da sghira, we7da mtwessta, o we7da kbira.
+# trad_fr = Bienvenue, nous avons trois types d'appartements, un petit, un moyen, et un grand.
+1	Mer7ba	Bienvenue	NOFLEX	_	_
+2	3endna	nous avons	VERB	_	_
+3	tlata	trois	NOFLEX	_	_
+4	dial	de	NOFLEX	_	_
+5	partmat	appartements	NOUN	_	_
+6	we7da	un	NOFLEX	_	_
+7	sghira	petit	NOUN	_	_
+8	we7da	un	NOFLEX	_	_
+9	mtwessta	moyen	NOUN	_	_
+10	o	et	NOFLEX	_	_
+11	we7da	un	NOFLEX	_	_
+12	kbira	grand	NOUN	_	_
+
+# sent_id = b.5
+# text = Kidayra sghira?
+# trad_fr = Comment est la petite ?
+1	Kidayra	Comment est	VERB	_	_
+2	sghira	petite	NOUN	_	_
+
+# sent_id = b.6
+# text = Fiha bit wa7ed, toilette o douche, o cousina sghira.
+# trad_fr = Il a une chambre, toilette at douche, et une petite cuisine.
+1	Fiha	Il a	VERB	_	_
+2	bit	chambre	NOUN	_	_
+3	wa7ed	une	NOFLEX	_	_
+4	toilette	toilette	NOUN	_	_
+5	o	et	NOFLEX	_	_
+6	douche	douche	NOUN	_	_
+7	o	et	NOFLEX	_	_
+8	cousina	cuisine	NOUN	_	_
+9	sghira	petite	NOUN	_	_
+
+# sent_id = b.7
+# text = Fiha jouj byouta, toilette o douche, cousina, o salon.
+# trad_fr = Il a deux chambres, toilette at douche, cuisine, et salon.
+1	Fiha	Il a	VERB	_	_
+2	jouj	deux	NOFLEX	_	_
+3	byouta	chambres	NOUN	_	_
+4	toilette	toilette	NOUN	_	_
+5	o	at	NOFLEX	_	_
+6	douche	douche	NOUN	_	_
+7	cousina	cuisine	NOUN	_	_
+8	o	et	NOFLEX	_	_
+9	salon	salon	NOUN	_	_
+
+# sent_id = b.8
+# text = Fiha tlata dial byouta, jouj toiletat o douche, cousina kbira, balcon, o salon kbir.
+# trad_fr = Il a trois chambres, deux toilettes et une douche, grande cuisine, balcon, et grand salon.
+1	Fiha	Il a	VERB	_	_
+2	tlata	trois	NOFLEX	_	_
+3	dial	de	NOFLEX	_	_
+4	byouta	chambres	NOUN	_	_
+5	jouj	deux	NOFLEX	_	_
+6	toiletat	toilettes	NOUN	_	_
+7	o	et	NOFLEX	_	_
+8	douche	douche	NOUN	_	_
+9	cousina	cuisine	NOUN	_	_
+10	kbira	grand	NOUN	_	_
+11	balcon	balcon	NOUN	_	_
+12	o	et	NOFLEX	_	_
+13	salon	salon	NOUN	_	_
+14	kbir	grand	NOUN	_	_
+
+# sent_id = b.9
+# text = Bghit nchri partma lkbira.
+# trad_fr = Je veux acheter le grand appartement.
+1	Bghit	Je veux	VERB	_	_
+2	nchri	acheter	VERB	_	_
+3	partma	appartement	NOUN	_	_
+4	lkbira	grand	NOUN	_	_
+
+# sent_id = b.10
+# text = Mer7ba.
+# trad_fr = Bienvenue.
+1	Mer7ba	Bienvenue	NOFLEX	_	_
+
+# sent_id = a.1
+# text = Salam 3alikum.
+# trad_fr = Salut.
+1	Salam	Salut	NOFLEX	_	_
+2	3alikum	sur toi	NOUN	_	_
+
+# sent_id = a.2
+# text = 3alaikum salam, ach 7eb lkhater?
+# trad_fr = Salut, qu'est-ce que tu voudrais ?
+1	3alaikum	sur toi	NOUN	_	_
+2	salam	salut	NOUN	_	_
+3	ach	quoi	NOUN	_	_
+4	7eb	voudrais	VERB	_	_
+5	lkhater		_	NOUN	_	_
+
+# sent_id = a.3
+# text = Bghit l3aTriya bash nsaweb tajine dyal l’7out.
+# trad_fr = Je veux des épices pour préparer un tajine de poisson.
+1	Bghit	Je veux	VERB	_	_
+2	l3aTriya	épices	NOUN	_	_
+3	bash	pour	NOFLEX	_	_
+4	nsaweb	préparer	VERB	_	_
+5	tajine	tajine	NOUN	_	_
+6	dyal	de	NOFLEX	_	_
+7	l’7out	poisson	NOUN	_	_
+
+# sent_id = a.4
+# text = Menghir lmel7a o libzar, zid kamoun, felfla 7emra, se7ter, o touma.
+# trad_fr = autre que le sel et poivre, ajoutez cumin, paprika, origan, et ail.
+1	Menghir	autre que	NOFLEX	_	_
+2	lmel7a	sel	NOUN	_	_
+3	o	et	NOFLEX	_	_
+4	libzar	poivre	NOUN	_	_
+5	zid	ajoutez	VERB	_	_
+6	kamoun	cumin	NOUN	_	_
+7	felfla	paprika	NOUN	_	_
+8	7emra	rouge	NOUN	_	_
+9	se7ter	origan	NOUN	_	_
+10	o	et	NOFLEX	_	_
+11	touma	ail	NOUN	_	_
+
+# sent_id = a.5
+# text = Koulchi 3endi iLa l’kamoun, 3teni chi rab3a.
+# trad_fr = J'ai tout sauf le cumin, donnez-moi un quart kilo.
+1	Koulchi	Tout	NOUN	_	_
+2	3endi	j'ai	VERB	_	_
+3	iLa	sauf	NOFLEX	_	_
+4	l’kamoun	cumin	NOUN	_	_
+5	3teni	donnez-moi	VERB	_	_
+6	chi	un	NOUN	DET	_
+7	rab3a	quart kilo	NOUN	_	_
+
+# sent_id = a.6
+# text = Wash tebghi chi 7aja khra?
+# trad_fr = Vous voulez autre chose ?
+1	Wash	est ce que	VERB	_	_
+2	tebghi	voulez	VERB	_	_
+3	chi	un	NOUN	_	_
+4	7aja	chose	NOUN	_	_
+5	khra	autre	NOUN	_	_
+
+# sent_id = a.7
+# text = Ayeh, shmen 3aTriya khassani l’tajine dyal djaj.
+# trad_fr = Oui, de quelles épices ai-je besoin pour le tajine de poulet.
+1	Ayeh	Oui	NOFLEX	_	_
+2	shmen	quelles	NOUN	_	_
+3	l3aTriya	épices	NOUN	_	_
+4	khassani	ai-je besoin	VERB	_	_
+5	l’tajine	le tajine	NOUN	_	_
+6	dyal	de	NOFLEX	_	_
+7	djaj	poulet	NOUN	_	_
+
+# sent_id = a.8
+# text = Khassak libzar, skinjbir, l’khar9oum, za3fran, o matensash zitoun.
+# trad_fr = Vous aurez besoin de poivre, de gingembre, de curcuma, de safran, et n'oublies pas les olives.
+1	Khassak	Vous aurez besoin	VERB	_	_
+2	libzar	poivre	NOUN	_	_
+3	skinjbir	gingembre	NOUN	_	_
+4	l’khar9oum	curcuma	NOUN	_	_
+5	za3fran	safran	NOUN	_	_
+6	o	et	NOFLEX	_	_
+7	matensash	n'oublies pa	VERB	_	_
+8	zitoun	olives	NOUN	_	_
+
+# sent_id = a.9
+# text = Achmen zitoun tidar.
+# trad_fr = quelles olives dois-je mettre?
+1	Achmen	quelles	NOFLEX	_	_
+2	zitoun	olives	NOUN	_	_
+3	tidar	mettre	VERB	_	_
+
+# sent_id = a.10
+# text = Aktariya tidirou had lkhder, o kayn li tidir had l’7mer. Koulha o dou9o
+# trad_fr = La plupart utilisent celui-ci vert, d’autres utilisent celui-ci rouge. à chacun son goût
+1	Aktariya	La plupart	NOFLEX		_
+2	tidirou	utilisent	VERB	_	_
+3	had	ce	NOUN	_	_
+4	lkhder	vert	NOUN	_	_
+5	o	et	NOFLEX	_	_
+6	kayn	il y a	VERB	_	_
+7	li	qui	NOUN	_	_
+8	tidir	utilisent	VERB	_	_
+9	had	ce	NOUN	_	_
+10	l’7mer	rouge	NOUN	_	_
+11	Koulha	chacun	NOUN	_	_
+12	o	et	NOFLEX	_	_
+13	dou9o	son goût	VERB	_	_
+
+# sent_id = a.11
+# text = 3tini ness kilo mkhelTa
+# trad_fr = Donne-moi un demi-kilo mélangé.
+1	3tini	donne-moi	VERB	_	_
+2	ness	demi	NOUN	_	_
+3	kilo	kilo	NOUN	_	_
+4	mkhelTa	mélangé	NOUN	_	_
+
+# sent_id = a.12
+# text = Wach nadi?
+# trad_fr = Est-ce que c'est tout ?
+1	Wach	Est-ce que	NOFLEX	_	_
+2	nadi	c'est tout	VERB	_	_
+
+# sent_id = a.13
+# text = Ayeh, hak a sidi tkheless
+# trad_fr = Oui, et voilà monsieur le total.
+1	Ayeh	Oui	NOFLEX	_	_
+2	hak	voilà	NOFLEX	_	_
+3	a	_	NOFLEX	_	_
+4	sidi	monsieur	NOUN	_	_
+5	tkheless	_	VERB	_	_
+
+# sent_id = a.14
+# text = Shoukran
+# trad_fr = Merci
+1	Shoukran	Merci	NOFLEX	_	_
+
+# sent_id = a.15
+# text = Allahi3awen
+# trad_fr = Que Dieu te protège.
+1	Allahi3awen	Que Dieu te protège	NOFLEX	_	_
+
+# sent_id = b.1
+# text = Salam 3alaikum
+# trad_fr = Salut
+1	Salam	Salut	NOFLEX	_	_
+2	3alaikum	sur toi	NOUN	_	_
+
+# sent_id = b.2
+# text = Wa 3alaikum salam, chnu 7eb lkhater?
+# trad_fr = Et sur toi la paix, qu'est-ce que tu veux ?
+1	Wa	Et	NOFLEX	_	_
+2	3alaikum	sur toi	NOUN	_	_
+3	salam	paix	NOUN	_	_
+4	chnu	quoi	NOUN	_	_
+5	7eb	veux	VERB	_	_
+6	lkhater	_	NOUN	_	_
+
+# sent_id = b.3
+# text = 3afak chnu 3endkom?
+# trad_fr = S'il vous plaît, qu'est-ce que vous avez ?
+1	3afak	S'il vous plaît	NOFLEX	_	_
+2	chnu	quoi	NOUN	_	_
+3	3endkom	avez-vous	VERB	_	_
+
+# sent_id = b.4
+# text = Kanbi3o 3atriya, 3choub, o l9atani.
+# trad_fr = nous vendons des épices, des herbes et des haricots
+1	Kanbi3o	Nous vendons	VERB	_	_
+2	3atriya	épices	NOUN	_	_
+3	3choub	herbes	NOUN	_	_
+4	o	et	NOFLEX	_	_
+5	l9atani	haricots	NOUN	_	_
+
+# sent_id = b.5
+# text = Chnu 3endkom?
+# trad_fr = qu'est-ce que vous avez ?
+1	Chnu	qu'est-ce que	NOUN	_	_
+2	3endkoum	vous avez	VERB	_	_
+
+
+# sent_id = b.6
+# text = 3endna mel7a, kamoun, bzar, te7mira, khar9oum, skinjbir, zaafran, 9ronfel, o touma. 3endna zaatar, wer9et moussa, 9erfa, 7aberchad, 7elba, o lbabounj. 3endna lobya, le3dess, roz
+# trad_fr = Nous avons du sel, du cumin, du poivre, du paprika, du curcuma, du gingembre, du safran, du carvi, et de l'ail. Nous avons du origan, feuille de laurier, de la cannelle, _ , du fenugrec, et du camomille. Nous avons des haricots, des lentilles, du riz.
+1	3endna	Nous avons	VERB	_	_
+2	mel7a	sel	NOUN	_	_
+3	,	,	NOFLEX	_	_
+4	kamoun	cumin	NOUN	_	_
+5	,	,	NOFLEX	_	_
+6	bzar	poivre	NOUN	_	_
+7	,	,	NOFLEX	_	_
+8	te7mira	paprika	NOUN	_	_
+9	,	,	NOFLEX	_	_
+10	khar9oum	curcuma	NOUN	_	_
+11	,	,	NOFLEX	_	_
+12	skinjbir	gingembre	NOUN	_	_
+13	,	,	NOFLEX	_	_
+14	zaafran	safran	NOUN	_	_
+15	,	,	NOFLEX	_	_
+16	9ronfel	carvi	NOUN	_	_
+17	,	,	NOFLEX	_	_
+18	o	et	NOFLEX	_	_
+19	touma	ail	NOUN	_	_
+20	.	.	NOFLEX	_	_
+21	3endna	Nous avons	VERB	_	_
+22	zaatar	origan	NOUN	_	_
+23	,	,	NOFLEX	_	_
+24	wer9et	feuille		NOUN	_	_
+25	moussa	laurier	NOUN	_	_
+26	,	,	NOFLEX	_	_
+27	9erfa	cannelle	NOUN	_	_
+28	,	,	NOFLEX	_	_
+29	7aberchad	_	NOUN	_	_
+30	,	,	NOFLEX	_	_
+31	7elba	fenugrec	NOUN	_	_
+32	,	,	NOFLEX	_	_
+33	o	et	NOFLEX	_	_
+34	lbabounj	camomille	NOUN	_	_
+35	.	.	NOFLEX	_	_
+36	3endna	Nous avons	VERB	_	_
+37	lobya	haricots	NOUN	_	_
+38	,	,	NOFLEX	_	_
+39	le3dess	lentilles	NOUN	_	_
+40	,	,	NOFLEX	_	_
+41	roz	riz	NOUN	_	_
+
+
+# sent_id = b.7
+# text = 3tini mel7a.
+# trad_fr = Donne-moi du sel
+1	3tini	Donne-moi	VERB	_	_
+2	mel7a	sel	NOUN	_	_
+
+# sent_id = b.8
+# text = Haka tfedel
+# trad_fr = Voilà s'il vous plaît
+1	Haka	Voilà	NOFLEX	_	_
+2	tfedel	bienvenu	NOFLEX	_	_
+
+# sent_id = c.1
+# text = salamu 3alaykum
+# trad_fr = Que la paix soit sur vous
+1	salamu	salut	NOFLEX	_	_
+2	3alaykum	sur vous	NOUN	_	_
+
+# sent_id = c.2
+# text = ach 7eb lkhater lyoum
+# trad_fr = Qu'est-ce que vous voulez aujourd'hui ?
+1	ach	Qu'est-ce que	NOUN	_	_
+2	7eb	voulez	VERB	_	_
+3	lkhater	_	NOUN	_	_
+4	layoum	aujourd'hui	NOUN	_	_
+
+# sent_id = c.3
+# text = khassni 3aTriya dyal tajine
+# trad_fr = j'ai besoin d'épices pour le tajine
+1	khassni	j'ai besoin	VERB	_	_
+2	3aTriya	épices	NOUN	_	_
+3	dyal	pour	NOFLEX	_	_
+4	tajine	tajine	NOUN	_
+
+# sent_id = c.4
+# text = merhba. Achmen tajine? Kayn dyal djaj oula dl'7out
+# trad_fr = Bienvenue. Quel type de tajine ? Il y a du poulet ou du poisson
+1	merhba.	Bienvenue.	NOFLEX	_	_
+2	Achmen	Quel	NOUN	_	_
+3	tajine	tajine	NOUN	_
+4	Kayn	Il y a	VERB	_	_
+5	dyal	de	NOFLEX	_	_
+6	djaj	poulet	NOUN	_	_
+7	oula	ou	NOFLEX	_	_
+8	dl'7out	poisson		NOUN	_
+
+# sent_id = c.5
+# text = 7out
+# trad_fr = Poisson
+1	7out	Poisson	NOUN	_
+
+# sent_id = c.6
+# text = Menghir lmel7a o libzar, zid kamoun, felfla 7emra, se7ter, o touma.
+# trad_fr = autre que le sel et poivre, ajoutez cumin, paprika, origan, et ail.
+1	Menghir	autre que	NOFLEX	_	_
+2	lmel7a	sel	NOUN	_	_
+3	o	et	NOFLEX	_	_
+4	libzar	poivre	NOUN	_	_
+5	zid	ajoutez	VERB	_	_
+6	kamoun	cumin	NOUN	_	_
+7	felfla	paprika	NOUN	_	_
+8	7emra	rouge	NOUN	_	_
+9	se7ter	origan	NOUN	_	_
+10	o	et	NOFLEX	_	_
+11	touma	ail	NOUN	_	_
+
+# sent_id = c.7
+# text = 3tini se7ter
+# trad_fr = Donne-moi de l'origan
+1	3tini	Donne-moi	VERB	_	_
+2	se7ter	origan	NOUN	_	_
+
+# sent_id = c.8
+# text = sh7al newzen lik?
+# trad_fr = Combien en veux-tu ?
+1	sh7al	Combien	NOUN	_	_
+2	newzen	peser	VERB	_	_
+3	lik	pour toi	NOUN	_	_
+
+# sent_id = c.9
+# text = dir shi rab3a
+# trad_fr = Fais-en un quart de kilo.
+1	dir	Fais	VERB	_	_
+2	shi	un	NOUN	_	_
+3	rab3a	quart de kilo	NOUN	_	_
+
+# sent_id = c.10
+# text = tfedel, wash tebghi shi 7aja khora?
+# trad_fr = bienvenue, qu'est-ce que tu veux d'autre ?
+1	tfedel	bienvenue	NOFLEX	_	_
+2	Wash	est ce que	VERB	_	_
+3	tebghi	voulez	VERB	_	_
+4	chi	un	NOUN	_	_
+5	7aja	chose	NOUN	_	_
+6	khra	autre	NOUN	_	_
+
+# sent_id = c.11
+# text = djaj
+# trad_fr = Poulet
+1	djaj	Poulet	NOUN	_
+
+# sent_id = c.12
+# text = Khassak libzar, skinjbir, l’khar9oum, za3fran, o matensash zitoun.
+# trad_fr = Vous aurez besoin de poivre, de gingembre, de curcuma, de safran, et n'oublies pas les olives.
+1	Khassak	Vous aurez besoin	VERB	_	_
+2	libzar	poivre	NOUN	_	_
+3	skinjbir	gingembre	NOUN	_	_
+4	l’khar9oum	curcuma	NOUN	_	_
+5	za3fran	safran	NOUN	_	_
+6	o	et	NOFLEX	_	_
+7	matensash	n'oublies pa	VERB	_	_
+8	zitoun	olives	NOUN	_	_
+
+# sent_id = c.13
+# text = 3tini skinjbir
+# trad_fr = Donne-moi du gingembre
+1	3tini	Donne-moi	VERB	_	_
+2	skinjbir	gingembre	NOUN	_	_
+
+# sent_id = c.14
+# text = sh7al newzen lik?
+# trad_fr = Combien en veux-tu ?
+1	sh7al	Combien	NOUN	_	_
+2	newzen	peser	VERB	_	_
+3	lik	pour toi	NOUN	_	_
+
+# sent_id = c.15
+# text = dir shi ness kilo
+# trad_fr = Fais-en un demi-kilo.
+1	dir	Fais	VERB	_	_
+2	shi	un	NOUN	_	_
+3	ness	demi	NOUN	_	_
+4	kilo	kilo	NOUN	_	_
+
+# sent_id = c.16
+# text = tfedel, wash tebghi shi 7aja khora?
+# trad_fr = bienvenue, qu'est-ce que tu veux d'autre ?
+1	tfedel	bienvenue	NOFLEX	_	_
+2	Wash	est ce que	VERB	_	_
+3	tebghi	voulez	VERB	_	_
+4	chi	un	NOUN	_	_
+5	7aja	chose	NOUN	_	_
+6	khra	autre	NOUN	_	_
+
+# sent_id = a.1
+# text = Salam, kidayr?
+# trad_fr = Salut, comment ça va ?
+1	Salam,	Salut,	NOFLEX	_	_
+2	kidayr?	comment ça va ?	NOFLEX	_	_
+
+# sent_id = a.2
+# text = Labass al7amdoullilah.
+# trad_fr = Ça va bien, merci à Dieu.
+1	Labass	Ça va bien	NOUN	_	_
+2	al7amdoullilah	merci à Dieu	NOFLEX	_	_
+
+# sent_id = a.3
+# text = Ljew lyouma zwin.
+# trad_fr = Il fait beau aujourd'hui.
+1	Ljew	Le temps	NOUN	_	_
+2	lyouma	aujourd'hui	NOUN	_	_
+3	zwin	beau	NOUN	_	_
+
+# sent_id = a.4
+# text = Ayeh sma safiya o mchemcha dinya. 7sen men ljew dyal lbareh.
+# trad_fr = Oui, le ciel est clair et il fait ensoleillé. Meilleur que le temps d'hier.
+1	Ayeh	Oui	NOFLEX	_	_
+2	sma	ciel	NOUN	_	_
+3	safiya	clair	NOUN	_	_
+4	o	et	NOFLEX	_	_
+5	mchemcha	ensoleillé	NOUN	_	_
+6	dinya	la vie	NOUN	_
+7	7sen	Mieux	NOFLEX	_	_
+8	men	que	NOFLEX	_	_
+9	ljew	le temps	NOUN	_	_
+10	dyal	de	NOFLEX	_	_
+11	lbareh	hier	NOUN	_	_
+
+# sent_id = a.5
+# text = 3endek l7a9, dak re3da o shta tkerfsou 3lina.
+# trad_fr = Tu as raison, la tempête et la pluie étaient terribles.
+1	3endek	Tu as	VERB	_	_
+2	l7a9,	raison,	NOUN	_	_
+3	dak	la	NOUN	_	_
+4	re3da	tempête	NOUN	_	_
+5	o	et	NOFLEX	_	_
+6	shta	pluie	NOUN	_	_
+7	tkerfsou	terribles	VERB	_	_
+8	3lina	pour nous	NOUN	_	_
+
+# sent_id = a.6
+# text = Iwa ma3endek madir.
+# trad_fr = Eh bien, tu ne peux rien faire.
+1	Iwa	Eh bien	NOFLEX	_	_
+2	ma3endek	tu ne peux	VERB	_	_
+3	madir	rien faire	NOUN	_	_
+
+# sent_id = a.7
+# text = 3endak had l3shiya ghadi ikoun shwiya dyal rih, matnessash thez m3ak shi jaketa.
+# trad_fr = Fais attention cet après midi, ça va être un peu venteux, n'oublie pas de prendre une veste avec toi.
+1	3endak	Fais attention	NOFLEX	_	_
+2	had	cet	NOUN	_	_
+3	l3shiya	après midi	NOUN	_	_
+4	ghadi	va	VERB	_	_
+5	ikoun	être	VERB	_	_
+6	shwiya	un peu	NOFLEX	_	_
+7	dyal	de	NOFLEX	_	_
+8	rih	vent	NOUN	_	_
+9	matnessash	n'oublie pas	VERB	_	_
+10	thez	de prendre	VERB	_	_
+11	m3ak	avec toi	NOFLEX	_	_
+12	shi	une	NOUN	_	_
+13	jaketa	veste	NOUN	_	_
+
+# sent_id = a.8
+# text = Shoukran li fekertini, iwa netla9aw gheda.
+# trad_fr = Merci de m'y avoir pensé, rencontrons-nous demain.
+1	Shoukran	Merci	NOUN	_	_
+2	li	de	NOFLEX	_	_
+3	fekertini	pensé	VERB	_	_
+4	iwa	maintenant	NOFLEX	_	_
+5	netla9aw	rencontrons-nous	VERB	_	_
+6	gheda	demain	NOUN	_	_
+
+# sent_id = a.9
+# text = Insha’Allah
+# trad_fr = Si Dieu le veut
+1	Insha’Allah	Si Dieu le veut	NOFLEX	_	_
+
+# sent_id = b.1
+# text = salam
+# trad_fr = Bonjour
+1	salam	Bonjour	NOFLEX	_	_
+
+# sent_id = b.2
+# text = Dial shmen mdina tebghi t3raf ljew?
+# trad_fr = De quelle ville veux-tu connaître la météo ?
+1	Dial	De	NOFLEX	_
+2	shmen	quelle	NOUN	_
+3	mdina	ville	NOUN	_
+4	tebghi	veux-tu	VERB	_
+5	t3raf	connaître	VERB	_
+6	ljew?	la météo	NOUN	_
+
+# sent_id = b.3
+# text = Casablanca, Rbat, Merrakech, Tanja, Fes, Meknes, Ifrane?
+# trad_fr = Casablanca, Rabat, Marrakech, Tanger, Fès, Meknès, Ifrane ?
+1	Casablanca,	Casablanca,	NOFLEX	_
+2	Rbat	Rabat	NOFLEX	_
+3	Merrakech	Marrakech	NOFLEX	_
+4	Tanja	Tanger	NOFLEX	_
+5	Fes	Fès	NOFLEX	_
+6	Meknes	Meknès	NOFLEX	_
+7	Ifrane	Ifrane 	NOFLEX	_
+
+# sent_id = b.4
+# text = Casa
+# trad_fr = Casablanca
+1	Casa	Casablanca	NOFLEX	_
+
+# sent_id = b.5
+# text = Shmen nhar dyal simana?
+# trad_fr = Quel jour de la semaine ?
+1	Shmen	Quel	NOUN	_
+2	nhar	jour	NOUN	_
+3	dyal	de la	NOFLEX	_
+4	simana	semaine	NOUN	_
+
+# sent_id = b.6
+# text = Tnin
+# trad_fr = Lundi
+1	Tnin	Lundi	NOFLEX	_
+
+# sent_id = b.7
+# text = Tnin ghadi ikoun ljew safi ou chaud
+# trad_fr = Lundi sera clair et calme
+1	Tnin	Lundi	NOFLEX	_
+2	ghadi	va	VERB	_
+3	ikoun	être	NOFLEX	_
+4	ljew	le temps	NOUN	_
+5	safi	clair	NOUN	_
+6	dafi	chaud	NOUN	_
+
+# sent_id = b.8
+# text = Rbat
+# trad_fr = Rabat
+1	Rbat	Rabat	NOFLEX	_
+
+# sent_id = b.9
+# text = Shmen nhar dyal simana?
+# trad_fr = Quel jour de la semaine ?
+1	Shmen	Quel	NOUN	_
+2	nhar	jour	NOUN	_
+3	dyal	de la	NOFLEX	_
+4	simana	semaine	NOUN	_
+
+# sent_id = b.10
+# text = Tnin
+# trad_fr = Lundi
+1	Tnin	Lundi	NOFLEX	_
+
+# sent_id = b.11
+# text = Ghadi ikoun shta o rih walakin ghir f sba7. L3shiya atkhroj shems.
+# trad_fr = Il y aura de la pluie et du vent mais seulement le matin. Le soleil sortira par la suite.
+1	ghadi	va	VERB	_
+2	ikoun	être	NOFLEX	_
+3	shta	pluie	NOUN	_
+4	o	et	NOFLEX	_
+5	rih	vent	NOUN	_
+6	walakin	mais	NOFLEX	_
+7	ghir	seulement	NOFLEX	_
+8	f	le	NOUN	_
+9	sba7	matin	NOUN	_
+10	L3shiya	après-midi	NOUN	_
+11	atkhroj	sortira	VERB	_
+12	shems	soleil	NOUN	_
+
+# sent_id = b.12
+# text = Merrakech
+# trad_fr = Marrakech
+1	Merrakech	Marrakech	NOFLEX	_
+
+# sent_id = b.13
+# text = Shmen nhar dyal simana?
+# trad_fr = Quel jour de la semaine ?
+1	Shmen	Quel	NOUN	_
+2	nhar	jour	NOUN	_
+3	dyal	de la	NOFLEX	_
+4	simana	semaine	NOUN	_
+
+# sent_id = b.14
+# text = khmis
+# trad_fr = Jeudi
+1	khmis	Jeudi	NOFLEX	_
+
+# sent_id = b.15
+# text = Ljew ghadi ikoun skhon o yabess
+# trad_fr = le temps sera chaud et sec
+1	Ljew	le temps	NOUN	_
+2	ghadi	va	VERB	_
+3	ikoun	être	NOFLEX	_
+4	skhon	chaud	NOUN	_
+5	o	et	NOFLEX	_
+6	yabess	sec	NOUN	_
+
+# sent_id = b.16
+# text = Tanja
+# trad_fr = Tanger
+1	Tanja	Tanger	NOFLEX	_
+
+# sent_id = b.17
+# text = Shmen nhar dyal simana?
+# trad_fr = Quel jour de la semaine ?
+1	Shmen	Quel	NOUN	_
+2	nhar	jour	NOUN	_
+3	dyal	de la	NOFLEX	_
+4	simana	semaine	NOUN	_
+
+# sent_id = b.18
+# text = gheda
+# trad_fr = Demain
+1	gheda	Demain	NOUN	_
+
+# sent_id = b.19
+# text = Ghadi ikoun rih mjhed o 3ewel 3la shta o r3ad fl 3shiya
+# trad_fr = il y aura des vents forts et comptez sur de la pluie et du tonnerre dans l'après-midi
+1	Ghadi	va	VERB	_
+2	ikoun	être	NOFLEX	_
+3	rih	vents	NOUN	_
+4	mjhed	forts	NOUN	_
+5	o	et	NOFLEX	_
+6	3ewel	comptez	VERB	_
+7	3la	sur	NOFLEX	_
+8	shta	pluie	NOUN	_
+9	o	et	NOFLEX	_
+10	r3ad	tonnerre	NOUN	_
+11	fl	dans	NOFLEX	_
+12	3shiya	l'après-midi	NOUN	_
+
+# sent_id = b.20
+# text = Fes
+# trad_fr = Fès
+1	Fes	Fès	NOFLEX	_
+
+# sent_id = b.21
+# text = Shmen nhar dyal simana?
+# trad_fr = Quel jour de la semaine ?
+1	Shmen	Quel	NOUN	_
+2	nhar	jour	NOUN	_
+3	dyal	de la	NOFLEX	_
+4	simana	semaine	NOUN	_
+
+# sent_id = b.22
+# text = Tlat
+# trad_fr = Mardi
+1	Tlat	Mardi	NOFLEX	_
+
+# sent_id = b.23
+# text = ljew mchemech walakin shwiya dyal ri7
+# trad_fr = le temps sera ensoleillé mais un peu venteux
+1	ljew	le temps	NOUN	_
+2	mchemech	ensolleillé	NOUN	_
+3	walakin	mais	NOFLEX	_
+4	shwiya	un peu	NOFLEX	_
+5	dyal	de	NOFLEX	_
+6	ri7	vent	NOUN	_
+
+# sent_id = b.24
+# text = Meknes
+# trad_fr = Meknès
+1	Meknes	Meknès	NOFLEX	_
+
+# sent_id = b.25
+# text = Shmen nhar dyal simana?
+# trad_fr = Quel jour de la semaine ?
+1	Shmen	Quel	NOUN	_
+2	nhar	jour	NOUN	_
+3	dyal	de la	NOFLEX	_
+4	simana	semaine	NOUN	_
+
+# sent_id = b.26
+# text = sebt
+# trad_fr = Samedi
+1	sebt	Samedi	NOFLEX	_
+
+# sent_id = b.27
+# text = l7al skhoun walakin t9der t9eTer shwiya shta
+# trad_fr = il fera chaud mais il risque de pleuvoir un peu
+1	l7al	le temps	NOUN	_
+2	skhoun	chaud	NOUN	_
+3	walakin	mais	NOFLEX	_
+4	t9der	pourrait	VERB	_
+5	t9eTer	gouttes	VERB	_
+6	shwiya	un peu	NOFLEX	_
+7	shta	pluie	NOUN	_
+
+# sent_id = b.28
+# text = Ifrane
+# trad_fr = Ifrane
+1	Ifrane	Ifrane	NOFLEX	_
+
+# sent_id = b.29
+# text = Shmen nhar dyal simana?
+# trad_fr = Quel jour de la semaine ?
+1	Shmen	Quel	NOUN	_
+2	nhar	jour	NOUN	_
+3	dyal	de la	NOFLEX	_
+4	simana	semaine	NOUN	_
+
+# sent_id = b.30
+# text = jem3a
+# trad_fr = Vendredi
+1	jem3a	Vendredi	NOFLEX	_
+
+# sent_id = b.31
+# text = jem3a ghaykoun l7al bared o mina lmou7tamal iTi7 telj
+# trad_fr = il fera froid vendredi et il pourrait neiger
+1	jem3a	Vendredi	NOFLEX	_
+2	ghaykoun	sera	NOFLEX	_
+3	l7al	le temps	NOUN	_
+4	bared	froid	NOUN	_
+5	o	et	NOFLEX	_
+6	mina	dans	NOFLEX	_
+7	lmou7tamal	possible	NOUN	_
+8	iTi7	tomber	VERB	_
+9	telj	neige	NOUN	_

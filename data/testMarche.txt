@@ -1,0 +1,507 @@
+Corpus data written by Danya Tazi Mokha, Youssef Mouhim and Hajar Mrabet.
+Tagged by Danya April 8th 2024.
+Data is in conversation and tree format.
+
+# sent_id = a.1
+# text = Sba7 lkhir, bch7al maTisha?
+# trad_fr = Bonjour, combien coûte la tomate ?
+1	Sba7	Bonjour	INTJ	_	_
+2	lkhir	bonne matinée	NOUN	_	_
+3	,	,	PUNCT	_	_
+4	bch7al	combien coûte	ADV	_	_
+5	maTisha	tomate	NOUN	_	_
+
+# sent_id = a.2
+# text = Hadi b 3echra drahem, o sghira b teltash
+# trad_fr = Ceci est dix dirhams, et c'est petit pour treize.
+1	Hadi	Ceci	PRON	_	_
+2	b	est	VERB	_	_
+3	3echra	dix	NUM	_	_
+4	drahem	dirhams	NOUN	_	_
+5	,	,	PUNCT	_	_
+6	o	et	CCONJ	_	_
+7	sghira	petit	ADJ	_	_
+8	b	pour	VERB	_	_
+9	teltash	treize	NUM	_
+
+# sent_id = a.3
+# text = 3tini kilo o ness men lkbira, o kilo lareb d’sghira. O lger3a sh7al kadir?
+# trad_fr = donnez-moi un kilo et demi du gros et un kilo et quart du petit. et combien coûtent les courgettes
+1	3tini	Donnez-moi	VERB	_	_
+2	kilo	kilo	NOUN	_	_
+3	o	et	CCONJ	_	_
+4	ness	demi	NOUN	_	_
+5	men	du	PREP	_	_
+6	lkbira	gros	ADJ	_	_
+7	,	,	PUNCT	_	_
+8	o	et	CCONJ	_	_
+9	kilo	kilo	NOUN	_	_
+10	lareb	quart	NOUN	_	_
+11	d’sghira	du petit	ADJ	_	_
+12	.	.	PUNCT	_	_
+13	O	et	CCONJ	_	_
+14	lger3a	courgettes	NOUN	_	_
+15	sh7al	combien	ADV	_	_
+16	kadir	coûte	VERB	_	_
+
+# sent_id = a.4
+# text = Wash lger3a lkhedra oula slawiya oula l’7emra?
+# trad_fr = les courgettes vertes, slawiya ou rouges?
+1	Wash	Est-ce que	INT	_	_
+2	lger3a	courgettes	NOUN	_	_
+3	lkhedra	vertes	ADJ	_	_
+4	oula	ou	CCONJ	_	_
+5	slawiya	_	ADJ	_	_
+6	oula	ou	CCONJ	_	_
+7	l’7emra	rouges	ADJ	_
+
+# sent_id = a.5
+# text = Ghir l3adiya
+# trad_fr = Juste la normale
+1	Ghir	Juste	ADV	_	_
+2	l3adiya	normale	ADJ	_	_
+
+# sent_id = a.6
+# text = Seb3a drahem, b7alha b7al khizou o lkhyar
+# trad_fr = Sept dirhams, comme les carottes et les concombres
+1	Seb3a	Sept	NUM	_	_
+2	drahem	dirhams	NOUN	_	_
+3	,	,	PUNCT	_	_
+4	b7alha	comme	ADP	_	_
+5	b7al	comme	ADP	_	_
+6	khizou	carottes	NOUN	_	_
+7	o	et	CCONJ	_	_
+8	lkhyar	concombres	NOUN	_
+
+# sent_id = a.7
+# text = Dirli ness kilo men koul 7aja.
+# trad_fr = donne-moi un demi-kilo de tout choses
+1	Dirli	Donne-moi	VERB	_	_
+2	ness	demi	ADJ	_	_
+3	kilo	kilo	NOUN	_	_
+4	men	de	ADP	_	_
+5	koul	tout	PRON	_	_
+6	7aja.	choses	NOUN	_
+
+# sent_id = a.8
+# text = Nwezen lik shi 7aja khra?
+# trad_fr = Vous voulez quelque chose d'autre ?
+1	Nwezen	Voulez-vous	VERB	_	_
+2	lik	vous	PRON	_	_
+3	shi	quelque	DET	_	_
+4	7aja	chose	NOUN	_	_
+5	khra	autre	ADJ	_	_
+
+# sent_id = a.9
+# text = Ah, zidni kilo dyal lbessla o rab3a dyal touma
+# trad_fr = Oui, donne-moi un kilo d'onions et un quart d'ail.
+1	Ah	Oui	INTJ	_	_
+2	zidni	donne-moi	VERB	_	_
+3	kilo	kilo	NOUN	_	_
+4	dyal	de	ADP	_	_
+5	lbessla	onions	NOUN	_	_
+6	o	et	CCONJ	_	_
+7	rab3a	un quart	NUM	_	_
+8	dyal	de	ADP	_	_
+9	touma	ail	NOUN	_
+
+# sent_id = a.10
+# text = Tebghi lbessla l7emra oula lbeda?
+# trad_fr = Vous voulez des onions rouges ou blanches ?
+1	Tebghi	Vous voulez	VERB	_	_
+2	lbessla	onions	NOUN	_	_
+3	l7emra	rouge	ADJ	_	_
+4	oula	ou	CCONJ	_	_
+5	lbeda	blanche	ADJ	_
+
+# sent_id = a.11
+# text = Lbeda 3afak
+# trad_fr = Les blanches s'il vous plaît
+1	Lbeda	Blanches	ADJ	_	_
+2	3afak	s'il vous plaît	INTJ	_	_
+
+# sent_id = a.12
+# text = Njme3 lik l7sab?
+# trad_fr = je compte ton total ?
+1	Njme3	je compte	VERB	_	_
+2	lik	ton	PRON	_	_
+3	l7sab?	total	NOUN	_	_
+
+# sent_id = a.13
+# text = Wakha, masheftsh 3endek l’dessert?
+# trad_fr = D'accord, est-ce que vous avez des fruits ?
+1	Wakha	D'accord	INTJ	_	_
+2	masheftsh	vu	VERB	_	_
+3	3endek	chez vous	PRON	_	_
+4	l’dessert?	fruits	NOUN	_	_
+
+# sent_id = a.14
+# text = Zid shwiya ldakhel o tjber malin dessert.
+# trad_fr = Allez plus loin et vous trouverez ceux qui vendent des fruits
+1	Zid	Allez	VERB	_	_
+2	shwiya	un peu	ADV	_	_
+3	ldakhel	à l'intérieur	ADP	_	_
+4	o	et	CCONJ	_	_
+5	tjber	trouverez	VERB	_	_
+6	malin	ceux	NOUN	_	_
+7	dessert.	fruits	NOUN	_
+
+# sent_id = a.15
+# text = Shoukran llay3awen
+# trad_fr = Merci beaucoup
+1	Shoukran	Merci	NOUN	_	_
+2	llay3awen	que Dieu vous aide	INTJ	_
+
+# sent_id = b.1
+# text = Tfedel rah l’banane ghir b’tmenya drahem
+# trad_fr = bienvenue, les bananes ne coûtent que huit dirhams
+1	Tfedel	bienvenue	INTJ	_	_
+2	rah	_	PRON	_	_
+3	l’banane	banane	NOUN	_	_
+4	ghir	seulement	ADV	_	_
+5	b’tmenya	pour huit	NUM	_	_
+6	drahem	dirhams	NOUN	_
+
+# sent_id = b.2
+# text = o tefah l’khder bsh7al?
+# trad_fr = Et la pomme verte, combien ?
+1	o	Et	CCONJ	_	_
+2	tefah	pomme	NOUN	_	_
+3	l’khder	verte	ADJ	_	_
+4	bsh7al?	combien	ADV	_
+
+# sent_id = b.3
+# text = hadak ghali shwiya dayer khemsemya d’ryal
+# trad_fr = Celui-là est un peu cher, ça fait cinq cents réal
+1	hadak	Celui-là	DET	_	_
+2	ghali	cher	ADJ	_	_
+3	shwiya	un peu	ADV	_	_
+4	dayer	c'est	VERB	_	_
+5	khemsemya	cinq cents	NUM	_	_
+6	d’ryal	ryal	NOUN	_
+
+# sent_id = b.4
+# text = sh7al hiya b’derham
+# trad_fr = Combien ça coûte en dirhams ?
+1	sh7al	Combien	ADV	_	_
+2	hiya	ça	PRON	_	_
+3	b’derham	en dirhams	NOUN	_
+
+# sent_id = b.5
+# text = hiya khemsa o 3eshrin derham
+# trad_fr = Ça fait vingt-cinq dirhams
+1	hiya	C'est	VERB	_	_
+2	khemsa	cinq	NUM	_	_
+3	o	et	CCONJ	_	_
+4	3eshrin	vingt	NUM	_
+5	derham	dirham	NOUN
+
+# sent_id = b.6
+# text = la had taman bezzaf 3liya. 3teni men l3ineb
+# trad_fr = Non, c'est trop cher pour moi. Donnez-moi du raisin
+1	la	Non	INTJ	_	_
+2	had	c'est	DET	_	_
+3	taman	chère	NOUN	_	_
+4	bezzaf	trop	ADJ	_	_
+5	3liya.	pour moi	PRON	_	_
+6	3teni	Donnez-moi	VERB	_	_
+7	men	du	ADP	_	_
+8	l3ineb	raisin	NOUN	_
+
+# sent_id = b.7
+# text = wash l7mer oula lmouska
+# trad_fr = le rouge ou moussa ?
+1	wash	_	ADV	_	_
+2	l7mer	rouge	ADJ	_	_
+3	oula	ou	CCONJ	_	_
+4	lmouska	lmouska		ADJ	_
+
+# sent_id = b.8
+# text = 3teni ghi chi ness kilo men l’7mer
+# trad_fr = Donnez-moi juste un demi-kilo des rouges
+1	3teni	Donnez-moi	VERB	_	_
+2	ghi	juste	ADV	_	_
+3	chi	un	DET	_	_
+4	ness	demi	ADJ	_	_
+5	kilo	kilo	NOUN	_	_
+6	men	de	ADP	_	_
+7	l’7mer	rouge	ADJ	_
+
+# sent_id = b.9
+# text = man3berliksh chi shwiya dl’fraise aw 7abelmlouk?
+# trad_fr = Ne voulez-vous pas un peu de fraises ou de cerises ?
+1	man3berliksh	voulez-vous pas	VERB	_	_
+2	chi	un	DET	_	_
+3	shwiya	un peu	ADV	_	_
+4	dl’fraise	de fraises	NOUN	_	_
+5	aw	ou	CCONJ	_	_
+6	7abelmlouk?	cerises 	NOUN	_
+
+# sent_id = b.10
+# text = zid wahed korba sghira dyal 7abelmlouk
+# trad_fr = Ajoutez un petit plateau de cerises
+1	zid	Ajoutez	VERB	_	_
+2	wahed	une	NUM	_	_
+3	korba	plateau 	NOUN	_	_
+4	sghira	petite	ADJ	_	_
+5	dyal	de	ADP	_	_
+6	7abelmlouk	cerises 	NOUN	_
+
+# sent_id = b.11
+# text = o lkhoukh?
+# trad_fr = Et les pêches ?
+1	o	Et	CCONJ	_	_
+2	lkhoukh?	pêches	NOUN	_	_
+
+# sent_id = b.12
+# text = la baraka 3liya, sh7al jatek.
+# trad_fr = Non, ça me suffit, combien pour le tout ?
+1	la	Non	INTJ	_	_
+2	baraka	suffit	NOUN	_	_
+3	3liya	me	PRON	_	_
+4	sh7al	combien	ADV	_	_
+5	jatek	pour le tout	VERB	_	_	
+
+# sent_id = b.13
+# text = ha l’mejmou3
+# trad_fr = Voici le total
+1	ha	Voici	ADV	_	_
+2	l’mejmou3	total	NOUN	_
+
+# sent_id = b.14
+# text = llah ijib tisir.
+# trad_fr = Que Dieu vous apporte du succès
+1	llah	Que Dieu	INTJ	_	_
+2	ijib	apporte	VERB	_	_
+3	tisir	succès	NOUN	_
+
+# sent_id = c.1
+# text = Salam, kan9lb 3la 5dra tria. Wach kayna sl3a?
+# trad_fr = Bonjour je cherche des légumes frais. en avez-vous en stock ?
+1	Salam	Bonjour	INTJ	_	_
+3	kan9lb	je cherche	VERB	_	_
+4	3la	des	ADP	_	_
+5	5dra	légumes	NOUN	_	_
+6	tria	frais	ADJ	_	_
+7	Wach	Est-ce que	SCONJ	_	_
+8	kayna	avez-vous	VERB	_	_
+9	sl3a?	stock	NOUN	_	_
+
+# sent_id = c.2
+# text = M3lom! Yalah jbna lkhdra had sba7 nit.
+# trad_fr = Bien sûr ! Nous venons d'apporter des légumes frais ce matin
+1	M3lom!	Bien sûr	INTJ	_	_
+2	Yalah	nous venons	ADV	_	_
+3	jbna	nous avons acheté	VERB	_	_
+4	lkhdra	légumes	NOUN	_	_
+5	had	ce	DET	_	_
+6	sba7	matin	NOUN	_	_
+7	nit	_	ADV	_	_
+
+# sent_id = c.3
+# text = Jit nt9da bach nsayb chlada. Kayn maticha?
+# trad_fr = Je suis venu pour acheter des légumes pour faire une salade. Est-ce qu'il y a des tomates ?
+1	Jit	Je suis venu	VERB	_	_
+2	nt9da	pour acheter	VERB	_	_
+3	bach	afin de		CCONJ	_	_
+4	nsayb	faire	VERB	_	_
+5	chlada	salade	NOUN	_	_
+6	Kayn	Est-ce qu'il y a	VERB	_	_
+7	maticha?	tomates	NOUN	_	_
+
+# sent_id = c.4
+# text = Hahia 7da l’avoca
+# trad_fr = c'est à côté de l'avocat
+1	Hahia	c'est	INTJ	_	_
+2	7da	à côté 	ADP	_	_
+3	l’avoca	avocats	NOUN	_	_
+
+# sent_id = c.5
+# text = Zwina sl3a, ara chbka nakhd lbsla tahia.
+# trad_fr = Super, donne-moi le panier pour que je prenne aussi des oignons
+1	Zwina	Super	ADJ	_	_
+2	sl3a,	produits	NOUN	_	_
+3	ara	donne-moi	VERB	_	_
+4	chbka	panier		NOUN	_	_
+5	nakhd	lje prenne	VERB	_	_
+6	lbsla	oignons	NOUN	_	_
+7	tahia	aussi	ADV	_	_
+
+# sent_id = c.6
+# text = Tfdl. Chi 7aja khra ?
+# trad_fr = Bienvenue. Est-ce que tu veux autre chose ?
+1	Tfdl.	Bienvenue.	INTJ	_	_
+2	Chi	_	DET	_	_
+3	7aja	chose	NOUN	_	_
+4	khra	autre	ADJ	_
+
+# sent_id = c.7
+# text = 3ndk l9zbor?
+# trad_fr = Est-ce que vous avez du coriandre ?
+1	3ndk	Avez-vous	VERB	_	_
+2	l9zbor	coriandre	NOUN	_	_
+
+# sent_id = c.8
+# text = Ra hwa f jiht rbi3. Yakma n3zl lik ?
+# trad_fr = Oui, c'est à côté des herbes. Est-ce que je choisis pour toi?
+1	Ra	c'est	ADV	_	_
+2	hwa	il	PRON	_	_
+3	f	est	ADP	_	_
+4	jiht	côté	NOUN	_	_
+5	rbi3	herbes	NOUN	_	_
+6	Yakma	Est-ce que	INTJ	_	_
+7	n3zl	je choisis	VERB	_	_
+8	lik 	pour toi	PRON	_
+
+# sent_id = c.9
+# text = Dir wa7d l9tfa.
+# trad_fr = ajoute un paquet
+1	Dir	ajoute	VERB	_	_
+2	wa7d	un	NUM	_	_
+3	l9tfa	paquet	NOUN	_	_
+
+# sent_id = c.10
+# text = Hia lwla
+# trad_fr = C'est le premier.
+1	Hia	C'est	VERB	_	_
+2	lwla	premier	ADJ	_	_
+
+# sent_id = c.11
+# text = Safi jm3 lia koulchi 3afak.
+# trad_fr = c'est tout, rassemble tout s'il te plaît.
+1	Safi	c'est tout	ADV	_	_
+2	jm3	rassemble	VERB	_	_
+3	lia	pour moi	PRON	_	_
+4	koulchi	tout	PRON	_	_
+5	3afak.	s'il te plaît.	ADV	_
+
+# sent_id = c.12
+# text = Jatk 50dh
+# trad_fr = Le total est 50dh
+1	Jatk	Le total est	VERB	_	_
+2	50dh	50dh	NUM	_
+
+# sent_id = c.13
+# text = Choukran, tfedel.
+# trad_fr = Merci, et voilà
+1	Choukran,	Merci,	INTJ	_	_
+2	tfdl	et voilà	VERB	_
+
+# sent_id = c.14
+# text = Mar7ba
+# trad_fr = Bienvenue
+1	Mar7ba	Bienvenue	INTJ	_	_
+
+# sent_id = d.1
+# text = Mer7ba bik a sidi, fach n9dr n3awnek?
+# trad_fr = Bienvenue monsieur, comment puis-je vous aider ?
+1	Mer7ba	Bienvenue	NOUN	_	_
+2	bik	à vous	PRON	_	_
+3	a	sur	PART	_	_
+4	sidi	monsieur	NOUN	_	_
+5	fach	comment	ADV	_	_
+6	n9dr	puis-je	VERB	_	_
+7	n3awnek	vous aider	VERB	_
+
+# sent_id = d.2
+# text = Bghit nchri lkhodra
+# trad_fr = Je veux acheter des légumes.
+1	Bghit	Je veux	VERB	_	_
+2	nchri	acheter	VERB	_	_
+3	lkhodra	des légumes.	NOUN	_
+
+# sent_id = d.3
+# text = 3endna bzaf dial anwa3 dial khodra. Kin ger3a 7emra, ger3a khedra, khizo, maticha, denjal, khiyar, bassla, felfa 7lowa, btata, brocoli, khoss, btata 7lowa, lfjel, o lobya.
+# trad_fr = Nous avons beaucoup de types de légumes. Comme la citrouille, les courgettes, les carottes, les tomates, les aubergines, les concombres, les oignons, les poivrons sucrés, les pommes de terre, le brocoli, la laitue, les patates douces, les radis, et les haricots.
+1	3endna	Nous avons	VERB	_	_
+2	bzaf	beaucoup	ADV	_	_
+3	dial	de	ADP	_	_
+4	anwa3	types	NOUN	_	_
+5	dial	de	ADP	_	_
+6	khodra	légumes	NOUN	_
+7	Kin	Comme	ADP	_	_
+8	ger3a	citrouille	NOUN	_	_
+9	7emra	rouge	ADJ	_	_
+10	ger3a	courgettes	NOUN	_	_
+11	khizo	carottes	NOUN	_	_
+12	maticha	tomate	NOUN	_	_
+13	denjal	aubergines	NOUN	_	_
+14	khiyar	concombres	NOUN	_
+15	bassla	oignons	NOUN	_
+16	felfa	poivrons	NOUN	_	
+17	7lowa	sucrés	ADJ	_
+18	btata	pommes de terre	NOUN	_
+19	brocoli	brocoli	NOUN	_
+20	khoss	laitue	NOUN	_
+21	btata	pommes de terre	NOUN	_
+22	7lowa	douces	ADJ	_
+23	lfjel	radis	NOUN	_
+24	o	et	CCONJ	_
+25	lobya	haricots	NOUN	_
+
+# sent_id = d.4
+# text = Bghit nchri lfawakih
+# trad_fr = Je veux acheter des fruits.
+1	Bghit	Je veux	VERB	_	_
+2	nchri	acheter	VERB	_	_
+3	lfawakih	des fruits	NOUN	_
+
+# sent_id = d.5
+# text = 3endna bzaf dial anwa3 dial fawakih. Kin limoun, toffa7, mandarine, banane, kiwi, dela7, swihla, karmouss, avocat, l3neb, mangue, bo3wid, 7ab lmlouk, o lkhoukh.
+# trad_fr = Nous avons beaucoup de types de fruits. Comme les oranges, les pommes, les mandarines, les bananes, les kiwis, le pastèque, les melons, les figues, les avocats, les raisins, les mangues, les poires, les cerises, et les pêches.
+1	3endna	Nous avons	VERB	_	_
+2	bzaf	beaucoup	ADV	_	_
+3	dial	de	ADP	_	_
+4	anwa3	types	NOUN	_	_
+5	dial	de	ADP	_	_
+6	fawakih	fruits	NOUN	_
+7	Kin	Comme	ADP	_	_
+8	limoun	oranges	NOUN	_
+9	toffa7	pommes	NOUN	_
+10	mandarine	mandarines	NOUN	_
+11	banane	bananes	NOUN	_
+12	kiwi	kiwis	NOUN	_
+13	dela7	pastèque	NOUN	_
+14	swihla	melons,	NOUN	_
+15	karmouss	figues	NOUN	_
+16	avocat	avocat	NOUN	_
+17	l3neb	raisins	NOUN	_
+18	mangue	mangue	NOUN	_
+19	bo3wid	poire	NOUN	_
+20	7ab lmlouk	cerises	NOUN	_
+21	o	et	CCONJ	_
+22	lkhoukh.	pêches.	NOUN	_
+
+# sent_id = d.6
+# text = 3tini tefa7.
+# trad_fr = Donnez-moi les pommes.
+1	3tini	Donnez-moi	VERB	_	_
+2	tefa7	pommes	NOUN	_	_
+
+# sent_id = d.7
+# text = ch7al bghiti? rab3a, ness kilo, kilo larob, ola kilo?
+# trad_fr = Combien voulez-vous ? Un quart, un demi-kilo, trois quarts de kilo, ou un kilo ?
+1	ch7al	Combien	ADV	_	_
+2	bghiti	voulez-vous 	VERB	_	_
+3	rab3a	un quart,	NUM	_	_
+4	ness	demi	ADJ	_	_
+5	kilo	kilo	NOUN	_
+6	kilo	kilo	NOUN	_	_
+6	larob	trois quarts	NUM	_
+7	ola	ou	CCONJ	_
+8	kilo	kilo	NOUN	_
+
+# sent_id = d.8
+# text = Bghit kilo.
+# trad_fr = Je veux un kilo.
+1	Bghit	Je veux	VERB	_	_
+2	kilo	kilo	NOUN	_	_
+
+# sent_id = d.9
+# text = Tfedel a sidi. Lay3awn.
+# trad_fr = voilà monsieur. Que Dieu t'aide.
+1	Tfedel	voila	INTJ	_	_
+2	a	à	ADP	_	_
+3	sidi	monsieur	NOUN	_
+4	Lay3awn	Que Dieu t'aide	INTJ	_
+
